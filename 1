@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "train_voc.py", line 54, in <module>
+    args = parser.parse_args()
+  File "/usr/lib/python3.5/argparse.py", line 1738, in parse_args
+    self.error(msg % ' '.join(argv))
+  File "/usr/lib/python3.5/argparse.py", line 2392, in error
+    self.print_usage(_sys.stderr)
+  File "/usr/lib/python3.5/argparse.py", line 2362, in print_usage
+    self._print_message(self.format_usage(), file)
+  File "/usr/lib/python3.5/argparse.py", line 2328, in format_usage
+    return formatter.format_help()
+  File "/usr/lib/python3.5/argparse.py", line 287, in format_help
+    help = self._root_section.format_help()
+  File "/usr/lib/python3.5/argparse.py", line 217, in format_help
+    func(*args)
+  File "/usr/lib/python3.5/argparse.py", line 325, in _format_usage
+    action_usage = format(optionals + positionals, groups)
+  File "/usr/lib/python3.5/argparse.py", line 396, in _format_actions_usage
+    start = actions.index(group._group_actions[0])
+IndexError: list index out of range

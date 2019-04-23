@@ -1,0 +1,280 @@
+/cephfs/person/jawnrwen/to_WenWei/ssd.pytorch/ssd.py:34: UserWarning: volatile was removed and now has no effect. Use `with torch.no_grad():` instead.
+  self.priors = Variable(self.priorbox.forward(), volatile=True)
+Loading base network...
+Initializing weights...
+train_voc.py:220: UserWarning: nn.init.xavier_uniform is now deprecated in favor of nn.init.xavier_uniform_.
+  init.xavier_uniform(param)
+Loading the dataset...
+Training SSD on: VOC0712
+Using the specified args:
+Namespace(basenet='vgg16_reducedfc.pth', batch_size=32, cuda=True, dataset='VOC', dataset_root='./data/VOC/VOCdevkit/', gamma=0.1, lr=0.001, momentum=0.9, num_workers=4, resume=None, save_folder='weights/', start_iter=0, visdom=False, weight_decay=0.0005)
+train_voc.py:175: UserWarning: volatile was removed and now has no effect. Use `with torch.no_grad():` instead.
+  targets = [Variable(ann.cuda(), volatile=True) for ann in targets]
+/usr/local/lib/python3.5/dist-packages/torch/nn/functional.py:52: UserWarning: size_average and reduce args will be deprecated, please use reduction='sum' instead.
+  warnings.warn(warning.format(ret))
+train_voc.py:189: UserWarning: invalid index of a 0-dim tensor. This will be an error in PyTorch 0.5. Use tensor.item() to convert a 0-dim tensor to a Python number
+  loc_loss += loss_l.data[0]
+train_voc.py:190: UserWarning: invalid index of a 0-dim tensor. This will be an error in PyTorch 0.5. Use tensor.item() to convert a 0-dim tensor to a Python number
+  conf_loss += loss_c.data[0]
+timer: 10.3313 sec.
+train_voc.py:194: UserWarning: invalid index of a 0-dim tensor. This will be an error in PyTorch 0.5. Use tensor.item() to convert a 0-dim tensor to a Python number
+  print('iter ' + repr(iteration) + ' || Loss: %.4f ||' % (loss.data[0]))
+iter 0 || Loss: 26.2408 ||
+timer: 0.2710 sec.
+iter 10 || Loss: 16.0834 ||
+timer: 0.2778 sec.
+iter 20 || Loss: 14.9499 ||
+timer: 0.2800 sec.
+iter 30 || Loss: 16.4427 ||
+timer: 0.2828 sec.
+iter 40 || Loss: 12.5115 ||
+timer: 0.2797 sec.
+iter 50 || Loss: 11.2212 ||
+timer: 0.2906 sec.
+iter 60 || Loss: 11.4372 ||
+timer: 0.2823 sec.
+iter 70 || Loss: 11.2757 ||
+timer: 0.2868 sec.
+iter 80 || Loss: 10.3403 ||
+timer: 0.2757 sec.
+iter 90 || Loss: 12.1493 ||
+timer: 0.2816 sec.
+iter 100 || Loss: 11.1976 ||
+timer: 0.2644 sec.
+iter 110 || Loss: 11.1391 ||
+timer: 0.2791 sec.
+iter 120 || Loss: 10.1420 ||
+timer: 0.2790 sec.
+iter 130 || Loss: 10.7026 ||
+timer: 0.2805 sec.
+iter 140 || Loss: 10.8933 ||
+timer: 0.2824 sec.
+iter 150 || Loss: 8.5309 ||
+timer: 0.2870 sec.
+iter 160 || Loss: 8.7574 ||
+timer: 0.2800 sec.
+iter 170 || Loss: 13.8427 ||
+timer: 0.2787 sec.
+iter 180 || Loss: 13.4238 ||
+timer: 0.2832 sec.
+iter 190 || Loss: 9.8143 ||
+timer: 0.2810 sec.
+iter 200 || Loss: 8.4790 ||
+timer: 0.2827 sec.
+iter 210 || Loss: 8.8145 ||
+timer: 0.2785 sec.
+iter 220 || Loss: 9.2362 ||
+timer: 0.2818 sec.
+iter 230 || Loss: 8.5615 ||
+timer: 0.2776 sec.
+iter 240 || Loss: 9.5601 ||
+timer: 0.2773 sec.
+iter 250 || Loss: 9.3055 ||
+timer: 0.2857 sec.
+iter 260 || Loss: 9.4755 ||
+timer: 0.2936 sec.
+iter 270 || Loss: 9.0714 ||
+timer: 0.2748 sec.
+iter 280 || Loss: 7.9223 ||
+timer: 0.2887 sec.
+iter 290 || Loss: 14.4805 ||
+timer: 0.2910 sec.
+iter 300 || Loss: 14.7451 ||
+timer: 0.2774 sec.
+iter 310 || Loss: 10.1190 ||
+timer: 0.2798 sec.
+iter 320 || Loss: 8.5708 ||
+timer: 0.2948 sec.
+iter 330 || Loss: 10.8589 ||
+timer: 0.2780 sec.
+iter 340 || Loss: 7.8159 ||
+timer: 0.3050 sec.
+iter 350 || Loss: 9.1719 ||
+timer: 0.2829 sec.
+iter 360 || Loss: 13.2741 ||
+timer: 0.2758 sec.
+iter 370 || Loss: 10.1483 ||
+timer: 0.2781 sec.
+iter 380 || Loss: 9.6424 ||
+timer: 0.2802 sec.
+iter 390 || Loss: 9.6095 ||
+timer: 0.2769 sec.
+iter 400 || Loss: 8.5444 ||
+timer: 0.2699 sec.
+iter 410 || Loss: 8.1939 ||
+timer: 0.2801 sec.
+iter 420 || Loss: 7.7241 ||
+timer: 0.2802 sec.
+iter 430 || Loss: 8.1629 ||
+timer: 0.2786 sec.
+iter 440 || Loss: 7.9062 ||
+timer: 0.2829 sec.
+iter 450 || Loss: 7.7714 ||
+timer: 0.2876 sec.
+iter 460 || Loss: 7.5348 ||
+timer: 0.1880 sec.
+iter 470 || Loss: 7.6321 ||
+timer: 0.2816 sec.
+iter 480 || Loss: 8.8992 ||
+timer: 0.2852 sec.
+iter 490 || Loss: 8.3231 ||
+timer: 0.2806 sec.
+iter 500 || Loss: 8.8991 ||
+timer: 0.2802 sec.
+iter 510 || Loss: 7.9380 ||
+timer: 0.2757 sec.
+iter 520 || Loss: 7.8332 ||
+timer: 0.2742 sec.
+iter 530 || Loss: 6.7330 ||
+timer: 0.2831 sec.
+iter 540 || Loss: 6.6517 ||
+timer: 0.2827 sec.
+iter 550 || Loss: 7.1814 ||
+timer: 0.2873 sec.
+iter 560 || Loss: 7.2442 ||
+timer: 0.2800 sec.
+iter 570 || Loss: 6.5352 ||
+timer: 0.2796 sec.
+iter 580 || Loss: 6.3512 ||
+timer: 0.2699 sec.
+iter 590 || Loss: 7.2747 ||
+timer: 0.2830 sec.
+iter 600 || Loss: 6.8197 ||
+timer: 0.2824 sec.
+iter 610 || Loss: 6.9242 ||
+timer: 0.2788 sec.
+iter 620 || Loss: 6.8392 ||
+timer: 0.2872 sec.
+iter 630 || Loss: 6.9595 ||
+timer: 0.2834 sec.
+iter 640 || Loss: 6.6727 ||
+timer: 0.2735 sec.
+iter 650 || Loss: 7.2932 ||
+timer: 0.2644 sec.
+iter 660 || Loss: 7.6470 ||
+timer: 0.2776 sec.
+iter 670 || Loss: 7.0380 ||
+timer: 0.2642 sec.
+iter 680 || Loss: 7.0805 ||
+timer: 0.2769 sec.
+iter 690 || Loss: 6.6449 ||
+timer: 0.2711 sec.
+iter 700 || Loss: 6.6010 ||
+timer: 0.2810 sec.
+iter 710 || Loss: 6.7502 ||
+timer: 0.2759 sec.
+iter 720 || Loss: 6.5731 ||
+timer: 0.2914 sec.
+iter 730 || Loss: 6.6654 ||
+timer: 0.2889 sec.
+iter 740 || Loss: 6.5930 ||
+timer: 0.2743 sec.
+iter 750 || Loss: 6.1208 ||
+timer: 0.2819 sec.
+iter 760 || Loss: 6.4196 ||
+timer: 0.2818 sec.
+iter 770 || Loss: 6.8335 ||
+timer: 0.2816 sec.
+iter 780 || Loss: 6.3734 ||
+timer: 0.2757 sec.
+iter 790 || Loss: 6.5737 ||
+timer: 0.2755 sec.
+iter 800 || Loss: 6.4692 ||
+timer: 0.2773 sec.
+iter 810 || Loss: 6.5397 ||
+timer: 0.2753 sec.
+iter 820 || Loss: 6.3485 ||
+timer: 0.2799 sec.
+iter 830 || Loss: 6.6484 ||
+timer: 0.2738 sec.
+iter 840 || Loss: 6.8018 ||
+timer: 0.2863 sec.
+iter 850 || Loss: 6.2310 ||
+timer: 0.2811 sec.
+iter 860 || Loss: 6.6918 ||
+timer: 0.2612 sec.
+iter 870 || Loss: 6.4063 ||
+timer: 0.2808 sec.
+iter 880 || Loss: 6.7047 ||
+timer: 0.2958 sec.
+iter 890 || Loss: 6.4577 ||
+timer: 0.2792 sec.
+iter 900 || Loss: 6.1877 ||
+timer: 0.2742 sec.
+iter 910 || Loss: 6.7689 ||
+timer: 0.2787 sec.
+iter 920 || Loss: 6.3796 ||
+timer: 0.2739 sec.
+iter 930 || Loss: 6.9557 ||
+timer: 0.2796 sec.
+iter 940 || Loss: 6.3697 ||
+timer: 0.2751 sec.
+iter 950 || Loss: 6.0296 ||
+timer: 0.2748 sec.
+iter 960 || Loss: 6.6991 ||
+timer: 0.2836 sec.
+iter 970 || Loss: 6.1360 ||
+timer: 0.2696 sec.
+iter 980 || Loss: 6.1984 ||
+timer: 0.2732 sec.
+iter 990 || Loss: 6.1362 ||
+timer: 0.2809 sec.
+iter 1000 || Loss: 6.5591 ||
+timer: 0.2830 sec.
+iter 1010 || Loss: 6.0386 ||
+timer: 0.2824 sec.
+iter 1020 || Loss: 5.9648 ||
+timer: 0.2784 sec.
+iter 1030 || Loss: 6.3985 ||
+timer: 0.2796 sec.
+iter 1040 || Loss: 5.9975 ||
+timer: 0.2813 sec.
+iter 1050 || Loss: 6.0107 ||
+timer: 0.2836 sec.
+iter 1060 || Loss: 6.6564 ||
+timer: 0.2767 sec.
+iter 1070 || Loss: 6.4472 ||
+timer: 0.2681 sec.
+iter 1080 || Loss: 5.9093 ||
+timer: 0.2847 sec.
+iter 1090 || Loss: 6.3381 ||
+timer: 0.2757 sec.
+iter 1100 || Loss: 6.6943 ||
+timer: 0.2775 sec.
+iter 1110 || Loss: 5.6974 ||
+timer: 0.2787 sec.
+iter 1120 || Loss: 6.9096 ||
+timer: 0.2751 sec.
+iter 1130 || Loss: 5.7554 ||
+timer: 0.2835 sec.
+iter 1140 || Loss: 5.7841 ||
+timer: 0.2722 sec.
+iter 1150 || Loss: 5.7249 ||
+timer: 0.2768 sec.
+iter 1160 || Loss: 5.9082 ||
+timer: 0.2826 sec.
+iter 1170 || Loss: 6.1629 ||
+timer: 0.2772 sec.
+iter 1180 || Loss: 5.3920 ||
+timer: 0.2817 sec.
+iter 1190 || Loss: 6.3121 ||
+timer: 0.2820 sec.
+iter 1200 || Loss: 6.3601 ||
+timer: 0.2686 sec.
+iter 1210 || Loss: 6.1918 ||
+timer: 0.2886 sec.
+iter 1220 || Loss: 5.9805 ||
+timer: 0.2763 sec.
+iter 1230 || Loss: 6.3373 ||
+timer: 0.2785 sec.
+iter 1240 || Loss: 6.4230 ||
+timer: 0.2788 sec.
+iter 1250 || Loss: 6.0849 ||
+timer: 0.3225 sec.
+iter 1260 || Loss: 5.7930 ||
+timer: 0.2802 sec.
+iter 1270 || Loss: 5.9059 ||
+timer: 0.2811 sec.
+iter 1280 || Loss: 5.5936 ||
+timer: 0.2912 sec.
+iter 1290 || Loss: 5.7198 ||
