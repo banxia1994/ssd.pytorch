@@ -10344,3 +10344,7264 @@ timer: 0.1531 sec.
 iter 51530 || Loss: 6.4343 ||
 timer: 0.1539 sec.
 iter 51540 || Loss: 5.7933 ||
+timer: 0.1530 sec.
+iter 51550 || Loss: 5.1672 ||
+timer: 0.1557 sec.
+iter 51560 || Loss: 5.9385 ||
+timer: 0.1532 sec.
+iter 51570 || Loss: 6.3776 ||
+timer: 0.1513 sec.
+iter 51580 || Loss: 6.1783 ||
+timer: 0.1546 sec.
+iter 51590 || Loss: 5.6002 ||
+timer: 0.1530 sec.
+iter 51600 || Loss: 5.5754 ||
+timer: 0.1523 sec.
+iter 51610 || Loss: 6.2165 ||
+timer: 0.1537 sec.
+iter 51620 || Loss: 5.7947 ||
+timer: 0.1540 sec.
+iter 51630 || Loss: 5.9990 ||
+timer: 0.1524 sec.
+iter 51640 || Loss: 5.2505 ||
+timer: 0.1540 sec.
+iter 51650 || Loss: 6.3033 ||
+timer: 0.1519 sec.
+iter 51660 || Loss: 5.9138 ||
+timer: 0.1567 sec.
+iter 51670 || Loss: 6.6076 ||
+timer: 0.1526 sec.
+iter 51680 || Loss: 5.9366 ||
+timer: 0.1527 sec.
+iter 51690 || Loss: 5.9697 ||
+timer: 0.1539 sec.
+iter 51700 || Loss: 6.4994 ||
+timer: 0.1540 sec.
+iter 51710 || Loss: 6.0724 ||
+timer: 0.1540 sec.
+iter 51720 || Loss: 4.9710 ||
+timer: 0.1542 sec.
+iter 51730 || Loss: 6.0029 ||
+timer: 0.1530 sec.
+iter 51740 || Loss: 6.4674 ||
+timer: 0.1560 sec.
+iter 51750 || Loss: 5.8073 ||
+timer: 0.1556 sec.
+iter 51760 || Loss: 5.7671 ||
+timer: 0.1535 sec.
+iter 51770 || Loss: 5.6635 ||
+timer: 0.1573 sec.
+iter 51780 || Loss: 6.2703 ||
+timer: 0.1539 sec.
+iter 51790 || Loss: 5.6434 ||
+timer: 0.1533 sec.
+iter 51800 || Loss: 5.7652 ||
+timer: 0.1554 sec.
+iter 51810 || Loss: 5.3553 ||
+timer: 0.1659 sec.
+iter 51820 || Loss: 5.7479 ||
+timer: 0.1584 sec.
+iter 51830 || Loss: 5.3488 ||
+timer: 0.1523 sec.
+iter 51840 || Loss: 5.3657 ||
+timer: 0.1594 sec.
+iter 51850 || Loss: 5.7780 ||
+timer: 0.1526 sec.
+iter 51860 || Loss: 5.5962 ||
+timer: 0.1541 sec.
+iter 51870 || Loss: 5.8361 ||
+timer: 0.1566 sec.
+iter 51880 || Loss: 6.2905 ||
+timer: 0.1547 sec.
+iter 51890 || Loss: 6.3443 ||
+timer: 0.1522 sec.
+iter 51900 || Loss: 6.0585 ||
+timer: 0.1513 sec.
+iter 51910 || Loss: 5.0302 ||
+timer: 0.1528 sec.
+iter 51920 || Loss: 5.0739 ||
+timer: 0.1547 sec.
+iter 51930 || Loss: 6.0121 ||
+timer: 0.1535 sec.
+iter 51940 || Loss: 5.5041 ||
+timer: 0.1549 sec.
+iter 51950 || Loss: 5.3969 ||
+timer: 0.1513 sec.
+iter 51960 || Loss: 5.3877 ||
+timer: 0.1529 sec.
+iter 51970 || Loss: 5.7362 ||
+timer: 0.1608 sec.
+iter 51980 || Loss: 5.4308 ||
+timer: 0.1539 sec.
+iter 51990 || Loss: 5.3520 ||
+timer: 0.1599 sec.
+iter 52000 || Loss: 6.0515 ||
+timer: 0.1544 sec.
+iter 52010 || Loss: 6.0018 ||
+timer: 0.1518 sec.
+iter 52020 || Loss: 5.5174 ||
+timer: 0.1545 sec.
+iter 52030 || Loss: 6.4338 ||
+timer: 0.1529 sec.
+iter 52040 || Loss: 5.2539 ||
+timer: 0.1546 sec.
+iter 52050 || Loss: 5.5321 ||
+timer: 0.1552 sec.
+iter 52060 || Loss: 5.7194 ||
+timer: 0.1544 sec.
+iter 52070 || Loss: 5.4905 ||
+timer: 0.1528 sec.
+iter 52080 || Loss: 5.4138 ||
+timer: 0.1536 sec.
+iter 52090 || Loss: 6.2209 ||
+timer: 0.1528 sec.
+iter 52100 || Loss: 5.5538 ||
+timer: 0.1531 sec.
+iter 52110 || Loss: 5.2112 ||
+timer: 0.1547 sec.
+iter 52120 || Loss: 6.1702 ||
+timer: 0.1552 sec.
+iter 52130 || Loss: 6.3013 ||
+timer: 0.1607 sec.
+iter 52140 || Loss: 5.5400 ||
+timer: 0.1538 sec.
+iter 52150 || Loss: 5.6523 ||
+timer: 0.1543 sec.
+iter 52160 || Loss: 5.6174 ||
+timer: 0.1527 sec.
+iter 52170 || Loss: 6.4490 ||
+timer: 0.1542 sec.
+iter 52180 || Loss: 5.9272 ||
+timer: 0.1535 sec.
+iter 52190 || Loss: 5.7990 ||
+timer: 0.1523 sec.
+iter 52200 || Loss: 5.1700 ||
+timer: 0.1527 sec.
+iter 52210 || Loss: 5.8785 ||
+timer: 0.1518 sec.
+iter 52220 || Loss: 5.4771 ||
+timer: 0.1528 sec.
+iter 52230 || Loss: 5.6795 ||
+timer: 0.1544 sec.
+iter 52240 || Loss: 6.0542 ||
+timer: 0.1526 sec.
+iter 52250 || Loss: 5.5019 ||
+timer: 0.1529 sec.
+iter 52260 || Loss: 5.6703 ||
+timer: 0.1527 sec.
+iter 52270 || Loss: 5.6260 ||
+timer: 0.1547 sec.
+iter 52280 || Loss: 5.4018 ||
+timer: 0.1542 sec.
+iter 52290 || Loss: 5.8161 ||
+timer: 0.1551 sec.
+iter 52300 || Loss: 6.1063 ||
+timer: 0.1535 sec.
+iter 52310 || Loss: 5.4722 ||
+timer: 0.1539 sec.
+iter 52320 || Loss: 6.1149 ||
+timer: 0.1518 sec.
+iter 52330 || Loss: 5.5324 ||
+timer: 0.1537 sec.
+iter 52340 || Loss: 6.1552 ||
+timer: 0.1503 sec.
+iter 52350 || Loss: 5.1806 ||
+timer: 0.1630 sec.
+iter 52360 || Loss: 5.8868 ||
+timer: 0.1531 sec.
+iter 52370 || Loss: 6.1814 ||
+timer: 0.1543 sec.
+iter 52380 || Loss: 6.3368 ||
+timer: 0.1541 sec.
+iter 52390 || Loss: 6.0309 ||
+timer: 0.1545 sec.
+iter 52400 || Loss: 6.1481 ||
+timer: 0.1507 sec.
+iter 52410 || Loss: 5.3041 ||
+timer: 0.1517 sec.
+iter 52420 || Loss: 5.9870 ||
+timer: 0.1523 sec.
+iter 52430 || Loss: 5.3275 ||
+timer: 0.1527 sec.
+iter 52440 || Loss: 5.7235 ||
+timer: 0.1592 sec.
+iter 52450 || Loss: 5.4996 ||
+timer: 0.1533 sec.
+iter 52460 || Loss: 5.5202 ||
+timer: 0.1574 sec.
+iter 52470 || Loss: 6.2328 ||
+timer: 0.1527 sec.
+iter 52480 || Loss: 5.3682 ||
+timer: 0.1540 sec.
+iter 52490 || Loss: 6.0808 ||
+timer: 0.1536 sec.
+iter 52500 || Loss: 5.8505 ||
+timer: 0.1540 sec.
+iter 52510 || Loss: 5.9778 ||
+timer: 0.1532 sec.
+iter 52520 || Loss: 5.8393 ||
+timer: 0.1557 sec.
+iter 52530 || Loss: 5.5380 ||
+timer: 0.1552 sec.
+iter 52540 || Loss: 5.8894 ||
+timer: 0.1529 sec.
+iter 52550 || Loss: 5.4430 ||
+timer: 0.1521 sec.
+iter 52560 || Loss: 6.5763 ||
+timer: 0.1527 sec.
+iter 52570 || Loss: 5.6582 ||
+timer: 0.1530 sec.
+iter 52580 || Loss: 5.8735 ||
+timer: 0.1517 sec.
+iter 52590 || Loss: 4.9863 ||
+timer: 0.1558 sec.
+iter 52600 || Loss: 5.9394 ||
+timer: 0.1527 sec.
+iter 52610 || Loss: 5.6053 ||
+timer: 0.1531 sec.
+iter 52620 || Loss: 5.3151 ||
+timer: 0.1546 sec.
+iter 52630 || Loss: 6.3510 ||
+timer: 0.1527 sec.
+iter 52640 || Loss: 6.1203 ||
+timer: 0.1540 sec.
+iter 52650 || Loss: 5.7552 ||
+timer: 0.1538 sec.
+iter 52660 || Loss: 5.9862 ||
+timer: 0.1512 sec.
+iter 52670 || Loss: 5.0383 ||
+timer: 0.1538 sec.
+iter 52680 || Loss: 5.8766 ||
+timer: 0.1543 sec.
+iter 52690 || Loss: 5.8057 ||
+timer: 0.1511 sec.
+iter 52700 || Loss: 4.5329 ||
+timer: 0.1521 sec.
+iter 52710 || Loss: 5.2970 ||
+timer: 0.1546 sec.
+iter 52720 || Loss: 5.8540 ||
+timer: 0.1546 sec.
+iter 52730 || Loss: 5.9965 ||
+timer: 0.1555 sec.
+iter 52740 || Loss: 6.4564 ||
+timer: 0.1537 sec.
+iter 52750 || Loss: 6.6029 ||
+timer: 0.1523 sec.
+iter 52760 || Loss: 5.7811 ||
+timer: 0.1533 sec.
+iter 52770 || Loss: 6.5108 ||
+timer: 0.1558 sec.
+iter 52780 || Loss: 5.6938 ||
+timer: 0.1541 sec.
+iter 52790 || Loss: 5.3623 ||
+timer: 0.1578 sec.
+iter 52800 || Loss: 5.1821 ||
+timer: 0.1527 sec.
+iter 52810 || Loss: 5.0987 ||
+timer: 0.1519 sec.
+iter 52820 || Loss: 6.2144 ||
+timer: 0.1553 sec.
+iter 52830 || Loss: 6.3513 ||
+timer: 0.1542 sec.
+iter 52840 || Loss: 5.7812 ||
+timer: 0.1528 sec.
+iter 52850 || Loss: 5.7603 ||
+timer: 0.1541 sec.
+iter 52860 || Loss: 5.1169 ||
+timer: 0.1562 sec.
+iter 52870 || Loss: 6.1571 ||
+timer: 0.1563 sec.
+iter 52880 || Loss: 5.7229 ||
+timer: 0.1532 sec.
+iter 52890 || Loss: 5.9593 ||
+timer: 0.1529 sec.
+iter 52900 || Loss: 5.7373 ||
+timer: 0.1564 sec.
+iter 52910 || Loss: 6.5188 ||
+timer: 0.1534 sec.
+iter 52920 || Loss: 5.9443 ||
+timer: 0.1535 sec.
+iter 52930 || Loss: 6.7023 ||
+timer: 0.1634 sec.
+iter 52940 || Loss: 5.8189 ||
+timer: 0.1534 sec.
+iter 52950 || Loss: 6.0406 ||
+timer: 0.1516 sec.
+iter 52960 || Loss: 5.1403 ||
+timer: 0.1507 sec.
+iter 52970 || Loss: 5.7415 ||
+timer: 0.1537 sec.
+iter 52980 || Loss: 6.4228 ||
+timer: 0.1519 sec.
+iter 52990 || Loss: 5.5621 ||
+timer: 0.1582 sec.
+iter 53000 || Loss: 5.6598 ||
+timer: 0.1537 sec.
+iter 53010 || Loss: 6.1466 ||
+timer: 0.1521 sec.
+iter 53020 || Loss: 5.8254 ||
+timer: 0.1543 sec.
+iter 53030 || Loss: 5.3917 ||
+timer: 0.1569 sec.
+iter 53040 || Loss: 6.8866 ||
+timer: 0.1553 sec.
+iter 53050 || Loss: 6.0546 ||
+timer: 0.1556 sec.
+iter 53060 || Loss: 5.2532 ||
+timer: 0.1562 sec.
+iter 53070 || Loss: 5.9386 ||
+timer: 0.1562 sec.
+iter 53080 || Loss: 6.0719 ||
+timer: 0.1518 sec.
+iter 53090 || Loss: 6.1502 ||
+timer: 0.1542 sec.
+iter 53100 || Loss: 6.2722 ||
+timer: 0.1532 sec.
+iter 53110 || Loss: 5.4480 ||
+timer: 0.1509 sec.
+iter 53120 || Loss: 4.8515 ||
+timer: 0.1530 sec.
+iter 53130 || Loss: 5.8072 ||
+timer: 0.1542 sec.
+iter 53140 || Loss: 5.9579 ||
+timer: 0.1525 sec.
+iter 53150 || Loss: 5.7641 ||
+timer: 0.1528 sec.
+iter 53160 || Loss: 6.5484 ||
+timer: 0.1533 sec.
+iter 53170 || Loss: 5.7992 ||
+timer: 0.1517 sec.
+iter 53180 || Loss: 5.4127 ||
+timer: 0.1529 sec.
+iter 53190 || Loss: 5.7166 ||
+timer: 0.1566 sec.
+iter 53200 || Loss: 5.7167 ||
+timer: 0.1524 sec.
+iter 53210 || Loss: 4.6763 ||
+timer: 0.1523 sec.
+iter 53220 || Loss: 5.6183 ||
+timer: 0.1523 sec.
+iter 53230 || Loss: 5.1970 ||
+timer: 0.1529 sec.
+iter 53240 || Loss: 6.3928 ||
+timer: 0.1522 sec.
+iter 53250 || Loss: 6.4538 ||
+timer: 0.1538 sec.
+iter 53260 || Loss: 5.7913 ||
+timer: 0.1522 sec.
+iter 53270 || Loss: 5.1655 ||
+timer: 0.1529 sec.
+iter 53280 || Loss: 5.3380 ||
+timer: 0.1547 sec.
+iter 53290 || Loss: 6.0699 ||
+timer: 0.1539 sec.
+iter 53300 || Loss: 6.0614 ||
+timer: 0.1510 sec.
+iter 53310 || Loss: 4.8896 ||
+timer: 0.1551 sec.
+iter 53320 || Loss: 5.5394 ||
+timer: 0.1634 sec.
+iter 53330 || Loss: 5.9801 ||
+timer: 0.1569 sec.
+iter 53340 || Loss: 6.2728 ||
+timer: 0.1522 sec.
+iter 53350 || Loss: 5.8023 ||
+timer: 0.1534 sec.
+iter 53360 || Loss: 5.8561 ||
+timer: 0.1534 sec.
+iter 53370 || Loss: 5.5792 ||
+timer: 0.1530 sec.
+iter 53380 || Loss: 5.3624 ||
+timer: 0.1512 sec.
+iter 53390 || Loss: 5.7371 ||
+timer: 0.1560 sec.
+iter 53400 || Loss: 6.4117 ||
+timer: 0.1539 sec.
+iter 53410 || Loss: 5.2808 ||
+timer: 0.1538 sec.
+iter 53420 || Loss: 6.4512 ||
+timer: 0.1537 sec.
+iter 53430 || Loss: 5.5831 ||
+timer: 0.1625 sec.
+iter 53440 || Loss: 6.7063 ||
+timer: 0.1635 sec.
+iter 53450 || Loss: 5.1670 ||
+timer: 0.1541 sec.
+iter 53460 || Loss: 5.6106 ||
+timer: 0.1536 sec.
+iter 53470 || Loss: 5.6284 ||
+timer: 0.1530 sec.
+iter 53480 || Loss: 6.0167 ||
+timer: 0.1537 sec.
+iter 53490 || Loss: 5.9339 ||
+timer: 0.1516 sec.
+iter 53500 || Loss: 5.2876 ||
+timer: 0.1540 sec.
+iter 53510 || Loss: 5.1964 ||
+timer: 0.1517 sec.
+iter 53520 || Loss: 6.2048 ||
+timer: 0.1533 sec.
+iter 53530 || Loss: 5.5041 ||
+timer: 0.1521 sec.
+iter 53540 || Loss: 6.4896 ||
+timer: 0.1518 sec.
+iter 53550 || Loss: 4.7242 ||
+timer: 0.1531 sec.
+iter 53560 || Loss: 5.9871 ||
+timer: 0.1528 sec.
+iter 53570 || Loss: 5.1314 ||
+timer: 0.1539 sec.
+iter 53580 || Loss: 5.5637 ||
+timer: 0.1542 sec.
+iter 53590 || Loss: 5.8212 ||
+timer: 0.1539 sec.
+iter 53600 || Loss: 4.8194 ||
+timer: 0.1589 sec.
+iter 53610 || Loss: 5.7219 ||
+timer: 0.1524 sec.
+iter 53620 || Loss: 5.5687 ||
+timer: 0.1563 sec.
+iter 53630 || Loss: 5.4827 ||
+timer: 0.1548 sec.
+iter 53640 || Loss: 4.8547 ||
+timer: 0.1512 sec.
+iter 53650 || Loss: 4.6380 ||
+timer: 0.1541 sec.
+iter 53660 || Loss: 5.4039 ||
+timer: 0.1533 sec.
+iter 53670 || Loss: 6.6740 ||
+timer: 0.1551 sec.
+iter 53680 || Loss: 5.4665 ||
+timer: 0.1518 sec.
+iter 53690 || Loss: 5.1186 ||
+timer: 0.1530 sec.
+iter 53700 || Loss: 6.2079 ||
+timer: 0.1516 sec.
+iter 53710 || Loss: 5.8934 ||
+timer: 0.1535 sec.
+iter 53720 || Loss: 5.5574 ||
+timer: 0.1517 sec.
+iter 53730 || Loss: 6.2733 ||
+timer: 0.1520 sec.
+iter 53740 || Loss: 5.4830 ||
+timer: 0.1537 sec.
+iter 53750 || Loss: 5.8052 ||
+timer: 0.1524 sec.
+iter 53760 || Loss: 5.8557 ||
+timer: 0.1542 sec.
+iter 53770 || Loss: 5.8936 ||
+timer: 0.1545 sec.
+iter 53780 || Loss: 5.7581 ||
+timer: 0.1554 sec.
+iter 53790 || Loss: 6.5197 ||
+timer: 0.1534 sec.
+iter 53800 || Loss: 6.1760 ||
+timer: 0.1544 sec.
+iter 53810 || Loss: 6.2804 ||
+timer: 0.1529 sec.
+iter 53820 || Loss: 5.5552 ||
+timer: 0.1535 sec.
+iter 53830 || Loss: 5.4157 ||
+timer: 0.1538 sec.
+iter 53840 || Loss: 6.2193 ||
+timer: 0.1525 sec.
+iter 53850 || Loss: 5.4439 ||
+timer: 0.1580 sec.
+iter 53860 || Loss: 5.6315 ||
+timer: 0.1526 sec.
+iter 53870 || Loss: 6.3778 ||
+timer: 0.1544 sec.
+iter 53880 || Loss: 5.9675 ||
+timer: 0.1533 sec.
+iter 53890 || Loss: 5.9298 ||
+timer: 0.1577 sec.
+iter 53900 || Loss: 6.1018 ||
+timer: 0.1530 sec.
+iter 53910 || Loss: 5.6717 ||
+timer: 0.1533 sec.
+iter 53920 || Loss: 5.2563 ||
+timer: 0.1540 sec.
+iter 53930 || Loss: 6.3348 ||
+timer: 0.1536 sec.
+iter 53940 || Loss: 5.9260 ||
+timer: 0.1511 sec.
+iter 53950 || Loss: 4.9260 ||
+timer: 0.1517 sec.
+iter 53960 || Loss: 6.1492 ||
+timer: 0.1525 sec.
+iter 53970 || Loss: 6.0355 ||
+timer: 0.1526 sec.
+iter 53980 || Loss: 5.0862 ||
+timer: 0.1541 sec.
+iter 53990 || Loss: 6.2188 ||
+timer: 0.1546 sec.
+iter 54000 || Loss: 6.1421 ||
+timer: 0.1573 sec.
+iter 54010 || Loss: 5.8406 ||
+timer: 0.1529 sec.
+iter 54020 || Loss: 5.8960 ||
+timer: 0.1565 sec.
+iter 54030 || Loss: 5.5614 ||
+timer: 0.1538 sec.
+iter 54040 || Loss: 5.7474 ||
+timer: 0.1537 sec.
+iter 54050 || Loss: 5.4190 ||
+timer: 0.1541 sec.
+iter 54060 || Loss: 6.0673 ||
+timer: 0.1533 sec.
+iter 54070 || Loss: 5.4525 ||
+timer: 0.1533 sec.
+iter 54080 || Loss: 5.7435 ||
+timer: 0.1550 sec.
+iter 54090 || Loss: 4.9027 ||
+timer: 0.1527 sec.
+iter 54100 || Loss: 5.4645 ||
+timer: 0.1529 sec.
+iter 54110 || Loss: 5.6112 ||
+timer: 0.1538 sec.
+iter 54120 || Loss: 6.6973 ||
+timer: 0.1533 sec.
+iter 54130 || Loss: 5.9988 ||
+timer: 0.1532 sec.
+iter 54140 || Loss: 5.5730 ||
+timer: 0.1537 sec.
+iter 54150 || Loss: 5.8677 ||
+timer: 0.1533 sec.
+iter 54160 || Loss: 5.6645 ||
+timer: 0.1529 sec.
+iter 54170 || Loss: 5.7352 ||
+timer: 0.1548 sec.
+iter 54180 || Loss: 5.6075 ||
+timer: 0.1598 sec.
+iter 54190 || Loss: 5.9261 ||
+timer: 0.1527 sec.
+iter 54200 || Loss: 5.3485 ||
+timer: 0.1537 sec.
+iter 54210 || Loss: 6.3032 ||
+timer: 0.1523 sec.
+iter 54220 || Loss: 6.6215 ||
+timer: 0.1538 sec.
+iter 54230 || Loss: 6.1293 ||
+timer: 0.1542 sec.
+iter 54240 || Loss: 6.1931 ||
+timer: 0.1562 sec.
+iter 54250 || Loss: 6.2555 ||
+timer: 0.1553 sec.
+iter 54260 || Loss: 5.9621 ||
+timer: 0.1524 sec.
+iter 54270 || Loss: 5.5876 ||
+timer: 0.1523 sec.
+iter 54280 || Loss: 5.8398 ||
+timer: 0.1541 sec.
+iter 54290 || Loss: 6.2252 ||
+timer: 0.1532 sec.
+iter 54300 || Loss: 5.5220 ||
+timer: 0.1520 sec.
+iter 54310 || Loss: 5.3584 ||
+timer: 0.1523 sec.
+iter 54320 || Loss: 5.1107 ||
+timer: 0.1543 sec.
+iter 54330 || Loss: 5.4662 ||
+timer: 0.1541 sec.
+iter 54340 || Loss: 6.2496 ||
+timer: 0.1524 sec.
+iter 54350 || Loss: 5.8643 ||
+timer: 0.1526 sec.
+iter 54360 || Loss: 5.0829 ||
+timer: 0.1534 sec.
+iter 54370 || Loss: 5.6080 ||
+timer: 0.1608 sec.
+iter 54380 || Loss: 6.5424 ||
+timer: 0.1529 sec.
+iter 54390 || Loss: 5.8658 ||
+timer: 0.1534 sec.
+iter 54400 || Loss: 5.0643 ||
+timer: 0.1533 sec.
+iter 54410 || Loss: 5.2098 ||
+timer: 0.1530 sec.
+iter 54420 || Loss: 5.0616 ||
+timer: 0.1530 sec.
+iter 54430 || Loss: 5.4977 ||
+timer: 0.1541 sec.
+iter 54440 || Loss: 5.8899 ||
+timer: 0.1538 sec.
+iter 54450 || Loss: 7.3195 ||
+timer: 0.1534 sec.
+iter 54460 || Loss: 5.7323 ||
+timer: 0.1533 sec.
+iter 54470 || Loss: 5.7565 ||
+timer: 0.1606 sec.
+iter 54480 || Loss: 6.0419 ||
+timer: 0.1518 sec.
+iter 54490 || Loss: 5.0802 ||
+timer: 0.1535 sec.
+iter 54500 || Loss: 6.2393 ||
+timer: 0.1536 sec.
+iter 54510 || Loss: 6.4521 ||
+timer: 0.1541 sec.
+iter 54520 || Loss: 5.2445 ||
+timer: 0.1537 sec.
+iter 54530 || Loss: 5.4323 ||
+timer: 0.1525 sec.
+iter 54540 || Loss: 5.0576 ||
+timer: 0.1594 sec.
+iter 54550 || Loss: 5.6173 ||
+timer: 0.1610 sec.
+iter 54560 || Loss: 6.6534 ||
+timer: 0.1535 sec.
+iter 54570 || Loss: 5.9117 ||
+timer: 0.1597 sec.
+iter 54580 || Loss: 6.3544 ||
+timer: 0.1549 sec.
+iter 54590 || Loss: 6.7943 ||
+timer: 0.1543 sec.
+iter 54600 || Loss: 6.2283 ||
+timer: 0.1531 sec.
+iter 54610 || Loss: 5.1923 ||
+timer: 0.1643 sec.
+iter 54620 || Loss: 6.2467 ||
+timer: 0.1518 sec.
+iter 54630 || Loss: 6.7089 ||
+timer: 0.1515 sec.
+iter 54640 || Loss: 5.2061 ||
+timer: 0.1544 sec.
+iter 54650 || Loss: 5.9459 ||
+timer: 0.1536 sec.
+iter 54660 || Loss: 5.9030 ||
+timer: 0.1547 sec.
+iter 54670 || Loss: 6.4260 ||
+timer: 0.1538 sec.
+iter 54680 || Loss: 6.1356 ||
+timer: 0.1527 sec.
+iter 54690 || Loss: 5.6529 ||
+timer: 0.1517 sec.
+iter 54700 || Loss: 4.9862 ||
+timer: 0.1526 sec.
+iter 54710 || Loss: 5.8956 ||
+timer: 0.1527 sec.
+iter 54720 || Loss: 5.6831 ||
+timer: 0.1541 sec.
+iter 54730 || Loss: 5.8583 ||
+timer: 0.1542 sec.
+iter 54740 || Loss: 6.1933 ||
+timer: 0.1605 sec.
+iter 54750 || Loss: 5.3333 ||
+timer: 0.1562 sec.
+iter 54760 || Loss: 5.9400 ||
+timer: 0.1540 sec.
+iter 54770 || Loss: 6.2118 ||
+timer: 0.1552 sec.
+iter 54780 || Loss: 5.8901 ||
+timer: 0.1572 sec.
+iter 54790 || Loss: 6.7150 ||
+timer: 0.1663 sec.
+iter 54800 || Loss: 6.0891 ||
+timer: 0.1531 sec.
+iter 54810 || Loss: 5.4208 ||
+timer: 0.1531 sec.
+iter 54820 || Loss: 6.1101 ||
+timer: 0.1521 sec.
+iter 54830 || Loss: 5.4311 ||
+timer: 0.1516 sec.
+iter 54840 || Loss: 5.5733 ||
+timer: 0.1545 sec.
+iter 54850 || Loss: 6.2745 ||
+timer: 0.1521 sec.
+iter 54860 || Loss: 5.7357 ||
+timer: 0.1543 sec.
+iter 54870 || Loss: 5.7131 ||
+timer: 0.1546 sec.
+iter 54880 || Loss: 6.0928 ||
+timer: 0.1523 sec.
+iter 54890 || Loss: 5.4379 ||
+timer: 0.1529 sec.
+iter 54900 || Loss: 5.8005 ||
+timer: 0.1531 sec.
+iter 54910 || Loss: 5.5263 ||
+timer: 0.1567 sec.
+iter 54920 || Loss: 5.5125 ||
+timer: 0.1543 sec.
+iter 54930 || Loss: 5.7687 ||
+timer: 0.1562 sec.
+iter 54940 || Loss: 6.2375 ||
+timer: 0.1589 sec.
+iter 54950 || Loss: 5.9222 ||
+timer: 0.1598 sec.
+iter 54960 || Loss: 5.5081 ||
+timer: 0.1571 sec.
+iter 54970 || Loss: 6.0186 ||
+timer: 0.1629 sec.
+iter 54980 || Loss: 5.7840 ||
+timer: 0.1558 sec.
+iter 54990 || Loss: 5.4106 ||
+timer: 0.1567 sec.
+iter 55000 || Loss: 6.1675 ||
+Saving state, iter: 55000
+timer: 0.1616 sec.
+iter 55010 || Loss: 5.9850 ||
+timer: 0.1550 sec.
+iter 55020 || Loss: 5.3502 ||
+timer: 0.1544 sec.
+iter 55030 || Loss: 5.8841 ||
+timer: 0.1536 sec.
+iter 55040 || Loss: 5.7433 ||
+timer: 0.1547 sec.
+iter 55050 || Loss: 5.6941 ||
+timer: 0.1540 sec.
+iter 55060 || Loss: 6.2737 ||
+timer: 0.1535 sec.
+iter 55070 || Loss: 6.0753 ||
+timer: 0.1530 sec.
+iter 55080 || Loss: 5.0749 ||
+timer: 0.1548 sec.
+iter 55090 || Loss: 6.0593 ||
+timer: 0.1542 sec.
+iter 55100 || Loss: 5.7853 ||
+timer: 0.1539 sec.
+iter 55110 || Loss: 6.5559 ||
+timer: 0.1601 sec.
+iter 55120 || Loss: 5.6661 ||
+timer: 0.1602 sec.
+iter 55130 || Loss: 5.7465 ||
+timer: 0.1541 sec.
+iter 55140 || Loss: 5.8380 ||
+timer: 0.1539 sec.
+iter 55150 || Loss: 6.2324 ||
+timer: 0.1535 sec.
+iter 55160 || Loss: 5.9461 ||
+timer: 0.1532 sec.
+iter 55170 || Loss: 5.6033 ||
+timer: 0.1524 sec.
+iter 55180 || Loss: 5.5611 ||
+timer: 0.1537 sec.
+iter 55190 || Loss: 6.6219 ||
+timer: 0.1547 sec.
+iter 55200 || Loss: 6.2266 ||
+timer: 0.1531 sec.
+iter 55210 || Loss: 5.5800 ||
+timer: 0.1525 sec.
+iter 55220 || Loss: 5.2601 ||
+timer: 0.1542 sec.
+iter 55230 || Loss: 6.2809 ||
+timer: 0.1524 sec.
+iter 55240 || Loss: 5.5887 ||
+timer: 0.1543 sec.
+iter 55250 || Loss: 5.6829 ||
+timer: 0.1565 sec.
+iter 55260 || Loss: 6.1636 ||
+timer: 0.1552 sec.
+iter 55270 || Loss: 5.7662 ||
+timer: 0.1523 sec.
+iter 55280 || Loss: 5.9724 ||
+timer: 0.1560 sec.
+iter 55290 || Loss: 6.1824 ||
+timer: 0.1521 sec.
+iter 55300 || Loss: 5.8148 ||
+timer: 0.1540 sec.
+iter 55310 || Loss: 6.1615 ||
+timer: 0.1531 sec.
+iter 55320 || Loss: 5.9403 ||
+timer: 0.1537 sec.
+iter 55330 || Loss: 5.5692 ||
+timer: 0.1528 sec.
+iter 55340 || Loss: 6.0344 ||
+timer: 0.1524 sec.
+iter 55350 || Loss: 5.4597 ||
+timer: 0.1523 sec.
+iter 55360 || Loss: 5.2018 ||
+timer: 0.1563 sec.
+iter 55370 || Loss: 6.7446 ||
+timer: 0.1518 sec.
+iter 55380 || Loss: 5.1709 ||
+timer: 0.1531 sec.
+iter 55390 || Loss: 5.3924 ||
+timer: 0.1539 sec.
+iter 55400 || Loss: 5.6660 ||
+timer: 0.1526 sec.
+iter 55410 || Loss: 5.6958 ||
+timer: 0.1545 sec.
+iter 55420 || Loss: 6.3368 ||
+timer: 0.1528 sec.
+iter 55430 || Loss: 6.0485 ||
+timer: 0.1541 sec.
+iter 55440 || Loss: 5.5505 ||
+timer: 0.1566 sec.
+iter 55450 || Loss: 6.3983 ||
+timer: 0.1578 sec.
+iter 55460 || Loss: 5.7684 ||
+timer: 0.1531 sec.
+iter 55470 || Loss: 5.5934 ||
+timer: 0.1543 sec.
+iter 55480 || Loss: 5.0969 ||
+timer: 0.1564 sec.
+iter 55490 || Loss: 6.7518 ||
+timer: 0.1561 sec.
+iter 55500 || Loss: 5.8896 ||
+timer: 0.1565 sec.
+iter 55510 || Loss: 5.4485 ||
+timer: 0.1534 sec.
+iter 55520 || Loss: 6.0472 ||
+timer: 0.1589 sec.
+iter 55530 || Loss: 6.6372 ||
+timer: 0.1534 sec.
+iter 55540 || Loss: 5.5824 ||
+timer: 0.1531 sec.
+iter 55550 || Loss: 5.5466 ||
+timer: 0.1540 sec.
+iter 55560 || Loss: 6.2133 ||
+timer: 0.1533 sec.
+iter 55570 || Loss: 5.4967 ||
+timer: 0.1519 sec.
+iter 55580 || Loss: 4.4701 ||
+timer: 0.1530 sec.
+iter 55590 || Loss: 6.1149 ||
+timer: 0.1533 sec.
+iter 55600 || Loss: 5.9428 ||
+timer: 0.1550 sec.
+iter 55610 || Loss: 5.5405 ||
+timer: 0.1549 sec.
+iter 55620 || Loss: 5.7817 ||
+timer: 0.1532 sec.
+iter 55630 || Loss: 5.9742 ||
+timer: 0.1527 sec.
+iter 55640 || Loss: 5.6065 ||
+timer: 0.1521 sec.
+iter 55650 || Loss: 5.9489 ||
+timer: 0.1544 sec.
+iter 55660 || Loss: 6.0001 ||
+timer: 0.1547 sec.
+iter 55670 || Loss: 6.0532 ||
+timer: 0.1544 sec.
+iter 55680 || Loss: 5.8431 ||
+timer: 0.1535 sec.
+iter 55690 || Loss: 5.4278 ||
+timer: 0.1519 sec.
+iter 55700 || Loss: 5.1950 ||
+timer: 0.1522 sec.
+iter 55710 || Loss: 5.5465 ||
+timer: 0.1542 sec.
+iter 55720 || Loss: 5.6690 ||
+timer: 0.1525 sec.
+iter 55730 || Loss: 5.0979 ||
+timer: 0.1538 sec.
+iter 55740 || Loss: 6.3627 ||
+timer: 0.1589 sec.
+iter 55750 || Loss: 5.9102 ||
+timer: 0.1539 sec.
+iter 55760 || Loss: 6.0029 ||
+timer: 0.1526 sec.
+iter 55770 || Loss: 5.5234 ||
+timer: 0.1537 sec.
+iter 55780 || Loss: 5.9791 ||
+timer: 0.1545 sec.
+iter 55790 || Loss: 6.5699 ||
+timer: 0.1525 sec.
+iter 55800 || Loss: 5.5561 ||
+timer: 0.1512 sec.
+iter 55810 || Loss: 5.4724 ||
+timer: 0.1540 sec.
+iter 55820 || Loss: 5.5419 ||
+timer: 0.1525 sec.
+iter 55830 || Loss: 5.2607 ||
+timer: 0.1526 sec.
+iter 55840 || Loss: 5.3995 ||
+timer: 0.1635 sec.
+iter 55850 || Loss: 6.2098 ||
+timer: 0.1535 sec.
+iter 55860 || Loss: 5.1293 ||
+timer: 0.1536 sec.
+iter 55870 || Loss: 5.3258 ||
+timer: 0.1531 sec.
+iter 55880 || Loss: 5.5740 ||
+timer: 0.1527 sec.
+iter 55890 || Loss: 5.2075 ||
+timer: 0.1557 sec.
+iter 55900 || Loss: 5.8046 ||
+timer: 0.1551 sec.
+iter 55910 || Loss: 5.4175 ||
+timer: 0.1570 sec.
+iter 55920 || Loss: 5.9236 ||
+timer: 0.1528 sec.
+iter 55930 || Loss: 5.7627 ||
+timer: 0.1527 sec.
+iter 55940 || Loss: 5.2885 ||
+timer: 0.1519 sec.
+iter 55950 || Loss: 6.3528 ||
+timer: 0.1539 sec.
+iter 55960 || Loss: 5.8403 ||
+timer: 0.1528 sec.
+iter 55970 || Loss: 6.1440 ||
+timer: 0.1527 sec.
+iter 55980 || Loss: 5.9352 ||
+timer: 0.1523 sec.
+iter 55990 || Loss: 5.0606 ||
+timer: 0.1622 sec.
+iter 56000 || Loss: 6.9396 ||
+timer: 0.1562 sec.
+iter 56010 || Loss: 6.2745 ||
+timer: 0.1530 sec.
+iter 56020 || Loss: 4.7989 ||
+timer: 0.1535 sec.
+iter 56030 || Loss: 6.2242 ||
+timer: 0.1557 sec.
+iter 56040 || Loss: 6.6764 ||
+timer: 0.1517 sec.
+iter 56050 || Loss: 6.1709 ||
+timer: 0.1533 sec.
+iter 56060 || Loss: 5.7676 ||
+timer: 0.1535 sec.
+iter 56070 || Loss: 6.3129 ||
+timer: 0.1514 sec.
+iter 56080 || Loss: 5.4228 ||
+timer: 0.1542 sec.
+iter 56090 || Loss: 6.0044 ||
+timer: 0.1535 sec.
+iter 56100 || Loss: 5.8072 ||
+timer: 0.1528 sec.
+iter 56110 || Loss: 6.6122 ||
+timer: 0.1552 sec.
+iter 56120 || Loss: 5.5965 ||
+timer: 0.1536 sec.
+iter 56130 || Loss: 5.9051 ||
+timer: 0.1552 sec.
+iter 56140 || Loss: 6.7596 ||
+timer: 0.1524 sec.
+iter 56150 || Loss: 5.2626 ||
+timer: 0.1541 sec.
+iter 56160 || Loss: 5.8087 ||
+timer: 0.1541 sec.
+iter 56170 || Loss: 5.5037 ||
+timer: 0.1526 sec.
+iter 56180 || Loss: 6.0884 ||
+timer: 0.1609 sec.
+iter 56190 || Loss: 5.4800 ||
+timer: 0.1534 sec.
+iter 56200 || Loss: 5.1684 ||
+timer: 0.1566 sec.
+iter 56210 || Loss: 4.9047 ||
+timer: 0.1546 sec.
+iter 56220 || Loss: 4.7721 ||
+timer: 0.1538 sec.
+iter 56230 || Loss: 5.9602 ||
+timer: 0.1546 sec.
+iter 56240 || Loss: 5.9747 ||
+timer: 0.1528 sec.
+iter 56250 || Loss: 5.7446 ||
+timer: 0.1548 sec.
+iter 56260 || Loss: 5.9702 ||
+timer: 0.1535 sec.
+iter 56270 || Loss: 6.0865 ||
+timer: 0.1556 sec.
+iter 56280 || Loss: 5.8899 ||
+timer: 0.1562 sec.
+iter 56290 || Loss: 6.7884 ||
+timer: 0.1539 sec.
+iter 56300 || Loss: 5.7436 ||
+timer: 0.1542 sec.
+iter 56310 || Loss: 5.3074 ||
+timer: 0.1523 sec.
+iter 56320 || Loss: 5.7727 ||
+timer: 0.1539 sec.
+iter 56330 || Loss: 5.7267 ||
+timer: 0.1543 sec.
+iter 56340 || Loss: 6.4334 ||
+timer: 0.1571 sec.
+iter 56350 || Loss: 5.4882 ||
+timer: 0.1531 sec.
+iter 56360 || Loss: 5.7110 ||
+timer: 0.1541 sec.
+iter 56370 || Loss: 6.1675 ||
+timer: 0.1539 sec.
+iter 56380 || Loss: 6.7407 ||
+timer: 0.1542 sec.
+iter 56390 || Loss: 5.7520 ||
+timer: 0.1530 sec.
+iter 56400 || Loss: 5.5380 ||
+timer: 0.1533 sec.
+iter 56410 || Loss: 5.4367 ||
+timer: 0.1531 sec.
+iter 56420 || Loss: 5.8818 ||
+timer: 0.1565 sec.
+iter 56430 || Loss: 6.3419 ||
+timer: 0.1534 sec.
+iter 56440 || Loss: 6.0231 ||
+timer: 0.1558 sec.
+iter 56450 || Loss: 5.6422 ||
+timer: 0.1563 sec.
+iter 56460 || Loss: 6.3459 ||
+timer: 0.1536 sec.
+iter 56470 || Loss: 6.0025 ||
+timer: 0.1566 sec.
+iter 56480 || Loss: 6.2196 ||
+timer: 0.1523 sec.
+iter 56490 || Loss: 6.1917 ||
+timer: 0.1521 sec.
+iter 56500 || Loss: 5.6048 ||
+timer: 0.1547 sec.
+iter 56510 || Loss: 6.0699 ||
+timer: 0.1547 sec.
+iter 56520 || Loss: 5.1360 ||
+timer: 0.1545 sec.
+iter 56530 || Loss: 5.7754 ||
+timer: 0.1615 sec.
+iter 56540 || Loss: 5.8023 ||
+timer: 0.1523 sec.
+iter 56550 || Loss: 5.2938 ||
+timer: 0.1539 sec.
+iter 56560 || Loss: 6.1966 ||
+timer: 0.1546 sec.
+iter 56570 || Loss: 6.6553 ||
+timer: 0.1551 sec.
+iter 56580 || Loss: 5.1632 ||
+timer: 0.1522 sec.
+iter 56590 || Loss: 4.7904 ||
+timer: 0.1544 sec.
+iter 56600 || Loss: 5.8513 ||
+timer: 0.1574 sec.
+iter 56610 || Loss: 6.3531 ||
+timer: 0.1545 sec.
+iter 56620 || Loss: 6.0552 ||
+timer: 0.1558 sec.
+iter 56630 || Loss: 6.4705 ||
+timer: 0.1564 sec.
+iter 56640 || Loss: 5.4262 ||
+timer: 0.1537 sec.
+iter 56650 || Loss: 5.4348 ||
+timer: 0.1534 sec.
+iter 56660 || Loss: 6.1251 ||
+timer: 0.1553 sec.
+iter 56670 || Loss: 6.0904 ||
+timer: 0.1526 sec.
+iter 56680 || Loss: 6.1518 ||
+timer: 0.1528 sec.
+iter 56690 || Loss: 6.2652 ||
+timer: 0.1559 sec.
+iter 56700 || Loss: 5.6457 ||
+timer: 0.1540 sec.
+iter 56710 || Loss: 5.4873 ||
+timer: 0.1545 sec.
+iter 56720 || Loss: 6.0370 ||
+timer: 0.1597 sec.
+iter 56730 || Loss: 5.4516 ||
+timer: 0.1539 sec.
+iter 56740 || Loss: 5.7453 ||
+timer: 0.1573 sec.
+iter 56750 || Loss: 6.5964 ||
+timer: 0.1528 sec.
+iter 56760 || Loss: 4.8976 ||
+timer: 0.1556 sec.
+iter 56770 || Loss: 5.9926 ||
+timer: 0.1524 sec.
+iter 56780 || Loss: 5.8551 ||
+timer: 0.1537 sec.
+iter 56790 || Loss: 6.8118 ||
+timer: 0.1553 sec.
+iter 56800 || Loss: 6.0893 ||
+timer: 0.1604 sec.
+iter 56810 || Loss: 5.4826 ||
+timer: 0.1538 sec.
+iter 56820 || Loss: 5.8011 ||
+timer: 0.1511 sec.
+iter 56830 || Loss: 5.8796 ||
+timer: 0.1561 sec.
+iter 56840 || Loss: 6.1049 ||
+timer: 0.1511 sec.
+iter 56850 || Loss: 4.9242 ||
+timer: 0.1522 sec.
+iter 56860 || Loss: 5.3276 ||
+timer: 0.1544 sec.
+iter 56870 || Loss: 5.6923 ||
+timer: 0.1520 sec.
+iter 56880 || Loss: 5.5415 ||
+timer: 0.1545 sec.
+iter 56890 || Loss: 5.9281 ||
+timer: 0.1545 sec.
+iter 56900 || Loss: 5.6345 ||
+timer: 0.1531 sec.
+iter 56910 || Loss: 6.1838 ||
+timer: 0.1555 sec.
+iter 56920 || Loss: 5.7671 ||
+timer: 0.1539 sec.
+iter 56930 || Loss: 5.3548 ||
+timer: 0.1530 sec.
+iter 56940 || Loss: 5.5338 ||
+timer: 0.1530 sec.
+iter 56950 || Loss: 5.5042 ||
+timer: 0.1562 sec.
+iter 56960 || Loss: 6.7981 ||
+timer: 0.1523 sec.
+iter 56970 || Loss: 5.4148 ||
+timer: 0.1538 sec.
+iter 56980 || Loss: 5.6645 ||
+timer: 0.1533 sec.
+iter 56990 || Loss: 6.0758 ||
+timer: 0.1508 sec.
+iter 57000 || Loss: 5.1317 ||
+timer: 0.1542 sec.
+iter 57010 || Loss: 5.9150 ||
+timer: 0.1535 sec.
+iter 57020 || Loss: 4.8631 ||
+timer: 0.1568 sec.
+iter 57030 || Loss: 5.9545 ||
+timer: 0.1640 sec.
+iter 57040 || Loss: 5.5677 ||
+timer: 0.1551 sec.
+iter 57050 || Loss: 5.8654 ||
+timer: 0.1575 sec.
+iter 57060 || Loss: 6.2921 ||
+timer: 0.1587 sec.
+iter 57070 || Loss: 6.1628 ||
+timer: 0.1524 sec.
+iter 57080 || Loss: 6.5718 ||
+timer: 0.1541 sec.
+iter 57090 || Loss: 5.4716 ||
+timer: 0.1558 sec.
+iter 57100 || Loss: 6.8952 ||
+timer: 0.1523 sec.
+iter 57110 || Loss: 5.3386 ||
+timer: 0.1538 sec.
+iter 57120 || Loss: 5.6761 ||
+timer: 0.1530 sec.
+iter 57130 || Loss: 6.6550 ||
+timer: 0.1521 sec.
+iter 57140 || Loss: 5.0988 ||
+timer: 0.1526 sec.
+iter 57150 || Loss: 5.2985 ||
+timer: 0.1524 sec.
+iter 57160 || Loss: 5.2229 ||
+timer: 0.1525 sec.
+iter 57170 || Loss: 5.7153 ||
+timer: 0.1533 sec.
+iter 57180 || Loss: 5.8304 ||
+timer: 0.1522 sec.
+iter 57190 || Loss: 6.0608 ||
+timer: 0.1630 sec.
+iter 57200 || Loss: 5.7337 ||
+timer: 0.1653 sec.
+iter 57210 || Loss: 5.5992 ||
+timer: 0.1561 sec.
+iter 57220 || Loss: 4.8826 ||
+timer: 0.1536 sec.
+iter 57230 || Loss: 5.6551 ||
+timer: 0.1549 sec.
+iter 57240 || Loss: 5.3618 ||
+timer: 0.1551 sec.
+iter 57250 || Loss: 6.1678 ||
+timer: 0.1531 sec.
+iter 57260 || Loss: 6.1284 ||
+timer: 0.1538 sec.
+iter 57270 || Loss: 6.2885 ||
+timer: 0.1521 sec.
+iter 57280 || Loss: 4.6855 ||
+timer: 0.1532 sec.
+iter 57290 || Loss: 6.0508 ||
+timer: 0.1541 sec.
+iter 57300 || Loss: 6.4261 ||
+timer: 0.1530 sec.
+iter 57310 || Loss: 5.5232 ||
+timer: 0.1570 sec.
+iter 57320 || Loss: 5.7084 ||
+timer: 0.1554 sec.
+iter 57330 || Loss: 6.4901 ||
+timer: 0.1542 sec.
+iter 57340 || Loss: 5.7385 ||
+timer: 0.1545 sec.
+iter 57350 || Loss: 5.1547 ||
+timer: 0.1524 sec.
+iter 57360 || Loss: 5.8876 ||
+timer: 0.1531 sec.
+iter 57370 || Loss: 6.6775 ||
+timer: 0.1533 sec.
+iter 57380 || Loss: 4.7073 ||
+timer: 0.1567 sec.
+iter 57390 || Loss: 5.1877 ||
+timer: 0.1537 sec.
+iter 57400 || Loss: 5.5788 ||
+timer: 0.1520 sec.
+iter 57410 || Loss: 5.2479 ||
+timer: 0.1540 sec.
+iter 57420 || Loss: 6.0969 ||
+timer: 0.1577 sec.
+iter 57430 || Loss: 5.9261 ||
+timer: 0.1547 sec.
+iter 57440 || Loss: 6.2568 ||
+timer: 0.1534 sec.
+iter 57450 || Loss: 5.3240 ||
+timer: 0.1521 sec.
+iter 57460 || Loss: 5.2744 ||
+timer: 0.1547 sec.
+iter 57470 || Loss: 5.2446 ||
+timer: 0.1536 sec.
+iter 57480 || Loss: 5.7265 ||
+timer: 0.1529 sec.
+iter 57490 || Loss: 5.8976 ||
+timer: 0.1551 sec.
+iter 57500 || Loss: 6.7014 ||
+timer: 0.1525 sec.
+iter 57510 || Loss: 5.7886 ||
+timer: 0.1527 sec.
+iter 57520 || Loss: 5.5558 ||
+timer: 0.1549 sec.
+iter 57530 || Loss: 5.7531 ||
+timer: 0.1550 sec.
+iter 57540 || Loss: 6.2811 ||
+timer: 0.1523 sec.
+iter 57550 || Loss: 5.3137 ||
+timer: 0.1542 sec.
+iter 57560 || Loss: 5.8840 ||
+timer: 0.1528 sec.
+iter 57570 || Loss: 5.6388 ||
+timer: 0.1522 sec.
+iter 57580 || Loss: 4.6480 ||
+timer: 0.1527 sec.
+iter 57590 || Loss: 5.0963 ||
+timer: 0.1525 sec.
+iter 57600 || Loss: 6.1451 ||
+timer: 0.1543 sec.
+iter 57610 || Loss: 5.6864 ||
+timer: 0.1515 sec.
+iter 57620 || Loss: 6.2402 ||
+timer: 0.1524 sec.
+iter 57630 || Loss: 5.6819 ||
+timer: 0.1548 sec.
+iter 57640 || Loss: 6.0313 ||
+timer: 0.1558 sec.
+iter 57650 || Loss: 5.3047 ||
+timer: 0.1541 sec.
+iter 57660 || Loss: 6.3015 ||
+timer: 0.1558 sec.
+iter 57670 || Loss: 5.7265 ||
+timer: 0.1535 sec.
+iter 57680 || Loss: 5.6647 ||
+timer: 0.1556 sec.
+iter 57690 || Loss: 5.6225 ||
+timer: 0.1543 sec.
+iter 57700 || Loss: 5.8506 ||
+timer: 0.1522 sec.
+iter 57710 || Loss: 5.8524 ||
+timer: 0.1622 sec.
+iter 57720 || Loss: 5.7362 ||
+timer: 0.1621 sec.
+iter 57730 || Loss: 6.0123 ||
+timer: 0.1554 sec.
+iter 57740 || Loss: 5.8376 ||
+timer: 0.1547 sec.
+iter 57750 || Loss: 5.9766 ||
+timer: 0.1541 sec.
+iter 57760 || Loss: 5.7499 ||
+timer: 0.1545 sec.
+iter 57770 || Loss: 4.8605 ||
+timer: 0.1554 sec.
+iter 57780 || Loss: 6.6702 ||
+timer: 0.1516 sec.
+iter 57790 || Loss: 5.1510 ||
+timer: 0.1542 sec.
+iter 57800 || Loss: 5.8295 ||
+timer: 0.1552 sec.
+iter 57810 || Loss: 5.3139 ||
+timer: 0.1556 sec.
+iter 57820 || Loss: 5.0033 ||
+timer: 0.1541 sec.
+iter 57830 || Loss: 5.2908 ||
+timer: 0.1572 sec.
+iter 57840 || Loss: 6.3487 ||
+timer: 0.1528 sec.
+iter 57850 || Loss: 5.2411 ||
+timer: 0.1528 sec.
+iter 57860 || Loss: 5.3986 ||
+timer: 0.1523 sec.
+iter 57870 || Loss: 5.8208 ||
+timer: 0.1526 sec.
+iter 57880 || Loss: 6.1665 ||
+timer: 0.1522 sec.
+iter 57890 || Loss: 5.0145 ||
+timer: 0.1549 sec.
+iter 57900 || Loss: 5.0835 ||
+timer: 0.1553 sec.
+iter 57910 || Loss: 6.9466 ||
+timer: 0.1539 sec.
+iter 57920 || Loss: 5.8225 ||
+timer: 0.1658 sec.
+iter 57930 || Loss: 5.8055 ||
+timer: 0.1518 sec.
+iter 57940 || Loss: 5.8737 ||
+timer: 0.1556 sec.
+iter 57950 || Loss: 6.1711 ||
+timer: 0.1514 sec.
+iter 57960 || Loss: 5.2143 ||
+timer: 0.1532 sec.
+iter 57970 || Loss: 5.8067 ||
+timer: 0.1564 sec.
+iter 57980 || Loss: 5.9865 ||
+timer: 0.1536 sec.
+iter 57990 || Loss: 5.2746 ||
+timer: 0.1670 sec.
+iter 58000 || Loss: 6.5528 ||
+timer: 0.1540 sec.
+iter 58010 || Loss: 5.6169 ||
+timer: 0.1561 sec.
+iter 58020 || Loss: 6.0493 ||
+timer: 0.1534 sec.
+iter 58030 || Loss: 5.6384 ||
+timer: 0.1602 sec.
+iter 58040 || Loss: 5.4007 ||
+timer: 0.1561 sec.
+iter 58050 || Loss: 5.7482 ||
+timer: 0.1536 sec.
+iter 58060 || Loss: 5.9214 ||
+timer: 0.1539 sec.
+iter 58070 || Loss: 6.2227 ||
+timer: 0.1530 sec.
+iter 58080 || Loss: 5.4449 ||
+timer: 0.1524 sec.
+iter 58090 || Loss: 4.9557 ||
+timer: 0.1563 sec.
+iter 58100 || Loss: 7.0859 ||
+timer: 0.1556 sec.
+iter 58110 || Loss: 7.1611 ||
+timer: 0.1536 sec.
+iter 58120 || Loss: 6.0206 ||
+timer: 0.1567 sec.
+iter 58130 || Loss: 6.4476 ||
+timer: 0.1540 sec.
+iter 58140 || Loss: 5.3203 ||
+timer: 0.1533 sec.
+iter 58150 || Loss: 5.8756 ||
+timer: 0.1627 sec.
+iter 58160 || Loss: 6.5293 ||
+timer: 0.1525 sec.
+iter 58170 || Loss: 6.2594 ||
+timer: 0.1548 sec.
+iter 58180 || Loss: 5.9847 ||
+timer: 0.1524 sec.
+iter 58190 || Loss: 6.0258 ||
+timer: 0.1543 sec.
+iter 58200 || Loss: 5.5067 ||
+timer: 0.1526 sec.
+iter 58210 || Loss: 5.1262 ||
+timer: 0.1547 sec.
+iter 58220 || Loss: 5.3911 ||
+timer: 0.1548 sec.
+iter 58230 || Loss: 5.8814 ||
+timer: 0.1554 sec.
+iter 58240 || Loss: 5.8827 ||
+timer: 0.1546 sec.
+iter 58250 || Loss: 5.2403 ||
+timer: 0.1528 sec.
+iter 58260 || Loss: 5.6924 ||
+timer: 0.1544 sec.
+iter 58270 || Loss: 6.5625 ||
+timer: 0.1525 sec.
+iter 58280 || Loss: 5.2687 ||
+timer: 0.1551 sec.
+iter 58290 || Loss: 5.5006 ||
+timer: 0.1533 sec.
+iter 58300 || Loss: 5.5300 ||
+timer: 0.1563 sec.
+iter 58310 || Loss: 5.1474 ||
+timer: 0.1539 sec.
+iter 58320 || Loss: 6.7538 ||
+timer: 0.1532 sec.
+iter 58330 || Loss: 5.3841 ||
+timer: 0.1541 sec.
+iter 58340 || Loss: 5.5422 ||
+timer: 0.1512 sec.
+iter 58350 || Loss: 5.1441 ||
+timer: 0.1529 sec.
+iter 58360 || Loss: 4.7668 ||
+timer: 0.1556 sec.
+iter 58370 || Loss: 5.6396 ||
+timer: 0.1535 sec.
+iter 58380 || Loss: 5.9215 ||
+timer: 0.1531 sec.
+iter 58390 || Loss: 5.7498 ||
+timer: 0.1560 sec.
+iter 58400 || Loss: 5.5715 ||
+timer: 0.1529 sec.
+iter 58410 || Loss: 6.0098 ||
+timer: 0.1536 sec.
+iter 58420 || Loss: 6.3872 ||
+timer: 0.1545 sec.
+iter 58430 || Loss: 6.0794 ||
+timer: 0.1543 sec.
+iter 58440 || Loss: 5.3608 ||
+timer: 0.1519 sec.
+iter 58450 || Loss: 5.6001 ||
+timer: 0.1547 sec.
+iter 58460 || Loss: 5.6810 ||
+timer: 0.1542 sec.
+iter 58470 || Loss: 5.3832 ||
+timer: 0.1551 sec.
+iter 58480 || Loss: 5.7429 ||
+timer: 0.1531 sec.
+iter 58490 || Loss: 5.6938 ||
+timer: 0.1584 sec.
+iter 58500 || Loss: 5.8686 ||
+timer: 0.1534 sec.
+iter 58510 || Loss: 5.5224 ||
+timer: 0.1530 sec.
+iter 58520 || Loss: 6.0562 ||
+timer: 0.1532 sec.
+iter 58530 || Loss: 5.1876 ||
+timer: 0.1551 sec.
+iter 58540 || Loss: 5.9029 ||
+timer: 0.1560 sec.
+iter 58550 || Loss: 5.3997 ||
+timer: 0.1558 sec.
+iter 58560 || Loss: 6.1257 ||
+timer: 0.1542 sec.
+iter 58570 || Loss: 5.0490 ||
+timer: 0.1527 sec.
+iter 58580 || Loss: 5.4116 ||
+timer: 0.1537 sec.
+iter 58590 || Loss: 6.0848 ||
+timer: 0.1530 sec.
+iter 58600 || Loss: 5.8563 ||
+timer: 0.1544 sec.
+iter 58610 || Loss: 5.6864 ||
+timer: 0.1552 sec.
+iter 58620 || Loss: 4.9260 ||
+timer: 0.1536 sec.
+iter 58630 || Loss: 5.7162 ||
+timer: 0.1544 sec.
+iter 58640 || Loss: 6.9615 ||
+timer: 0.1526 sec.
+iter 58650 || Loss: 5.2134 ||
+timer: 0.1576 sec.
+iter 58660 || Loss: 6.6754 ||
+timer: 0.1551 sec.
+iter 58670 || Loss: 5.5446 ||
+timer: 0.1567 sec.
+iter 58680 || Loss: 6.5012 ||
+timer: 0.1528 sec.
+iter 58690 || Loss: 5.4306 ||
+timer: 0.1548 sec.
+iter 58700 || Loss: 5.8322 ||
+timer: 0.1528 sec.
+iter 58710 || Loss: 5.9002 ||
+timer: 0.1548 sec.
+iter 58720 || Loss: 5.7292 ||
+timer: 0.1553 sec.
+iter 58730 || Loss: 6.4625 ||
+timer: 0.1540 sec.
+iter 58740 || Loss: 5.6014 ||
+timer: 0.1539 sec.
+iter 58750 || Loss: 5.5890 ||
+timer: 0.1552 sec.
+iter 58760 || Loss: 6.2776 ||
+timer: 0.1589 sec.
+iter 58770 || Loss: 5.5340 ||
+timer: 0.1535 sec.
+iter 58780 || Loss: 6.6653 ||
+timer: 0.1545 sec.
+iter 58790 || Loss: 6.0610 ||
+timer: 0.1548 sec.
+iter 58800 || Loss: 5.4211 ||
+timer: 0.1544 sec.
+iter 58810 || Loss: 5.8884 ||
+timer: 0.1536 sec.
+iter 58820 || Loss: 5.6459 ||
+timer: 0.1531 sec.
+iter 58830 || Loss: 5.4169 ||
+timer: 0.1529 sec.
+iter 58840 || Loss: 5.5354 ||
+timer: 0.1544 sec.
+iter 58850 || Loss: 5.7580 ||
+timer: 0.1534 sec.
+iter 58860 || Loss: 5.2325 ||
+timer: 0.1541 sec.
+iter 58870 || Loss: 5.5375 ||
+timer: 0.1533 sec.
+iter 58880 || Loss: 5.4334 ||
+timer: 0.1552 sec.
+iter 58890 || Loss: 5.2895 ||
+timer: 0.1544 sec.
+iter 58900 || Loss: 4.9299 ||
+timer: 0.1553 sec.
+iter 58910 || Loss: 6.1116 ||
+timer: 0.1544 sec.
+iter 58920 || Loss: 5.5733 ||
+timer: 0.1536 sec.
+iter 58930 || Loss: 5.7206 ||
+timer: 0.1523 sec.
+iter 58940 || Loss: 5.1400 ||
+timer: 0.1539 sec.
+iter 58950 || Loss: 6.0450 ||
+timer: 0.1537 sec.
+iter 58960 || Loss: 6.2422 ||
+timer: 0.1586 sec.
+iter 58970 || Loss: 6.4292 ||
+timer: 0.1532 sec.
+iter 58980 || Loss: 5.7182 ||
+timer: 0.1541 sec.
+iter 58990 || Loss: 5.9182 ||
+timer: 0.1554 sec.
+iter 59000 || Loss: 5.8773 ||
+timer: 0.1548 sec.
+iter 59010 || Loss: 5.3700 ||
+timer: 0.1531 sec.
+iter 59020 || Loss: 4.8469 ||
+timer: 0.1521 sec.
+iter 59030 || Loss: 5.6974 ||
+timer: 0.1539 sec.
+iter 59040 || Loss: 6.3065 ||
+timer: 0.1562 sec.
+iter 59050 || Loss: 5.6280 ||
+timer: 0.1540 sec.
+iter 59060 || Loss: 6.6794 ||
+timer: 0.1545 sec.
+iter 59070 || Loss: 5.6860 ||
+timer: 0.1567 sec.
+iter 59080 || Loss: 5.2705 ||
+timer: 0.1574 sec.
+iter 59090 || Loss: 6.0760 ||
+timer: 0.1541 sec.
+iter 59100 || Loss: 6.3296 ||
+timer: 0.1553 sec.
+iter 59110 || Loss: 5.5979 ||
+timer: 0.1545 sec.
+iter 59120 || Loss: 5.5880 ||
+timer: 0.1605 sec.
+iter 59130 || Loss: 5.6951 ||
+timer: 0.1556 sec.
+iter 59140 || Loss: 5.8776 ||
+timer: 0.1563 sec.
+iter 59150 || Loss: 5.5519 ||
+timer: 0.1561 sec.
+iter 59160 || Loss: 6.0508 ||
+timer: 0.1559 sec.
+iter 59170 || Loss: 5.7460 ||
+timer: 0.1638 sec.
+iter 59180 || Loss: 6.4858 ||
+timer: 0.1556 sec.
+iter 59190 || Loss: 6.4543 ||
+timer: 0.1554 sec.
+iter 59200 || Loss: 5.4938 ||
+timer: 0.1619 sec.
+iter 59210 || Loss: 6.1592 ||
+timer: 0.1535 sec.
+iter 59220 || Loss: 5.5375 ||
+timer: 0.1546 sec.
+iter 59230 || Loss: 5.6396 ||
+timer: 0.1567 sec.
+iter 59240 || Loss: 5.5971 ||
+timer: 0.1560 sec.
+iter 59250 || Loss: 5.9762 ||
+timer: 0.1527 sec.
+iter 59260 || Loss: 6.5433 ||
+timer: 0.1518 sec.
+iter 59270 || Loss: 5.5139 ||
+timer: 0.1606 sec.
+iter 59280 || Loss: 6.2633 ||
+timer: 0.1559 sec.
+iter 59290 || Loss: 5.4538 ||
+timer: 0.1555 sec.
+iter 59300 || Loss: 5.2680 ||
+timer: 0.1530 sec.
+iter 59310 || Loss: 5.6815 ||
+timer: 0.1644 sec.
+iter 59320 || Loss: 6.1657 ||
+timer: 0.1531 sec.
+iter 59330 || Loss: 5.6450 ||
+timer: 0.1543 sec.
+iter 59340 || Loss: 5.5588 ||
+timer: 0.1543 sec.
+iter 59350 || Loss: 5.5211 ||
+timer: 0.1549 sec.
+iter 59360 || Loss: 5.4958 ||
+timer: 0.1533 sec.
+iter 59370 || Loss: 5.5217 ||
+timer: 0.1539 sec.
+iter 59380 || Loss: 5.6811 ||
+timer: 0.1537 sec.
+iter 59390 || Loss: 5.3820 ||
+timer: 0.1568 sec.
+iter 59400 || Loss: 5.6443 ||
+timer: 0.1530 sec.
+iter 59410 || Loss: 6.0325 ||
+timer: 0.1549 sec.
+iter 59420 || Loss: 5.6072 ||
+timer: 0.1535 sec.
+iter 59430 || Loss: 5.3110 ||
+timer: 0.1538 sec.
+iter 59440 || Loss: 5.9880 ||
+timer: 0.1536 sec.
+iter 59450 || Loss: 5.7269 ||
+timer: 0.1523 sec.
+iter 59460 || Loss: 5.6672 ||
+timer: 0.1535 sec.
+iter 59470 || Loss: 5.7970 ||
+timer: 0.1541 sec.
+iter 59480 || Loss: 6.2685 ||
+timer: 0.1539 sec.
+iter 59490 || Loss: 6.9154 ||
+timer: 0.1614 sec.
+iter 59500 || Loss: 6.2682 ||
+timer: 0.1544 sec.
+iter 59510 || Loss: 5.4390 ||
+timer: 0.1519 sec.
+iter 59520 || Loss: 5.2041 ||
+timer: 0.1539 sec.
+iter 59530 || Loss: 6.4091 ||
+timer: 0.1571 sec.
+iter 59540 || Loss: 5.8382 ||
+timer: 0.1539 sec.
+iter 59550 || Loss: 5.7498 ||
+timer: 0.1533 sec.
+iter 59560 || Loss: 5.6435 ||
+timer: 0.1527 sec.
+iter 59570 || Loss: 5.9964 ||
+timer: 0.1531 sec.
+iter 59580 || Loss: 4.9713 ||
+timer: 0.1547 sec.
+iter 59590 || Loss: 6.3136 ||
+timer: 0.1566 sec.
+iter 59600 || Loss: 5.6447 ||
+timer: 0.1542 sec.
+iter 59610 || Loss: 6.4244 ||
+timer: 0.1548 sec.
+iter 59620 || Loss: 5.8798 ||
+timer: 0.1554 sec.
+iter 59630 || Loss: 6.2787 ||
+timer: 0.1522 sec.
+iter 59640 || Loss: 4.7911 ||
+timer: 0.1646 sec.
+iter 59650 || Loss: 6.0503 ||
+timer: 0.1536 sec.
+iter 59660 || Loss: 6.1519 ||
+timer: 0.1561 sec.
+iter 59670 || Loss: 5.8601 ||
+timer: 0.1552 sec.
+iter 59680 || Loss: 5.7847 ||
+timer: 0.1539 sec.
+iter 59690 || Loss: 5.6942 ||
+timer: 0.1529 sec.
+iter 59700 || Loss: 5.7633 ||
+timer: 0.1531 sec.
+iter 59710 || Loss: 6.6448 ||
+timer: 0.1559 sec.
+iter 59720 || Loss: 6.4311 ||
+timer: 0.1553 sec.
+iter 59730 || Loss: 5.8728 ||
+timer: 0.1619 sec.
+iter 59740 || Loss: 5.6933 ||
+timer: 0.1585 sec.
+iter 59750 || Loss: 5.7647 ||
+timer: 0.1600 sec.
+iter 59760 || Loss: 5.8229 ||
+timer: 0.1568 sec.
+iter 59770 || Loss: 5.4915 ||
+timer: 0.1547 sec.
+iter 59780 || Loss: 5.5283 ||
+timer: 0.1532 sec.
+iter 59790 || Loss: 5.3271 ||
+timer: 0.1523 sec.
+iter 59800 || Loss: 5.5342 ||
+timer: 0.1524 sec.
+iter 59810 || Loss: 4.5673 ||
+timer: 0.1538 sec.
+iter 59820 || Loss: 5.8049 ||
+timer: 0.1531 sec.
+iter 59830 || Loss: 5.7018 ||
+timer: 0.1537 sec.
+iter 59840 || Loss: 6.1434 ||
+timer: 0.1551 sec.
+iter 59850 || Loss: 5.4969 ||
+timer: 0.1532 sec.
+iter 59860 || Loss: 5.6961 ||
+timer: 0.1585 sec.
+iter 59870 || Loss: 5.4955 ||
+timer: 0.1633 sec.
+iter 59880 || Loss: 6.3324 ||
+timer: 0.1590 sec.
+iter 59890 || Loss: 4.7565 ||
+timer: 0.1533 sec.
+iter 59900 || Loss: 5.6422 ||
+timer: 0.1560 sec.
+iter 59910 || Loss: 5.2526 ||
+timer: 0.1539 sec.
+iter 59920 || Loss: 5.3636 ||
+timer: 0.1567 sec.
+iter 59930 || Loss: 6.6251 ||
+timer: 0.1537 sec.
+iter 59940 || Loss: 6.3963 ||
+timer: 0.1556 sec.
+iter 59950 || Loss: 6.2168 ||
+timer: 0.1567 sec.
+iter 59960 || Loss: 6.6358 ||
+timer: 0.1540 sec.
+iter 59970 || Loss: 5.2661 ||
+timer: 0.1570 sec.
+iter 59980 || Loss: 5.8453 ||
+timer: 0.1562 sec.
+iter 59990 || Loss: 5.7645 ||
+timer: 0.1537 sec.
+iter 60000 || Loss: 5.8258 ||
+Saving state, iter: 60000
+timer: 0.1537 sec.
+iter 60010 || Loss: 5.5186 ||
+timer: 0.1548 sec.
+iter 60020 || Loss: 5.6364 ||
+timer: 0.1531 sec.
+iter 60030 || Loss: 6.4124 ||
+timer: 0.1528 sec.
+iter 60040 || Loss: 5.8857 ||
+timer: 0.1547 sec.
+iter 60050 || Loss: 5.6589 ||
+timer: 0.1535 sec.
+iter 60060 || Loss: 5.5628 ||
+timer: 0.1546 sec.
+iter 60070 || Loss: 6.0571 ||
+timer: 0.1580 sec.
+iter 60080 || Loss: 6.0369 ||
+timer: 0.1536 sec.
+iter 60090 || Loss: 6.1928 ||
+timer: 0.1525 sec.
+iter 60100 || Loss: 5.5388 ||
+timer: 0.1547 sec.
+iter 60110 || Loss: 5.8579 ||
+timer: 0.1535 sec.
+iter 60120 || Loss: 5.8678 ||
+timer: 0.1533 sec.
+iter 60130 || Loss: 5.5745 ||
+timer: 0.1533 sec.
+iter 60140 || Loss: 5.1814 ||
+timer: 0.1548 sec.
+iter 60150 || Loss: 5.3757 ||
+timer: 0.1545 sec.
+iter 60160 || Loss: 6.1406 ||
+timer: 0.1543 sec.
+iter 60170 || Loss: 5.5117 ||
+timer: 0.1550 sec.
+iter 60180 || Loss: 5.2889 ||
+timer: 0.1557 sec.
+iter 60190 || Loss: 5.3966 ||
+timer: 0.1606 sec.
+iter 60200 || Loss: 5.4185 ||
+timer: 0.1564 sec.
+iter 60210 || Loss: 5.8810 ||
+timer: 0.1560 sec.
+iter 60220 || Loss: 5.7962 ||
+timer: 0.1546 sec.
+iter 60230 || Loss: 5.8409 ||
+timer: 0.1529 sec.
+iter 60240 || Loss: 5.3164 ||
+timer: 0.1535 sec.
+iter 60250 || Loss: 5.4708 ||
+timer: 0.1545 sec.
+iter 60260 || Loss: 5.9211 ||
+timer: 0.1549 sec.
+iter 60270 || Loss: 5.9428 ||
+timer: 0.1532 sec.
+iter 60280 || Loss: 5.5157 ||
+timer: 0.1597 sec.
+iter 60290 || Loss: 4.9389 ||
+timer: 0.1544 sec.
+iter 60300 || Loss: 5.3883 ||
+timer: 0.1528 sec.
+iter 60310 || Loss: 5.1492 ||
+timer: 0.1541 sec.
+iter 60320 || Loss: 6.0415 ||
+timer: 0.1537 sec.
+iter 60330 || Loss: 5.6726 ||
+timer: 0.1527 sec.
+iter 60340 || Loss: 5.1905 ||
+timer: 0.1633 sec.
+iter 60350 || Loss: 6.0250 ||
+timer: 0.1522 sec.
+iter 60360 || Loss: 5.5235 ||
+timer: 0.1535 sec.
+iter 60370 || Loss: 5.3874 ||
+timer: 0.1527 sec.
+iter 60380 || Loss: 5.3790 ||
+timer: 0.1527 sec.
+iter 60390 || Loss: 6.0536 ||
+timer: 0.1525 sec.
+iter 60400 || Loss: 5.2919 ||
+timer: 0.1535 sec.
+iter 60410 || Loss: 5.6625 ||
+timer: 0.1528 sec.
+iter 60420 || Loss: 5.9853 ||
+timer: 0.1542 sec.
+iter 60430 || Loss: 4.9445 ||
+timer: 0.1544 sec.
+iter 60440 || Loss: 5.8209 ||
+timer: 0.1547 sec.
+iter 60450 || Loss: 6.0030 ||
+timer: 0.1521 sec.
+iter 60460 || Loss: 5.6465 ||
+timer: 0.1537 sec.
+iter 60470 || Loss: 5.8433 ||
+timer: 0.1534 sec.
+iter 60480 || Loss: 5.9741 ||
+timer: 0.1528 sec.
+iter 60490 || Loss: 5.7551 ||
+timer: 0.1534 sec.
+iter 60500 || Loss: 5.4395 ||
+timer: 0.1543 sec.
+iter 60510 || Loss: 5.8831 ||
+timer: 0.1531 sec.
+iter 60520 || Loss: 6.0709 ||
+timer: 0.1605 sec.
+iter 60530 || Loss: 5.0392 ||
+timer: 0.1624 sec.
+iter 60540 || Loss: 5.5045 ||
+timer: 0.1624 sec.
+iter 60550 || Loss: 5.4573 ||
+timer: 0.1561 sec.
+iter 60560 || Loss: 5.8814 ||
+timer: 0.1535 sec.
+iter 60570 || Loss: 5.5454 ||
+timer: 0.1544 sec.
+iter 60580 || Loss: 5.9671 ||
+timer: 0.1537 sec.
+iter 60590 || Loss: 5.3255 ||
+timer: 0.1538 sec.
+iter 60600 || Loss: 6.2424 ||
+timer: 0.1610 sec.
+iter 60610 || Loss: 5.5328 ||
+timer: 0.1542 sec.
+iter 60620 || Loss: 6.0533 ||
+timer: 0.1543 sec.
+iter 60630 || Loss: 5.9683 ||
+timer: 0.1552 sec.
+iter 60640 || Loss: 5.9629 ||
+timer: 0.1552 sec.
+iter 60650 || Loss: 5.5490 ||
+timer: 0.1560 sec.
+iter 60660 || Loss: 6.1180 ||
+timer: 0.1542 sec.
+iter 60670 || Loss: 5.9782 ||
+timer: 0.1519 sec.
+iter 60680 || Loss: 6.2008 ||
+timer: 0.1556 sec.
+iter 60690 || Loss: 5.7650 ||
+timer: 0.1597 sec.
+iter 60700 || Loss: 5.3842 ||
+timer: 0.1529 sec.
+iter 60710 || Loss: 5.6828 ||
+timer: 0.1666 sec.
+iter 60720 || Loss: 6.4685 ||
+timer: 0.1550 sec.
+iter 60730 || Loss: 5.1623 ||
+timer: 0.1551 sec.
+iter 60740 || Loss: 5.6000 ||
+timer: 0.1538 sec.
+iter 60750 || Loss: 4.6971 ||
+timer: 0.1532 sec.
+iter 60760 || Loss: 5.2248 ||
+timer: 0.1522 sec.
+iter 60770 || Loss: 4.3490 ||
+timer: 0.1519 sec.
+iter 60780 || Loss: 5.2426 ||
+timer: 0.1542 sec.
+iter 60790 || Loss: 5.4437 ||
+timer: 0.1530 sec.
+iter 60800 || Loss: 5.4657 ||
+timer: 0.1558 sec.
+iter 60810 || Loss: 5.8494 ||
+timer: 0.1517 sec.
+iter 60820 || Loss: 4.5876 ||
+timer: 0.1524 sec.
+iter 60830 || Loss: 5.7496 ||
+timer: 0.1529 sec.
+iter 60840 || Loss: 5.8076 ||
+timer: 0.1535 sec.
+iter 60850 || Loss: 5.6071 ||
+timer: 0.1544 sec.
+iter 60860 || Loss: 6.2460 ||
+timer: 0.1541 sec.
+iter 60870 || Loss: 5.7991 ||
+timer: 0.1521 sec.
+iter 60880 || Loss: 5.4975 ||
+timer: 0.1545 sec.
+iter 60890 || Loss: 5.6445 ||
+timer: 0.1545 sec.
+iter 60900 || Loss: 5.5860 ||
+timer: 0.1543 sec.
+iter 60910 || Loss: 5.8049 ||
+timer: 0.1518 sec.
+iter 60920 || Loss: 5.8437 ||
+timer: 0.1557 sec.
+iter 60930 || Loss: 6.0365 ||
+timer: 0.1526 sec.
+iter 60940 || Loss: 5.5611 ||
+timer: 0.1528 sec.
+iter 60950 || Loss: 5.2295 ||
+timer: 0.1521 sec.
+iter 60960 || Loss: 5.1466 ||
+timer: 0.1527 sec.
+iter 60970 || Loss: 5.3869 ||
+timer: 0.1520 sec.
+iter 60980 || Loss: 5.6562 ||
+timer: 0.1549 sec.
+iter 60990 || Loss: 6.0725 ||
+timer: 0.1532 sec.
+iter 61000 || Loss: 5.5425 ||
+timer: 0.1516 sec.
+iter 61010 || Loss: 5.2487 ||
+timer: 0.1543 sec.
+iter 61020 || Loss: 6.7248 ||
+timer: 0.1566 sec.
+iter 61030 || Loss: 5.6411 ||
+timer: 0.1527 sec.
+iter 61040 || Loss: 4.9617 ||
+timer: 0.1546 sec.
+iter 61050 || Loss: 5.0434 ||
+timer: 0.1541 sec.
+iter 61060 || Loss: 5.3239 ||
+timer: 0.1604 sec.
+iter 61070 || Loss: 5.9316 ||
+timer: 0.1524 sec.
+iter 61080 || Loss: 6.1764 ||
+timer: 0.1536 sec.
+iter 61090 || Loss: 5.2280 ||
+timer: 0.1537 sec.
+iter 61100 || Loss: 5.5907 ||
+timer: 0.1535 sec.
+iter 61110 || Loss: 5.5771 ||
+timer: 0.1581 sec.
+iter 61120 || Loss: 5.7336 ||
+timer: 0.1517 sec.
+iter 61130 || Loss: 4.8144 ||
+timer: 0.1532 sec.
+iter 61140 || Loss: 5.6660 ||
+timer: 0.1523 sec.
+iter 61150 || Loss: 5.9612 ||
+timer: 0.1511 sec.
+iter 61160 || Loss: 5.2937 ||
+timer: 0.1562 sec.
+iter 61170 || Loss: 5.9229 ||
+timer: 0.1548 sec.
+iter 61180 || Loss: 5.9358 ||
+timer: 0.1543 sec.
+iter 61190 || Loss: 5.8011 ||
+timer: 0.1530 sec.
+iter 61200 || Loss: 6.2052 ||
+timer: 0.1547 sec.
+iter 61210 || Loss: 5.2133 ||
+timer: 0.1535 sec.
+iter 61220 || Loss: 6.3823 ||
+timer: 0.1535 sec.
+iter 61230 || Loss: 5.6824 ||
+timer: 0.1676 sec.
+iter 61240 || Loss: 5.6356 ||
+timer: 0.1535 sec.
+iter 61250 || Loss: 5.3467 ||
+timer: 0.1563 sec.
+iter 61260 || Loss: 6.6196 ||
+timer: 0.1542 sec.
+iter 61270 || Loss: 7.3611 ||
+timer: 0.1526 sec.
+iter 61280 || Loss: 4.7396 ||
+timer: 0.1539 sec.
+iter 61290 || Loss: 6.8534 ||
+timer: 0.1518 sec.
+iter 61300 || Loss: 5.5291 ||
+timer: 0.1585 sec.
+iter 61310 || Loss: 5.0204 ||
+timer: 0.1596 sec.
+iter 61320 || Loss: 5.7749 ||
+timer: 0.1538 sec.
+iter 61330 || Loss: 5.2444 ||
+timer: 0.1537 sec.
+iter 61340 || Loss: 5.4835 ||
+timer: 0.1518 sec.
+iter 61350 || Loss: 5.7372 ||
+timer: 0.1536 sec.
+iter 61360 || Loss: 5.9693 ||
+timer: 0.1553 sec.
+iter 61370 || Loss: 6.2438 ||
+timer: 0.1527 sec.
+iter 61380 || Loss: 6.3580 ||
+timer: 0.1541 sec.
+iter 61390 || Loss: 5.4391 ||
+timer: 0.1546 sec.
+iter 61400 || Loss: 5.7321 ||
+timer: 0.1575 sec.
+iter 61410 || Loss: 5.5814 ||
+timer: 0.1535 sec.
+iter 61420 || Loss: 5.8281 ||
+timer: 0.1552 sec.
+iter 61430 || Loss: 5.2452 ||
+timer: 0.1532 sec.
+iter 61440 || Loss: 5.0961 ||
+timer: 0.1546 sec.
+iter 61450 || Loss: 6.3028 ||
+timer: 0.1529 sec.
+iter 61460 || Loss: 5.5920 ||
+timer: 0.1525 sec.
+iter 61470 || Loss: 5.8274 ||
+timer: 0.1556 sec.
+iter 61480 || Loss: 5.7121 ||
+timer: 0.1545 sec.
+iter 61490 || Loss: 5.6592 ||
+timer: 0.1532 sec.
+iter 61500 || Loss: 5.7441 ||
+timer: 0.1532 sec.
+iter 61510 || Loss: 5.9015 ||
+timer: 0.1519 sec.
+iter 61520 || Loss: 5.4461 ||
+timer: 0.1532 sec.
+iter 61530 || Loss: 5.7714 ||
+timer: 0.1557 sec.
+iter 61540 || Loss: 5.7666 ||
+timer: 0.1546 sec.
+iter 61550 || Loss: 5.3636 ||
+timer: 0.1542 sec.
+iter 61560 || Loss: 6.0744 ||
+timer: 0.1559 sec.
+iter 61570 || Loss: 5.3505 ||
+timer: 0.1517 sec.
+iter 61580 || Loss: 5.4744 ||
+timer: 0.1538 sec.
+iter 61590 || Loss: 5.3377 ||
+timer: 0.1602 sec.
+iter 61600 || Loss: 5.4050 ||
+timer: 0.1533 sec.
+iter 61610 || Loss: 5.4653 ||
+timer: 0.1534 sec.
+iter 61620 || Loss: 5.5890 ||
+timer: 0.1536 sec.
+iter 61630 || Loss: 5.5700 ||
+timer: 0.1519 sec.
+iter 61640 || Loss: 5.2256 ||
+timer: 0.1529 sec.
+iter 61650 || Loss: 6.0575 ||
+timer: 0.1541 sec.
+iter 61660 || Loss: 5.3546 ||
+timer: 0.1527 sec.
+iter 61670 || Loss: 5.1736 ||
+timer: 0.1535 sec.
+iter 61680 || Loss: 5.6083 ||
+timer: 0.1587 sec.
+iter 61690 || Loss: 6.3939 ||
+timer: 0.1534 sec.
+iter 61700 || Loss: 5.6136 ||
+timer: 0.1541 sec.
+iter 61710 || Loss: 5.7031 ||
+timer: 0.1569 sec.
+iter 61720 || Loss: 6.0008 ||
+timer: 0.1526 sec.
+iter 61730 || Loss: 5.8539 ||
+timer: 0.1552 sec.
+iter 61740 || Loss: 5.7747 ||
+timer: 0.1614 sec.
+iter 61750 || Loss: 6.3540 ||
+timer: 0.1541 sec.
+iter 61760 || Loss: 4.7876 ||
+timer: 0.1586 sec.
+iter 61770 || Loss: 5.9044 ||
+timer: 0.1553 sec.
+iter 61780 || Loss: 5.8458 ||
+timer: 0.1540 sec.
+iter 61790 || Loss: 6.1340 ||
+timer: 0.1542 sec.
+iter 61800 || Loss: 5.6590 ||
+timer: 0.1537 sec.
+iter 61810 || Loss: 5.2817 ||
+timer: 0.1575 sec.
+iter 61820 || Loss: 5.5624 ||
+timer: 0.1559 sec.
+iter 61830 || Loss: 4.8513 ||
+timer: 0.1546 sec.
+iter 61840 || Loss: 6.4623 ||
+timer: 0.1520 sec.
+iter 61850 || Loss: 4.9539 ||
+timer: 0.1547 sec.
+iter 61860 || Loss: 5.4965 ||
+timer: 0.1560 sec.
+iter 61870 || Loss: 5.4599 ||
+timer: 0.1540 sec.
+iter 61880 || Loss: 6.1642 ||
+timer: 0.1546 sec.
+iter 61890 || Loss: 5.6261 ||
+timer: 0.1579 sec.
+iter 61900 || Loss: 5.7575 ||
+timer: 0.1537 sec.
+iter 61910 || Loss: 6.5692 ||
+timer: 0.1597 sec.
+iter 61920 || Loss: 6.2451 ||
+timer: 0.1554 sec.
+iter 61930 || Loss: 6.3057 ||
+timer: 0.1550 sec.
+iter 61940 || Loss: 5.4988 ||
+timer: 0.1538 sec.
+iter 61950 || Loss: 5.1830 ||
+timer: 0.1550 sec.
+iter 61960 || Loss: 5.6326 ||
+timer: 0.1522 sec.
+iter 61970 || Loss: 5.0792 ||
+timer: 0.1558 sec.
+iter 61980 || Loss: 5.7193 ||
+timer: 0.1547 sec.
+iter 61990 || Loss: 5.9948 ||
+timer: 0.1530 sec.
+iter 62000 || Loss: 5.5577 ||
+timer: 0.1582 sec.
+iter 62010 || Loss: 5.5709 ||
+timer: 0.1537 sec.
+iter 62020 || Loss: 5.3167 ||
+timer: 0.1534 sec.
+iter 62030 || Loss: 5.2534 ||
+timer: 0.1539 sec.
+iter 62040 || Loss: 5.8290 ||
+timer: 0.1516 sec.
+iter 62050 || Loss: 5.4122 ||
+timer: 0.1586 sec.
+iter 62060 || Loss: 6.1054 ||
+timer: 0.1568 sec.
+iter 62070 || Loss: 6.8126 ||
+timer: 0.1545 sec.
+iter 62080 || Loss: 5.6847 ||
+timer: 0.1568 sec.
+iter 62090 || Loss: 6.7086 ||
+timer: 0.1549 sec.
+iter 62100 || Loss: 6.1257 ||
+timer: 0.1526 sec.
+iter 62110 || Loss: 5.3344 ||
+timer: 0.1536 sec.
+iter 62120 || Loss: 5.6282 ||
+timer: 0.1529 sec.
+iter 62130 || Loss: 5.2424 ||
+timer: 0.1535 sec.
+iter 62140 || Loss: 5.3303 ||
+timer: 0.1521 sec.
+iter 62150 || Loss: 5.7099 ||
+timer: 0.1543 sec.
+iter 62160 || Loss: 5.6194 ||
+timer: 0.1602 sec.
+iter 62170 || Loss: 4.6137 ||
+timer: 0.1530 sec.
+iter 62180 || Loss: 5.5902 ||
+timer: 0.1551 sec.
+iter 62190 || Loss: 5.6697 ||
+timer: 0.1634 sec.
+iter 62200 || Loss: 5.5553 ||
+timer: 0.1538 sec.
+iter 62210 || Loss: 5.5794 ||
+timer: 0.1537 sec.
+iter 62220 || Loss: 5.8678 ||
+timer: 0.1543 sec.
+iter 62230 || Loss: 6.0263 ||
+timer: 0.1541 sec.
+iter 62240 || Loss: 5.5612 ||
+timer: 0.1531 sec.
+iter 62250 || Loss: 5.9424 ||
+timer: 0.1537 sec.
+iter 62260 || Loss: 6.0930 ||
+timer: 0.1548 sec.
+iter 62270 || Loss: 5.2865 ||
+timer: 0.1550 sec.
+iter 62280 || Loss: 5.4390 ||
+timer: 0.1564 sec.
+iter 62290 || Loss: 6.2882 ||
+timer: 0.1553 sec.
+iter 62300 || Loss: 5.3770 ||
+timer: 0.1525 sec.
+iter 62310 || Loss: 6.1734 ||
+timer: 0.1591 sec.
+iter 62320 || Loss: 5.8124 ||
+timer: 0.1531 sec.
+iter 62330 || Loss: 6.2096 ||
+timer: 0.1574 sec.
+iter 62340 || Loss: 5.6688 ||
+timer: 0.1568 sec.
+iter 62350 || Loss: 5.9531 ||
+timer: 0.1544 sec.
+iter 62360 || Loss: 5.7583 ||
+timer: 0.1534 sec.
+iter 62370 || Loss: 5.3045 ||
+timer: 0.1563 sec.
+iter 62380 || Loss: 5.5481 ||
+timer: 0.1551 sec.
+iter 62390 || Loss: 6.4116 ||
+timer: 0.1522 sec.
+iter 62400 || Loss: 4.8202 ||
+timer: 0.1526 sec.
+iter 62410 || Loss: 6.1622 ||
+timer: 0.1539 sec.
+iter 62420 || Loss: 6.5469 ||
+timer: 0.1521 sec.
+iter 62430 || Loss: 5.0876 ||
+timer: 0.1525 sec.
+iter 62440 || Loss: 5.1191 ||
+timer: 0.1540 sec.
+iter 62450 || Loss: 6.0773 ||
+timer: 0.1546 sec.
+iter 62460 || Loss: 6.4233 ||
+timer: 0.1538 sec.
+iter 62470 || Loss: 6.1649 ||
+timer: 0.1529 sec.
+iter 62480 || Loss: 5.7635 ||
+timer: 0.1527 sec.
+iter 62490 || Loss: 5.3167 ||
+timer: 0.1537 sec.
+iter 62500 || Loss: 5.8495 ||
+timer: 0.1543 sec.
+iter 62510 || Loss: 6.5630 ||
+timer: 0.1542 sec.
+iter 62520 || Loss: 6.5168 ||
+timer: 0.1529 sec.
+iter 62530 || Loss: 5.0805 ||
+timer: 0.1535 sec.
+iter 62540 || Loss: 5.7334 ||
+timer: 0.1535 sec.
+iter 62550 || Loss: 5.5280 ||
+timer: 0.1596 sec.
+iter 62560 || Loss: 5.4703 ||
+timer: 0.1527 sec.
+iter 62570 || Loss: 6.3444 ||
+timer: 0.1565 sec.
+iter 62580 || Loss: 5.5660 ||
+timer: 0.1579 sec.
+iter 62590 || Loss: 5.4585 ||
+timer: 0.1531 sec.
+iter 62600 || Loss: 5.3268 ||
+timer: 0.1535 sec.
+iter 62610 || Loss: 5.6972 ||
+timer: 0.1544 sec.
+iter 62620 || Loss: 5.9879 ||
+timer: 0.1533 sec.
+iter 62630 || Loss: 6.2135 ||
+timer: 0.1567 sec.
+iter 62640 || Loss: 5.3111 ||
+timer: 0.1541 sec.
+iter 62650 || Loss: 5.4744 ||
+timer: 0.1547 sec.
+iter 62660 || Loss: 6.0011 ||
+timer: 0.1556 sec.
+iter 62670 || Loss: 5.4104 ||
+timer: 0.1554 sec.
+iter 62680 || Loss: 5.6145 ||
+timer: 0.1560 sec.
+iter 62690 || Loss: 5.7318 ||
+timer: 0.1544 sec.
+iter 62700 || Loss: 5.7548 ||
+timer: 0.1541 sec.
+iter 62710 || Loss: 5.3829 ||
+timer: 0.1563 sec.
+iter 62720 || Loss: 5.5713 ||
+timer: 0.1535 sec.
+iter 62730 || Loss: 5.0409 ||
+timer: 0.1625 sec.
+iter 62740 || Loss: 6.2791 ||
+timer: 0.1609 sec.
+iter 62750 || Loss: 6.1733 ||
+timer: 0.1537 sec.
+iter 62760 || Loss: 5.1289 ||
+timer: 0.1524 sec.
+iter 62770 || Loss: 4.3639 ||
+timer: 0.1519 sec.
+iter 62780 || Loss: 4.6753 ||
+timer: 0.1535 sec.
+iter 62790 || Loss: 5.4469 ||
+timer: 0.1535 sec.
+iter 62800 || Loss: 5.3605 ||
+timer: 0.1550 sec.
+iter 62810 || Loss: 6.9719 ||
+timer: 0.1527 sec.
+iter 62820 || Loss: 6.0179 ||
+timer: 0.1522 sec.
+iter 62830 || Loss: 5.7905 ||
+timer: 0.1552 sec.
+iter 62840 || Loss: 6.1181 ||
+timer: 0.1522 sec.
+iter 62850 || Loss: 5.0978 ||
+timer: 0.1517 sec.
+iter 62860 || Loss: 6.2198 ||
+timer: 0.1534 sec.
+iter 62870 || Loss: 5.6719 ||
+timer: 0.1549 sec.
+iter 62880 || Loss: 5.1076 ||
+timer: 0.1523 sec.
+iter 62890 || Loss: 5.7167 ||
+timer: 0.1535 sec.
+iter 62900 || Loss: 5.2757 ||
+timer: 0.1611 sec.
+iter 62910 || Loss: 5.4785 ||
+timer: 0.1546 sec.
+iter 62920 || Loss: 6.4441 ||
+timer: 0.1546 sec.
+iter 62930 || Loss: 5.4380 ||
+timer: 0.1560 sec.
+iter 62940 || Loss: 5.2054 ||
+timer: 0.1546 sec.
+iter 62950 || Loss: 6.1979 ||
+timer: 0.1549 sec.
+iter 62960 || Loss: 5.1002 ||
+timer: 0.1523 sec.
+iter 62970 || Loss: 5.0487 ||
+timer: 0.1559 sec.
+iter 62980 || Loss: 6.8924 ||
+timer: 0.1534 sec.
+iter 62990 || Loss: 5.8652 ||
+timer: 0.1550 sec.
+iter 63000 || Loss: 5.3269 ||
+timer: 0.1534 sec.
+iter 63010 || Loss: 4.9243 ||
+timer: 0.1537 sec.
+iter 63020 || Loss: 5.8267 ||
+timer: 0.1525 sec.
+iter 63030 || Loss: 5.1601 ||
+timer: 0.1542 sec.
+iter 63040 || Loss: 5.6423 ||
+timer: 0.1521 sec.
+iter 63050 || Loss: 5.2484 ||
+timer: 0.1544 sec.
+iter 63060 || Loss: 5.4911 ||
+timer: 0.1538 sec.
+iter 63070 || Loss: 6.0847 ||
+timer: 0.1536 sec.
+iter 63080 || Loss: 5.7240 ||
+timer: 0.1539 sec.
+iter 63090 || Loss: 5.2133 ||
+timer: 0.1553 sec.
+iter 63100 || Loss: 5.3895 ||
+timer: 0.1523 sec.
+iter 63110 || Loss: 5.4159 ||
+timer: 0.1545 sec.
+iter 63120 || Loss: 6.1023 ||
+timer: 0.1550 sec.
+iter 63130 || Loss: 5.8756 ||
+timer: 0.1530 sec.
+iter 63140 || Loss: 5.1029 ||
+timer: 0.1545 sec.
+iter 63150 || Loss: 6.3909 ||
+timer: 0.1525 sec.
+iter 63160 || Loss: 5.8502 ||
+timer: 0.1546 sec.
+iter 63170 || Loss: 6.9819 ||
+timer: 0.1539 sec.
+iter 63180 || Loss: 5.9256 ||
+timer: 0.1539 sec.
+iter 63190 || Loss: 5.9814 ||
+timer: 0.1597 sec.
+iter 63200 || Loss: 5.3473 ||
+timer: 0.1556 sec.
+iter 63210 || Loss: 6.1635 ||
+timer: 0.1585 sec.
+iter 63220 || Loss: 6.6051 ||
+timer: 0.1533 sec.
+iter 63230 || Loss: 5.6967 ||
+timer: 0.1542 sec.
+iter 63240 || Loss: 6.0684 ||
+timer: 0.1568 sec.
+iter 63250 || Loss: 5.3231 ||
+timer: 0.1579 sec.
+iter 63260 || Loss: 5.7530 ||
+timer: 0.1516 sec.
+iter 63270 || Loss: 5.5880 ||
+timer: 0.1533 sec.
+iter 63280 || Loss: 5.5498 ||
+timer: 0.1519 sec.
+iter 63290 || Loss: 5.2168 ||
+timer: 0.1566 sec.
+iter 63300 || Loss: 5.7656 ||
+timer: 0.1536 sec.
+iter 63310 || Loss: 5.5458 ||
+timer: 0.1541 sec.
+iter 63320 || Loss: 6.0955 ||
+timer: 0.1531 sec.
+iter 63330 || Loss: 6.0071 ||
+timer: 0.1552 sec.
+iter 63340 || Loss: 5.7024 ||
+timer: 0.1599 sec.
+iter 63350 || Loss: 6.2902 ||
+timer: 0.1562 sec.
+iter 63360 || Loss: 5.9100 ||
+timer: 0.1531 sec.
+iter 63370 || Loss: 5.4063 ||
+timer: 0.1532 sec.
+iter 63380 || Loss: 5.8161 ||
+timer: 0.1554 sec.
+iter 63390 || Loss: 5.6485 ||
+timer: 0.1548 sec.
+iter 63400 || Loss: 5.4408 ||
+timer: 0.1561 sec.
+iter 63410 || Loss: 5.7268 ||
+timer: 0.1560 sec.
+iter 63420 || Loss: 5.9097 ||
+timer: 0.1533 sec.
+iter 63430 || Loss: 5.3994 ||
+timer: 0.1578 sec.
+iter 63440 || Loss: 5.6954 ||
+timer: 0.1534 sec.
+iter 63450 || Loss: 5.4259 ||
+timer: 0.1554 sec.
+iter 63460 || Loss: 5.7006 ||
+timer: 0.1541 sec.
+iter 63470 || Loss: 5.4570 ||
+timer: 0.1544 sec.
+iter 63480 || Loss: 5.7197 ||
+timer: 0.1553 sec.
+iter 63490 || Loss: 5.4692 ||
+timer: 0.1540 sec.
+iter 63500 || Loss: 6.0573 ||
+timer: 0.1525 sec.
+iter 63510 || Loss: 5.5693 ||
+timer: 0.1542 sec.
+iter 63520 || Loss: 5.2966 ||
+timer: 0.1518 sec.
+iter 63530 || Loss: 5.3570 ||
+timer: 0.1550 sec.
+iter 63540 || Loss: 5.7525 ||
+timer: 0.1532 sec.
+iter 63550 || Loss: 5.7868 ||
+timer: 0.1550 sec.
+iter 63560 || Loss: 6.0215 ||
+timer: 0.1546 sec.
+iter 63570 || Loss: 5.3360 ||
+timer: 0.1546 sec.
+iter 63580 || Loss: 5.4316 ||
+timer: 0.1555 sec.
+iter 63590 || Loss: 5.4950 ||
+timer: 0.1608 sec.
+iter 63600 || Loss: 5.6040 ||
+timer: 0.1556 sec.
+iter 63610 || Loss: 5.7552 ||
+timer: 0.1539 sec.
+iter 63620 || Loss: 5.5997 ||
+timer: 0.1558 sec.
+iter 63630 || Loss: 6.8929 ||
+timer: 0.1537 sec.
+iter 63640 || Loss: 5.4615 ||
+timer: 0.1530 sec.
+iter 63650 || Loss: 5.3641 ||
+timer: 0.1528 sec.
+iter 63660 || Loss: 5.9853 ||
+timer: 0.1565 sec.
+iter 63670 || Loss: 5.8795 ||
+timer: 0.1534 sec.
+iter 63680 || Loss: 5.4322 ||
+timer: 0.1538 sec.
+iter 63690 || Loss: 5.7004 ||
+timer: 0.1547 sec.
+iter 63700 || Loss: 5.6937 ||
+timer: 0.1552 sec.
+iter 63710 || Loss: 6.1739 ||
+timer: 0.1533 sec.
+iter 63720 || Loss: 4.9609 ||
+timer: 0.1543 sec.
+iter 63730 || Loss: 5.2079 ||
+timer: 0.1556 sec.
+iter 63740 || Loss: 5.2273 ||
+timer: 0.1548 sec.
+iter 63750 || Loss: 6.1242 ||
+timer: 0.1543 sec.
+iter 63760 || Loss: 5.3953 ||
+timer: 0.1519 sec.
+iter 63770 || Loss: 6.0964 ||
+timer: 0.1543 sec.
+iter 63780 || Loss: 5.6030 ||
+timer: 0.1528 sec.
+iter 63790 || Loss: 5.3330 ||
+timer: 0.1611 sec.
+iter 63800 || Loss: 5.4351 ||
+timer: 0.1539 sec.
+iter 63810 || Loss: 5.1220 ||
+timer: 0.1530 sec.
+iter 63820 || Loss: 5.3268 ||
+timer: 0.1538 sec.
+iter 63830 || Loss: 5.1763 ||
+timer: 0.1541 sec.
+iter 63840 || Loss: 5.9672 ||
+timer: 0.1519 sec.
+iter 63850 || Loss: 5.5547 ||
+timer: 0.1548 sec.
+iter 63860 || Loss: 6.1485 ||
+timer: 0.1521 sec.
+iter 63870 || Loss: 5.4631 ||
+timer: 0.1561 sec.
+iter 63880 || Loss: 6.0407 ||
+timer: 0.1547 sec.
+iter 63890 || Loss: 5.4859 ||
+timer: 0.1540 sec.
+iter 63900 || Loss: 5.6880 ||
+timer: 0.1534 sec.
+iter 63910 || Loss: 5.5559 ||
+timer: 0.1559 sec.
+iter 63920 || Loss: 5.9092 ||
+timer: 0.1536 sec.
+iter 63930 || Loss: 5.7882 ||
+timer: 0.1538 sec.
+iter 63940 || Loss: 5.5710 ||
+timer: 0.1536 sec.
+iter 63950 || Loss: 5.3217 ||
+timer: 0.1605 sec.
+iter 63960 || Loss: 5.2786 ||
+timer: 0.1534 sec.
+iter 63970 || Loss: 5.7709 ||
+timer: 0.1562 sec.
+iter 63980 || Loss: 5.6901 ||
+timer: 0.1542 sec.
+iter 63990 || Loss: 5.4838 ||
+timer: 0.1533 sec.
+iter 64000 || Loss: 6.1926 ||
+timer: 0.1531 sec.
+iter 64010 || Loss: 5.8730 ||
+timer: 0.1567 sec.
+iter 64020 || Loss: 5.6066 ||
+timer: 0.1537 sec.
+iter 64030 || Loss: 5.1575 ||
+timer: 0.1555 sec.
+iter 64040 || Loss: 5.4065 ||
+timer: 0.1540 sec.
+iter 64050 || Loss: 5.2104 ||
+timer: 0.1536 sec.
+iter 64060 || Loss: 5.7570 ||
+timer: 0.1546 sec.
+iter 64070 || Loss: 5.3401 ||
+timer: 0.1537 sec.
+iter 64080 || Loss: 5.1882 ||
+timer: 0.1543 sec.
+iter 64090 || Loss: 6.0564 ||
+timer: 0.1530 sec.
+iter 64100 || Loss: 6.2510 ||
+timer: 0.1527 sec.
+iter 64110 || Loss: 5.2641 ||
+timer: 0.1527 sec.
+iter 64120 || Loss: 5.4872 ||
+timer: 0.1594 sec.
+iter 64130 || Loss: 5.2384 ||
+timer: 0.1553 sec.
+iter 64140 || Loss: 5.0594 ||
+timer: 0.1523 sec.
+iter 64150 || Loss: 5.1527 ||
+timer: 0.1532 sec.
+iter 64160 || Loss: 6.7041 ||
+timer: 0.1535 sec.
+iter 64170 || Loss: 5.1438 ||
+timer: 0.1530 sec.
+iter 64180 || Loss: 5.0879 ||
+timer: 0.1534 sec.
+iter 64190 || Loss: 4.9404 ||
+timer: 0.1545 sec.
+iter 64200 || Loss: 5.8790 ||
+timer: 0.1540 sec.
+iter 64210 || Loss: 5.6462 ||
+timer: 0.1562 sec.
+iter 64220 || Loss: 6.7963 ||
+timer: 0.1529 sec.
+iter 64230 || Loss: 4.9198 ||
+timer: 0.1561 sec.
+iter 64240 || Loss: 5.8455 ||
+timer: 0.1526 sec.
+iter 64250 || Loss: 5.7906 ||
+timer: 0.1618 sec.
+iter 64260 || Loss: 6.8820 ||
+timer: 0.1537 sec.
+iter 64270 || Loss: 5.9178 ||
+timer: 0.1545 sec.
+iter 64280 || Loss: 5.8055 ||
+timer: 0.1550 sec.
+iter 64290 || Loss: 5.7202 ||
+timer: 0.1546 sec.
+iter 64300 || Loss: 6.5415 ||
+timer: 0.1559 sec.
+iter 64310 || Loss: 5.2184 ||
+timer: 0.1547 sec.
+iter 64320 || Loss: 6.3209 ||
+timer: 0.1539 sec.
+iter 64330 || Loss: 5.5883 ||
+timer: 0.1539 sec.
+iter 64340 || Loss: 5.7383 ||
+timer: 0.1554 sec.
+iter 64350 || Loss: 5.5531 ||
+timer: 0.1543 sec.
+iter 64360 || Loss: 4.9374 ||
+timer: 0.1524 sec.
+iter 64370 || Loss: 5.7666 ||
+timer: 0.1529 sec.
+iter 64380 || Loss: 5.5351 ||
+timer: 0.1533 sec.
+iter 64390 || Loss: 5.9100 ||
+timer: 0.1542 sec.
+iter 64400 || Loss: 4.7721 ||
+timer: 0.1550 sec.
+iter 64410 || Loss: 6.0981 ||
+timer: 0.1533 sec.
+iter 64420 || Loss: 5.6391 ||
+timer: 0.1523 sec.
+iter 64430 || Loss: 4.4050 ||
+timer: 0.1528 sec.
+iter 64440 || Loss: 6.2456 ||
+timer: 0.1527 sec.
+iter 64450 || Loss: 5.2222 ||
+timer: 0.1527 sec.
+iter 64460 || Loss: 6.0567 ||
+timer: 0.1557 sec.
+iter 64470 || Loss: 6.1051 ||
+timer: 0.1544 sec.
+iter 64480 || Loss: 5.8684 ||
+timer: 0.1525 sec.
+iter 64490 || Loss: 5.3498 ||
+timer: 0.1530 sec.
+iter 64500 || Loss: 5.0488 ||
+timer: 0.1531 sec.
+iter 64510 || Loss: 6.8461 ||
+timer: 0.1538 sec.
+iter 64520 || Loss: 5.3939 ||
+timer: 0.1523 sec.
+iter 64530 || Loss: 5.1654 ||
+timer: 0.1540 sec.
+iter 64540 || Loss: 6.0228 ||
+timer: 0.1536 sec.
+iter 64550 || Loss: 5.6374 ||
+timer: 0.1564 sec.
+iter 64560 || Loss: 5.2873 ||
+timer: 0.1523 sec.
+iter 64570 || Loss: 5.3182 ||
+timer: 0.1549 sec.
+iter 64580 || Loss: 5.3150 ||
+timer: 0.1530 sec.
+iter 64590 || Loss: 5.7119 ||
+timer: 0.1656 sec.
+iter 64600 || Loss: 6.0084 ||
+timer: 0.1541 sec.
+iter 64610 || Loss: 5.9121 ||
+timer: 0.1609 sec.
+iter 64620 || Loss: 6.1553 ||
+timer: 0.1536 sec.
+iter 64630 || Loss: 6.3047 ||
+timer: 0.1541 sec.
+iter 64640 || Loss: 5.4473 ||
+timer: 0.1527 sec.
+iter 64650 || Loss: 5.0612 ||
+timer: 0.1539 sec.
+iter 64660 || Loss: 5.2279 ||
+timer: 0.1534 sec.
+iter 64670 || Loss: 5.6469 ||
+timer: 0.1525 sec.
+iter 64680 || Loss: 5.7367 ||
+timer: 0.1536 sec.
+iter 64690 || Loss: 5.0004 ||
+timer: 0.1542 sec.
+iter 64700 || Loss: 6.0939 ||
+timer: 0.1551 sec.
+iter 64710 || Loss: 5.1258 ||
+timer: 0.1532 sec.
+iter 64720 || Loss: 5.7655 ||
+timer: 0.1541 sec.
+iter 64730 || Loss: 5.4050 ||
+timer: 0.1553 sec.
+iter 64740 || Loss: 6.0679 ||
+timer: 0.1539 sec.
+iter 64750 || Loss: 5.7505 ||
+timer: 0.1521 sec.
+iter 64760 || Loss: 5.9908 ||
+timer: 0.1515 sec.
+iter 64770 || Loss: 6.0734 ||
+timer: 0.1532 sec.
+iter 64780 || Loss: 4.6834 ||
+timer: 0.1535 sec.
+iter 64790 || Loss: 5.2980 ||
+timer: 0.1507 sec.
+iter 64800 || Loss: 5.4884 ||
+timer: 0.1531 sec.
+iter 64810 || Loss: 5.6828 ||
+timer: 0.1532 sec.
+iter 64820 || Loss: 5.4869 ||
+timer: 0.1542 sec.
+iter 64830 || Loss: 6.0357 ||
+timer: 0.1531 sec.
+iter 64840 || Loss: 4.8427 ||
+timer: 0.1541 sec.
+iter 64850 || Loss: 5.7143 ||
+timer: 0.1536 sec.
+iter 64860 || Loss: 5.6402 ||
+timer: 0.1532 sec.
+iter 64870 || Loss: 5.7030 ||
+timer: 0.1523 sec.
+iter 64880 || Loss: 5.0432 ||
+timer: 0.1533 sec.
+iter 64890 || Loss: 5.4937 ||
+timer: 0.1530 sec.
+iter 64900 || Loss: 4.8521 ||
+timer: 0.1537 sec.
+iter 64910 || Loss: 5.7155 ||
+timer: 0.1559 sec.
+iter 64920 || Loss: 5.9268 ||
+timer: 0.1520 sec.
+iter 64930 || Loss: 5.4045 ||
+timer: 0.1539 sec.
+iter 64940 || Loss: 6.0668 ||
+timer: 0.1543 sec.
+iter 64950 || Loss: 5.3467 ||
+timer: 0.1555 sec.
+iter 64960 || Loss: 5.7643 ||
+timer: 0.1537 sec.
+iter 64970 || Loss: 5.3244 ||
+timer: 0.1556 sec.
+iter 64980 || Loss: 6.3007 ||
+timer: 0.1518 sec.
+iter 64990 || Loss: 5.5328 ||
+timer: 0.1545 sec.
+iter 65000 || Loss: 5.3761 ||
+Saving state, iter: 65000
+timer: 0.1594 sec.
+iter 65010 || Loss: 5.6082 ||
+timer: 0.1558 sec.
+iter 65020 || Loss: 5.6518 ||
+timer: 0.1524 sec.
+iter 65030 || Loss: 5.6544 ||
+timer: 0.1546 sec.
+iter 65040 || Loss: 6.0697 ||
+timer: 0.1692 sec.
+iter 65050 || Loss: 5.4016 ||
+timer: 0.1541 sec.
+iter 65060 || Loss: 5.9512 ||
+timer: 0.1540 sec.
+iter 65070 || Loss: 5.2548 ||
+timer: 0.1588 sec.
+iter 65080 || Loss: 5.7260 ||
+timer: 0.1530 sec.
+iter 65090 || Loss: 4.8728 ||
+timer: 0.1538 sec.
+iter 65100 || Loss: 5.7367 ||
+timer: 0.1535 sec.
+iter 65110 || Loss: 5.0829 ||
+timer: 0.1607 sec.
+iter 65120 || Loss: 4.8974 ||
+timer: 0.1525 sec.
+iter 65130 || Loss: 5.3266 ||
+timer: 0.1599 sec.
+iter 65140 || Loss: 5.8252 ||
+timer: 0.1551 sec.
+iter 65150 || Loss: 5.0731 ||
+timer: 0.1518 sec.
+iter 65160 || Loss: 5.4864 ||
+timer: 0.1525 sec.
+iter 65170 || Loss: 4.7458 ||
+timer: 0.1543 sec.
+iter 65180 || Loss: 5.5806 ||
+timer: 0.1553 sec.
+iter 65190 || Loss: 5.3195 ||
+timer: 0.1541 sec.
+iter 65200 || Loss: 5.6859 ||
+timer: 0.1535 sec.
+iter 65210 || Loss: 5.6602 ||
+timer: 0.1532 sec.
+iter 65220 || Loss: 5.1184 ||
+timer: 0.1542 sec.
+iter 65230 || Loss: 5.8977 ||
+timer: 0.1531 sec.
+iter 65240 || Loss: 5.0898 ||
+timer: 0.1517 sec.
+iter 65250 || Loss: 5.3879 ||
+timer: 0.1608 sec.
+iter 65260 || Loss: 5.8141 ||
+timer: 0.1524 sec.
+iter 65270 || Loss: 5.6441 ||
+timer: 0.1702 sec.
+iter 65280 || Loss: 5.6356 ||
+timer: 0.1546 sec.
+iter 65290 || Loss: 5.5615 ||
+timer: 0.1586 sec.
+iter 65300 || Loss: 5.6929 ||
+timer: 0.1556 sec.
+iter 65310 || Loss: 7.2433 ||
+timer: 0.1532 sec.
+iter 65320 || Loss: 5.6029 ||
+timer: 0.1529 sec.
+iter 65330 || Loss: 5.7383 ||
+timer: 0.1538 sec.
+iter 65340 || Loss: 5.5815 ||
+timer: 0.1546 sec.
+iter 65350 || Loss: 6.5580 ||
+timer: 0.1565 sec.
+iter 65360 || Loss: 5.6653 ||
+timer: 0.1534 sec.
+iter 65370 || Loss: 5.8240 ||
+timer: 0.1530 sec.
+iter 65380 || Loss: 5.5050 ||
+timer: 0.1552 sec.
+iter 65390 || Loss: 4.9782 ||
+timer: 0.1547 sec.
+iter 65400 || Loss: 5.9898 ||
+timer: 0.1529 sec.
+iter 65410 || Loss: 5.2940 ||
+timer: 0.1529 sec.
+iter 65420 || Loss: 5.3304 ||
+timer: 0.1547 sec.
+iter 65430 || Loss: 6.0253 ||
+timer: 0.1547 sec.
+iter 65440 || Loss: 5.5734 ||
+timer: 0.1539 sec.
+iter 65450 || Loss: 5.4326 ||
+timer: 0.1596 sec.
+iter 65460 || Loss: 4.5530 ||
+timer: 0.1549 sec.
+iter 65470 || Loss: 6.8086 ||
+timer: 0.1526 sec.
+iter 65480 || Loss: 5.1931 ||
+timer: 0.1538 sec.
+iter 65490 || Loss: 5.9672 ||
+timer: 0.1522 sec.
+iter 65500 || Loss: 5.8806 ||
+timer: 0.1536 sec.
+iter 65510 || Loss: 5.5593 ||
+timer: 0.1637 sec.
+iter 65520 || Loss: 6.1933 ||
+timer: 0.1535 sec.
+iter 65530 || Loss: 4.9151 ||
+timer: 0.1544 sec.
+iter 65540 || Loss: 5.1381 ||
+timer: 0.1542 sec.
+iter 65550 || Loss: 5.7946 ||
+timer: 0.1534 sec.
+iter 65560 || Loss: 5.4789 ||
+timer: 0.1533 sec.
+iter 65570 || Loss: 6.7248 ||
+timer: 0.1544 sec.
+iter 65580 || Loss: 5.2923 ||
+timer: 0.1528 sec.
+iter 65590 || Loss: 5.9623 ||
+timer: 0.1524 sec.
+iter 65600 || Loss: 5.7298 ||
+timer: 0.1518 sec.
+iter 65610 || Loss: 5.2696 ||
+timer: 0.1527 sec.
+iter 65620 || Loss: 5.3041 ||
+timer: 0.1531 sec.
+iter 65630 || Loss: 6.4978 ||
+timer: 0.1525 sec.
+iter 65640 || Loss: 5.5253 ||
+timer: 0.1562 sec.
+iter 65650 || Loss: 5.7895 ||
+timer: 0.1545 sec.
+iter 65660 || Loss: 5.3634 ||
+timer: 0.1541 sec.
+iter 65670 || Loss: 5.7464 ||
+timer: 0.1528 sec.
+iter 65680 || Loss: 5.3392 ||
+timer: 0.1548 sec.
+iter 65690 || Loss: 5.9647 ||
+timer: 0.1594 sec.
+iter 65700 || Loss: 6.2394 ||
+timer: 0.1535 sec.
+iter 65710 || Loss: 6.2881 ||
+timer: 0.1534 sec.
+iter 65720 || Loss: 5.8792 ||
+timer: 0.1536 sec.
+iter 65730 || Loss: 5.6906 ||
+timer: 0.1673 sec.
+iter 65740 || Loss: 5.6116 ||
+timer: 0.1550 sec.
+iter 65750 || Loss: 5.6708 ||
+timer: 0.1525 sec.
+iter 65760 || Loss: 5.4918 ||
+timer: 0.1523 sec.
+iter 65770 || Loss: 5.5948 ||
+timer: 0.1531 sec.
+iter 65780 || Loss: 5.7374 ||
+timer: 0.1558 sec.
+iter 65790 || Loss: 6.3990 ||
+timer: 0.1605 sec.
+iter 65800 || Loss: 5.7028 ||
+timer: 0.1536 sec.
+iter 65810 || Loss: 5.4623 ||
+timer: 0.1553 sec.
+iter 65820 || Loss: 5.1189 ||
+timer: 0.1535 sec.
+iter 65830 || Loss: 5.5279 ||
+timer: 0.1548 sec.
+iter 65840 || Loss: 5.5156 ||
+timer: 0.1527 sec.
+iter 65850 || Loss: 5.2326 ||
+timer: 0.1554 sec.
+iter 65860 || Loss: 6.7886 ||
+timer: 0.1541 sec.
+iter 65870 || Loss: 5.5624 ||
+timer: 0.1569 sec.
+iter 65880 || Loss: 6.2138 ||
+timer: 0.1546 sec.
+iter 65890 || Loss: 6.3494 ||
+timer: 0.1521 sec.
+iter 65900 || Loss: 4.8767 ||
+timer: 0.1524 sec.
+iter 65910 || Loss: 5.6958 ||
+timer: 0.1529 sec.
+iter 65920 || Loss: 5.3311 ||
+timer: 0.1527 sec.
+iter 65930 || Loss: 6.5500 ||
+timer: 0.1529 sec.
+iter 65940 || Loss: 5.7676 ||
+timer: 0.1522 sec.
+iter 65950 || Loss: 5.7275 ||
+timer: 0.1537 sec.
+iter 65960 || Loss: 5.1713 ||
+timer: 0.1534 sec.
+iter 65970 || Loss: 4.8414 ||
+timer: 0.1531 sec.
+iter 65980 || Loss: 5.3021 ||
+timer: 0.1541 sec.
+iter 65990 || Loss: 5.8022 ||
+timer: 0.1586 sec.
+iter 66000 || Loss: 5.2801 ||
+timer: 0.1520 sec.
+iter 66010 || Loss: 5.8435 ||
+timer: 0.1535 sec.
+iter 66020 || Loss: 6.1914 ||
+timer: 0.1543 sec.
+iter 66030 || Loss: 5.3629 ||
+timer: 0.1562 sec.
+iter 66040 || Loss: 6.4977 ||
+timer: 0.1537 sec.
+iter 66050 || Loss: 5.2212 ||
+timer: 0.1532 sec.
+iter 66060 || Loss: 5.2356 ||
+timer: 0.1547 sec.
+iter 66070 || Loss: 5.3601 ||
+timer: 0.1542 sec.
+iter 66080 || Loss: 5.7377 ||
+timer: 0.1535 sec.
+iter 66090 || Loss: 5.7397 ||
+timer: 0.1563 sec.
+iter 66100 || Loss: 5.7290 ||
+timer: 0.1534 sec.
+iter 66110 || Loss: 5.4571 ||
+timer: 0.1530 sec.
+iter 66120 || Loss: 5.3689 ||
+timer: 0.1543 sec.
+iter 66130 || Loss: 5.4873 ||
+timer: 0.1540 sec.
+iter 66140 || Loss: 5.4669 ||
+timer: 0.1552 sec.
+iter 66150 || Loss: 6.0081 ||
+timer: 0.1519 sec.
+iter 66160 || Loss: 4.9435 ||
+timer: 0.1532 sec.
+iter 66170 || Loss: 6.7755 ||
+timer: 0.1535 sec.
+iter 66180 || Loss: 5.7574 ||
+timer: 0.1566 sec.
+iter 66190 || Loss: 6.1771 ||
+timer: 0.1535 sec.
+iter 66200 || Loss: 5.4318 ||
+timer: 0.1521 sec.
+iter 66210 || Loss: 5.2192 ||
+timer: 0.1527 sec.
+iter 66220 || Loss: 4.9511 ||
+timer: 0.1548 sec.
+iter 66230 || Loss: 6.0578 ||
+timer: 0.1582 sec.
+iter 66240 || Loss: 5.5063 ||
+timer: 0.1545 sec.
+iter 66250 || Loss: 5.5963 ||
+timer: 0.1551 sec.
+iter 66260 || Loss: 4.9895 ||
+timer: 0.1565 sec.
+iter 66270 || Loss: 5.2685 ||
+timer: 0.1682 sec.
+iter 66280 || Loss: 5.4630 ||
+timer: 0.1528 sec.
+iter 66290 || Loss: 6.7265 ||
+timer: 0.1538 sec.
+iter 66300 || Loss: 5.0933 ||
+timer: 0.1528 sec.
+iter 66310 || Loss: 5.3505 ||
+timer: 0.1547 sec.
+iter 66320 || Loss: 5.8156 ||
+timer: 0.1556 sec.
+iter 66330 || Loss: 5.9373 ||
+timer: 0.1561 sec.
+iter 66340 || Loss: 6.1309 ||
+timer: 0.1563 sec.
+iter 66350 || Loss: 5.2786 ||
+timer: 0.1547 sec.
+iter 66360 || Loss: 6.2893 ||
+timer: 0.1522 sec.
+iter 66370 || Loss: 5.3804 ||
+timer: 0.1524 sec.
+iter 66380 || Loss: 5.5025 ||
+timer: 0.1553 sec.
+iter 66390 || Loss: 5.3466 ||
+timer: 0.1537 sec.
+iter 66400 || Loss: 5.8816 ||
+timer: 0.1528 sec.
+iter 66410 || Loss: 5.5148 ||
+timer: 0.1569 sec.
+iter 66420 || Loss: 5.4683 ||
+timer: 0.1530 sec.
+iter 66430 || Loss: 5.4978 ||
+timer: 0.1566 sec.
+iter 66440 || Loss: 6.0266 ||
+timer: 0.1539 sec.
+iter 66450 || Loss: 5.3350 ||
+timer: 0.1538 sec.
+iter 66460 || Loss: 5.8343 ||
+timer: 0.1541 sec.
+iter 66470 || Loss: 5.7939 ||
+timer: 0.1556 sec.
+iter 66480 || Loss: 5.5982 ||
+timer: 0.1529 sec.
+iter 66490 || Loss: 5.1516 ||
+timer: 0.1592 sec.
+iter 66500 || Loss: 6.4850 ||
+timer: 0.1537 sec.
+iter 66510 || Loss: 5.6380 ||
+timer: 0.1542 sec.
+iter 66520 || Loss: 4.9293 ||
+timer: 0.1534 sec.
+iter 66530 || Loss: 4.7591 ||
+timer: 0.1541 sec.
+iter 66540 || Loss: 5.2512 ||
+timer: 0.1532 sec.
+iter 66550 || Loss: 5.3663 ||
+timer: 0.1556 sec.
+iter 66560 || Loss: 6.5173 ||
+timer: 0.1549 sec.
+iter 66570 || Loss: 5.6307 ||
+timer: 0.1565 sec.
+iter 66580 || Loss: 5.8470 ||
+timer: 0.1548 sec.
+iter 66590 || Loss: 5.4776 ||
+timer: 0.1584 sec.
+iter 66600 || Loss: 5.3745 ||
+timer: 0.1558 sec.
+iter 66610 || Loss: 4.9033 ||
+timer: 0.1586 sec.
+iter 66620 || Loss: 6.9216 ||
+timer: 0.1574 sec.
+iter 66630 || Loss: 5.8714 ||
+timer: 0.1517 sec.
+iter 66640 || Loss: 5.4784 ||
+timer: 0.1533 sec.
+iter 66650 || Loss: 6.5769 ||
+timer: 0.1554 sec.
+iter 66660 || Loss: 5.4157 ||
+timer: 0.1532 sec.
+iter 66670 || Loss: 5.4801 ||
+timer: 0.1625 sec.
+iter 66680 || Loss: 5.9440 ||
+timer: 0.1582 sec.
+iter 66690 || Loss: 5.3226 ||
+timer: 0.1520 sec.
+iter 66700 || Loss: 5.2623 ||
+timer: 0.1546 sec.
+iter 66710 || Loss: 5.3341 ||
+timer: 0.1526 sec.
+iter 66720 || Loss: 5.3501 ||
+timer: 0.1552 sec.
+iter 66730 || Loss: 5.5003 ||
+timer: 0.1545 sec.
+iter 66740 || Loss: 5.4799 ||
+timer: 0.1556 sec.
+iter 66750 || Loss: 5.9230 ||
+timer: 0.1538 sec.
+iter 66760 || Loss: 6.0427 ||
+timer: 0.1526 sec.
+iter 66770 || Loss: 5.4243 ||
+timer: 0.1633 sec.
+iter 66780 || Loss: 5.3127 ||
+timer: 0.1545 sec.
+iter 66790 || Loss: 5.5544 ||
+timer: 0.1647 sec.
+iter 66800 || Loss: 5.4447 ||
+timer: 0.1531 sec.
+iter 66810 || Loss: 5.9693 ||
+timer: 0.1541 sec.
+iter 66820 || Loss: 5.5316 ||
+timer: 0.1533 sec.
+iter 66830 || Loss: 5.1995 ||
+timer: 0.1539 sec.
+iter 66840 || Loss: 5.0858 ||
+timer: 0.1561 sec.
+iter 66850 || Loss: 5.7847 ||
+timer: 0.1540 sec.
+iter 66860 || Loss: 5.5738 ||
+timer: 0.1572 sec.
+iter 66870 || Loss: 5.9006 ||
+timer: 0.1545 sec.
+iter 66880 || Loss: 5.6110 ||
+timer: 0.1530 sec.
+iter 66890 || Loss: 5.2366 ||
+timer: 0.1539 sec.
+iter 66900 || Loss: 6.0151 ||
+timer: 0.1537 sec.
+iter 66910 || Loss: 5.8669 ||
+timer: 0.1534 sec.
+iter 66920 || Loss: 5.4688 ||
+timer: 0.1547 sec.
+iter 66930 || Loss: 5.7052 ||
+timer: 0.1536 sec.
+iter 66940 || Loss: 6.3105 ||
+timer: 0.1549 sec.
+iter 66950 || Loss: 6.5315 ||
+timer: 0.1602 sec.
+iter 66960 || Loss: 5.5198 ||
+timer: 0.1528 sec.
+iter 66970 || Loss: 4.9582 ||
+timer: 0.1542 sec.
+iter 66980 || Loss: 5.7480 ||
+timer: 0.1549 sec.
+iter 66990 || Loss: 5.6120 ||
+timer: 0.1537 sec.
+iter 67000 || Loss: 5.7796 ||
+timer: 0.1529 sec.
+iter 67010 || Loss: 4.8838 ||
+timer: 0.1540 sec.
+iter 67020 || Loss: 5.8008 ||
+timer: 0.1541 sec.
+iter 67030 || Loss: 5.6692 ||
+timer: 0.1519 sec.
+iter 67040 || Loss: 5.5685 ||
+timer: 0.1546 sec.
+iter 67050 || Loss: 6.2286 ||
+timer: 0.1523 sec.
+iter 67060 || Loss: 6.0504 ||
+timer: 0.1553 sec.
+iter 67070 || Loss: 5.9270 ||
+timer: 0.1540 sec.
+iter 67080 || Loss: 6.0292 ||
+timer: 0.1551 sec.
+iter 67090 || Loss: 6.0179 ||
+timer: 0.1615 sec.
+iter 67100 || Loss: 6.0526 ||
+timer: 0.1540 sec.
+iter 67110 || Loss: 5.3575 ||
+timer: 0.1609 sec.
+iter 67120 || Loss: 5.9343 ||
+timer: 0.1530 sec.
+iter 67130 || Loss: 6.2773 ||
+timer: 0.1645 sec.
+iter 67140 || Loss: 5.6289 ||
+timer: 0.1525 sec.
+iter 67150 || Loss: 5.4302 ||
+timer: 0.1527 sec.
+iter 67160 || Loss: 5.0720 ||
+timer: 0.1529 sec.
+iter 67170 || Loss: 4.9393 ||
+timer: 0.1563 sec.
+iter 67180 || Loss: 4.9881 ||
+timer: 0.1561 sec.
+iter 67190 || Loss: 5.0785 ||
+timer: 0.1550 sec.
+iter 67200 || Loss: 5.6869 ||
+timer: 0.1528 sec.
+iter 67210 || Loss: 5.4207 ||
+timer: 0.1544 sec.
+iter 67220 || Loss: 5.4954 ||
+timer: 0.1542 sec.
+iter 67230 || Loss: 4.9123 ||
+timer: 0.1590 sec.
+iter 67240 || Loss: 5.3520 ||
+timer: 0.1519 sec.
+iter 67250 || Loss: 4.7403 ||
+timer: 0.1523 sec.
+iter 67260 || Loss: 4.6408 ||
+timer: 0.1538 sec.
+iter 67270 || Loss: 5.7150 ||
+timer: 0.1564 sec.
+iter 67280 || Loss: 5.7016 ||
+timer: 0.1528 sec.
+iter 67290 || Loss: 5.9513 ||
+timer: 0.1551 sec.
+iter 67300 || Loss: 5.5674 ||
+timer: 0.1556 sec.
+iter 67310 || Loss: 5.6620 ||
+timer: 0.1530 sec.
+iter 67320 || Loss: 4.8330 ||
+timer: 0.1521 sec.
+iter 67330 || Loss: 4.6927 ||
+timer: 0.1541 sec.
+iter 67340 || Loss: 5.4411 ||
+timer: 0.1530 sec.
+iter 67350 || Loss: 5.8180 ||
+timer: 0.1532 sec.
+iter 67360 || Loss: 5.0153 ||
+timer: 0.1535 sec.
+iter 67370 || Loss: 5.9204 ||
+timer: 0.1542 sec.
+iter 67380 || Loss: 5.2602 ||
+timer: 0.1565 sec.
+iter 67390 || Loss: 5.5320 ||
+timer: 0.1530 sec.
+iter 67400 || Loss: 6.0961 ||
+timer: 0.1552 sec.
+iter 67410 || Loss: 6.2439 ||
+timer: 0.1543 sec.
+iter 67420 || Loss: 5.6397 ||
+timer: 0.1522 sec.
+iter 67430 || Loss: 5.4897 ||
+timer: 0.1557 sec.
+iter 67440 || Loss: 6.8041 ||
+timer: 0.1546 sec.
+iter 67450 || Loss: 5.7457 ||
+timer: 0.1523 sec.
+iter 67460 || Loss: 4.6412 ||
+timer: 0.1536 sec.
+iter 67470 || Loss: 5.1562 ||
+timer: 0.1551 sec.
+iter 67480 || Loss: 4.8451 ||
+timer: 0.1524 sec.
+iter 67490 || Loss: 5.3587 ||
+timer: 0.1581 sec.
+iter 67500 || Loss: 5.7601 ||
+timer: 0.1547 sec.
+iter 67510 || Loss: 5.5258 ||
+timer: 0.1526 sec.
+iter 67520 || Loss: 6.1236 ||
+timer: 0.1636 sec.
+iter 67530 || Loss: 6.4240 ||
+timer: 0.1538 sec.
+iter 67540 || Loss: 5.6048 ||
+timer: 0.1536 sec.
+iter 67550 || Loss: 5.5360 ||
+timer: 0.1560 sec.
+iter 67560 || Loss: 5.7212 ||
+timer: 0.1504 sec.
+iter 67570 || Loss: 5.2310 ||
+timer: 0.1528 sec.
+iter 67580 || Loss: 5.4118 ||
+timer: 0.1549 sec.
+iter 67590 || Loss: 5.5846 ||
+timer: 0.1542 sec.
+iter 67600 || Loss: 4.8249 ||
+timer: 0.1540 sec.
+iter 67610 || Loss: 6.6558 ||
+timer: 0.1521 sec.
+iter 67620 || Loss: 5.6516 ||
+timer: 0.1537 sec.
+iter 67630 || Loss: 5.2240 ||
+timer: 0.1561 sec.
+iter 67640 || Loss: 5.5593 ||
+timer: 0.1528 sec.
+iter 67650 || Loss: 5.9709 ||
+timer: 0.1524 sec.
+iter 67660 || Loss: 4.3775 ||
+timer: 0.1597 sec.
+iter 67670 || Loss: 5.3451 ||
+timer: 0.1562 sec.
+iter 67680 || Loss: 4.7409 ||
+timer: 0.1536 sec.
+iter 67690 || Loss: 5.2458 ||
+timer: 0.1532 sec.
+iter 67700 || Loss: 6.1071 ||
+timer: 0.1536 sec.
+iter 67710 || Loss: 5.3960 ||
+timer: 0.1520 sec.
+iter 67720 || Loss: 5.3940 ||
+timer: 0.1535 sec.
+iter 67730 || Loss: 5.5220 ||
+timer: 0.1535 sec.
+iter 67740 || Loss: 6.1613 ||
+timer: 0.1530 sec.
+iter 67750 || Loss: 5.7411 ||
+timer: 0.1531 sec.
+iter 67760 || Loss: 5.7687 ||
+timer: 0.1538 sec.
+iter 67770 || Loss: 5.6223 ||
+timer: 0.1530 sec.
+iter 67780 || Loss: 5.8047 ||
+timer: 0.1530 sec.
+iter 67790 || Loss: 5.2962 ||
+timer: 0.1532 sec.
+iter 67800 || Loss: 5.7271 ||
+timer: 0.1535 sec.
+iter 67810 || Loss: 6.3941 ||
+timer: 0.1537 sec.
+iter 67820 || Loss: 5.6938 ||
+timer: 0.1539 sec.
+iter 67830 || Loss: 5.2266 ||
+timer: 0.1550 sec.
+iter 67840 || Loss: 6.2531 ||
+timer: 0.1546 sec.
+iter 67850 || Loss: 6.5265 ||
+timer: 0.1597 sec.
+iter 67860 || Loss: 5.4444 ||
+timer: 0.1572 sec.
+iter 67870 || Loss: 5.2102 ||
+timer: 0.1531 sec.
+iter 67880 || Loss: 5.3557 ||
+timer: 0.1550 sec.
+iter 67890 || Loss: 5.8198 ||
+timer: 0.1544 sec.
+iter 67900 || Loss: 5.5229 ||
+timer: 0.1520 sec.
+iter 67910 || Loss: 5.5651 ||
+timer: 0.1549 sec.
+iter 67920 || Loss: 5.9810 ||
+timer: 0.1520 sec.
+iter 67930 || Loss: 4.8052 ||
+timer: 0.1558 sec.
+iter 67940 || Loss: 5.3082 ||
+timer: 0.1562 sec.
+iter 67950 || Loss: 6.4267 ||
+timer: 0.1590 sec.
+iter 67960 || Loss: 5.2317 ||
+timer: 0.1598 sec.
+iter 67970 || Loss: 5.0309 ||
+timer: 0.1542 sec.
+iter 67980 || Loss: 6.0086 ||
+timer: 0.1544 sec.
+iter 67990 || Loss: 6.2445 ||
+timer: 0.1547 sec.
+iter 68000 || Loss: 5.4544 ||
+timer: 0.1554 sec.
+iter 68010 || Loss: 5.7664 ||
+timer: 0.1541 sec.
+iter 68020 || Loss: 5.3250 ||
+timer: 0.1537 sec.
+iter 68030 || Loss: 5.6551 ||
+timer: 0.1541 sec.
+iter 68040 || Loss: 4.6581 ||
+timer: 0.1528 sec.
+iter 68050 || Loss: 5.9137 ||
+timer: 0.1533 sec.
+iter 68060 || Loss: 5.8812 ||
+timer: 0.1587 sec.
+iter 68070 || Loss: 5.1981 ||
+timer: 0.1530 sec.
+iter 68080 || Loss: 5.3915 ||
+timer: 0.1552 sec.
+iter 68090 || Loss: 5.6733 ||
+timer: 0.1554 sec.
+iter 68100 || Loss: 6.4335 ||
+timer: 0.1542 sec.
+iter 68110 || Loss: 6.2026 ||
+timer: 0.1549 sec.
+iter 68120 || Loss: 5.0386 ||
+timer: 0.1521 sec.
+iter 68130 || Loss: 5.2756 ||
+timer: 0.1561 sec.
+iter 68140 || Loss: 5.8885 ||
+timer: 0.1535 sec.
+iter 68150 || Loss: 5.8806 ||
+timer: 0.1547 sec.
+iter 68160 || Loss: 5.4379 ||
+timer: 0.1533 sec.
+iter 68170 || Loss: 5.0748 ||
+timer: 0.1534 sec.
+iter 68180 || Loss: 5.2458 ||
+timer: 0.1563 sec.
+iter 68190 || Loss: 5.9240 ||
+timer: 0.1581 sec.
+iter 68200 || Loss: 5.6978 ||
+timer: 0.1548 sec.
+iter 68210 || Loss: 5.7842 ||
+timer: 0.1549 sec.
+iter 68220 || Loss: 5.8281 ||
+timer: 0.1537 sec.
+iter 68230 || Loss: 5.6242 ||
+timer: 0.1593 sec.
+iter 68240 || Loss: 5.7518 ||
+timer: 0.1658 sec.
+iter 68250 || Loss: 5.6727 ||
+timer: 0.1549 sec.
+iter 68260 || Loss: 5.9254 ||
+timer: 0.1547 sec.
+iter 68270 || Loss: 5.5159 ||
+timer: 0.1549 sec.
+iter 68280 || Loss: 5.6520 ||
+timer: 0.1549 sec.
+iter 68290 || Loss: 5.8482 ||
+timer: 0.1535 sec.
+iter 68300 || Loss: 5.1351 ||
+timer: 0.1511 sec.
+iter 68310 || Loss: 5.0300 ||
+timer: 0.1538 sec.
+iter 68320 || Loss: 5.5288 ||
+timer: 0.1543 sec.
+iter 68330 || Loss: 5.1989 ||
+timer: 0.1530 sec.
+iter 68340 || Loss: 4.6150 ||
+timer: 0.1536 sec.
+iter 68350 || Loss: 5.2102 ||
+timer: 0.1525 sec.
+iter 68360 || Loss: 5.4430 ||
+timer: 0.1546 sec.
+iter 68370 || Loss: 6.5549 ||
+timer: 0.1534 sec.
+iter 68380 || Loss: 4.9298 ||
+timer: 0.1528 sec.
+iter 68390 || Loss: 5.5148 ||
+timer: 0.1533 sec.
+iter 68400 || Loss: 5.5145 ||
+timer: 0.1550 sec.
+iter 68410 || Loss: 5.4039 ||
+timer: 0.1552 sec.
+iter 68420 || Loss: 5.9877 ||
+timer: 0.1549 sec.
+iter 68430 || Loss: 5.1643 ||
+timer: 0.1531 sec.
+iter 68440 || Loss: 5.5230 ||
+timer: 0.1551 sec.
+iter 68450 || Loss: 5.3185 ||
+timer: 0.1544 sec.
+iter 68460 || Loss: 6.0490 ||
+timer: 0.1536 sec.
+iter 68470 || Loss: 5.7007 ||
+timer: 0.1544 sec.
+iter 68480 || Loss: 5.4078 ||
+timer: 0.1557 sec.
+iter 68490 || Loss: 5.6623 ||
+timer: 0.1551 sec.
+iter 68500 || Loss: 5.9869 ||
+timer: 0.1520 sec.
+iter 68510 || Loss: 4.5486 ||
+timer: 0.1553 sec.
+iter 68520 || Loss: 5.1888 ||
+timer: 0.1553 sec.
+iter 68530 || Loss: 5.4089 ||
+timer: 0.1512 sec.
+iter 68540 || Loss: 4.8317 ||
+timer: 0.1533 sec.
+iter 68550 || Loss: 5.3705 ||
+timer: 0.1538 sec.
+iter 68560 || Loss: 6.0293 ||
+timer: 0.1556 sec.
+iter 68570 || Loss: 5.5446 ||
+timer: 0.1537 sec.
+iter 68580 || Loss: 5.7928 ||
+timer: 0.1530 sec.
+iter 68590 || Loss: 5.6863 ||
+timer: 0.1535 sec.
+iter 68600 || Loss: 5.9341 ||
+timer: 0.1548 sec.
+iter 68610 || Loss: 6.4611 ||
+timer: 0.1535 sec.
+iter 68620 || Loss: 4.9975 ||
+timer: 0.1556 sec.
+iter 68630 || Loss: 5.3166 ||
+timer: 0.1538 sec.
+iter 68640 || Loss: 6.1470 ||
+timer: 0.1556 sec.
+iter 68650 || Loss: 5.5875 ||
+timer: 0.1541 sec.
+iter 68660 || Loss: 6.0069 ||
+timer: 0.1522 sec.
+iter 68670 || Loss: 5.0631 ||
+timer: 0.1558 sec.
+iter 68680 || Loss: 6.3605 ||
+timer: 0.1537 sec.
+iter 68690 || Loss: 6.2863 ||
+timer: 0.1523 sec.
+iter 68700 || Loss: 5.2824 ||
+timer: 0.1554 sec.
+iter 68710 || Loss: 5.7072 ||
+timer: 0.1540 sec.
+iter 68720 || Loss: 5.3330 ||
+timer: 0.1530 sec.
+iter 68730 || Loss: 5.9515 ||
+timer: 0.1560 sec.
+iter 68740 || Loss: 5.6570 ||
+timer: 0.1541 sec.
+iter 68750 || Loss: 5.5242 ||
+timer: 0.1557 sec.
+iter 68760 || Loss: 5.8968 ||
+timer: 0.1536 sec.
+iter 68770 || Loss: 6.0037 ||
+timer: 0.1539 sec.
+iter 68780 || Loss: 5.6926 ||
+timer: 0.1551 sec.
+iter 68790 || Loss: 6.0028 ||
+timer: 0.1531 sec.
+iter 68800 || Loss: 5.6321 ||
+timer: 0.1549 sec.
+iter 68810 || Loss: 6.1434 ||
+timer: 0.1532 sec.
+iter 68820 || Loss: 4.9560 ||
+timer: 0.1614 sec.
+iter 68830 || Loss: 5.8485 ||
+timer: 0.1536 sec.
+iter 68840 || Loss: 5.4058 ||
+timer: 0.1531 sec.
+iter 68850 || Loss: 5.8634 ||
+timer: 0.1528 sec.
+iter 68860 || Loss: 5.9894 ||
+timer: 0.1518 sec.
+iter 68870 || Loss: 5.4523 ||
+timer: 0.1536 sec.
+iter 68880 || Loss: 5.5504 ||
+timer: 0.1530 sec.
+iter 68890 || Loss: 5.0590 ||
+timer: 0.1541 sec.
+iter 68900 || Loss: 5.6747 ||
+timer: 0.1529 sec.
+iter 68910 || Loss: 5.8730 ||
+timer: 0.1559 sec.
+iter 68920 || Loss: 5.8367 ||
+timer: 0.1533 sec.
+iter 68930 || Loss: 5.5139 ||
+timer: 0.1538 sec.
+iter 68940 || Loss: 5.0787 ||
+timer: 0.1532 sec.
+iter 68950 || Loss: 5.4511 ||
+timer: 0.1535 sec.
+iter 68960 || Loss: 5.3379 ||
+timer: 0.1535 sec.
+iter 68970 || Loss: 5.4133 ||
+timer: 0.1581 sec.
+iter 68980 || Loss: 5.5964 ||
+timer: 0.1526 sec.
+iter 68990 || Loss: 4.6515 ||
+timer: 0.1524 sec.
+iter 69000 || Loss: 4.8780 ||
+timer: 0.1541 sec.
+iter 69010 || Loss: 5.1411 ||
+timer: 0.1578 sec.
+iter 69020 || Loss: 6.0062 ||
+timer: 0.1532 sec.
+iter 69030 || Loss: 4.9694 ||
+timer: 0.1515 sec.
+iter 69040 || Loss: 6.4460 ||
+timer: 0.1589 sec.
+iter 69050 || Loss: 5.2414 ||
+timer: 0.1537 sec.
+iter 69060 || Loss: 6.7224 ||
+timer: 0.1521 sec.
+iter 69070 || Loss: 6.2217 ||
+timer: 0.1529 sec.
+iter 69080 || Loss: 5.3648 ||
+timer: 0.1543 sec.
+iter 69090 || Loss: 4.9370 ||
+timer: 0.1542 sec.
+iter 69100 || Loss: 5.1587 ||
+timer: 0.1548 sec.
+iter 69110 || Loss: 5.3574 ||
+timer: 0.1532 sec.
+iter 69120 || Loss: 5.6715 ||
+timer: 0.1537 sec.
+iter 69130 || Loss: 6.0927 ||
+timer: 0.1541 sec.
+iter 69140 || Loss: 5.4529 ||
+timer: 0.1560 sec.
+iter 69150 || Loss: 5.9510 ||
+timer: 0.1533 sec.
+iter 69160 || Loss: 5.7703 ||
+timer: 0.1596 sec.
+iter 69170 || Loss: 5.4480 ||
+timer: 0.1553 sec.
+iter 69180 || Loss: 6.4803 ||
+timer: 0.1525 sec.
+iter 69190 || Loss: 5.3018 ||
+timer: 0.1535 sec.
+iter 69200 || Loss: 6.0900 ||
+timer: 0.1524 sec.
+iter 69210 || Loss: 5.5449 ||
+timer: 0.1520 sec.
+iter 69220 || Loss: 5.2871 ||
+timer: 0.1563 sec.
+iter 69230 || Loss: 5.4769 ||
+timer: 0.1563 sec.
+iter 69240 || Loss: 5.9035 ||
+timer: 0.1553 sec.
+iter 69250 || Loss: 5.6505 ||
+timer: 0.1521 sec.
+iter 69260 || Loss: 5.5051 ||
+timer: 0.1539 sec.
+iter 69270 || Loss: 5.6924 ||
+timer: 0.1518 sec.
+iter 69280 || Loss: 5.2092 ||
+timer: 0.1553 sec.
+iter 69290 || Loss: 6.2967 ||
+timer: 0.1549 sec.
+iter 69300 || Loss: 6.2097 ||
+timer: 0.1532 sec.
+iter 69310 || Loss: 5.7133 ||
+timer: 0.1531 sec.
+iter 69320 || Loss: 5.4712 ||
+timer: 0.1548 sec.
+iter 69330 || Loss: 5.2505 ||
+timer: 0.1542 sec.
+iter 69340 || Loss: 5.4502 ||
+timer: 0.1545 sec.
+iter 69350 || Loss: 6.7812 ||
+timer: 0.1549 sec.
+iter 69360 || Loss: 5.4836 ||
+timer: 0.1604 sec.
+iter 69370 || Loss: 5.9666 ||
+timer: 0.1538 sec.
+iter 69380 || Loss: 5.9405 ||
+timer: 0.1532 sec.
+iter 69390 || Loss: 6.0744 ||
+timer: 0.1522 sec.
+iter 69400 || Loss: 5.4745 ||
+timer: 0.1546 sec.
+iter 69410 || Loss: 5.7931 ||
+timer: 0.1537 sec.
+iter 69420 || Loss: 5.7693 ||
+timer: 0.1535 sec.
+iter 69430 || Loss: 5.2538 ||
+timer: 0.1529 sec.
+iter 69440 || Loss: 6.5492 ||
+timer: 0.1565 sec.
+iter 69450 || Loss: 6.0134 ||
+timer: 0.1564 sec.
+iter 69460 || Loss: 5.3240 ||
+timer: 0.1549 sec.
+iter 69470 || Loss: 6.0960 ||
+timer: 0.1533 sec.
+iter 69480 || Loss: 4.8759 ||
+timer: 0.1546 sec.
+iter 69490 || Loss: 5.4331 ||
+timer: 0.1524 sec.
+iter 69500 || Loss: 5.3157 ||
+timer: 0.1537 sec.
+iter 69510 || Loss: 5.5167 ||
+timer: 0.1585 sec.
+iter 69520 || Loss: 6.1583 ||
+timer: 0.1587 sec.
+iter 69530 || Loss: 5.0030 ||
+timer: 0.1532 sec.
+iter 69540 || Loss: 5.4003 ||
+timer: 0.1553 sec.
+iter 69550 || Loss: 6.1877 ||
+timer: 0.1538 sec.
+iter 69560 || Loss: 5.1815 ||
+timer: 0.1529 sec.
+iter 69570 || Loss: 5.2097 ||
+timer: 0.1528 sec.
+iter 69580 || Loss: 5.0281 ||
+timer: 0.1511 sec.
+iter 69590 || Loss: 5.4063 ||
+timer: 0.1534 sec.
+iter 69600 || Loss: 6.0582 ||
+timer: 0.1529 sec.
+iter 69610 || Loss: 5.1282 ||
+timer: 0.1523 sec.
+iter 69620 || Loss: 5.8617 ||
+timer: 0.1562 sec.
+iter 69630 || Loss: 5.5688 ||
+timer: 0.1539 sec.
+iter 69640 || Loss: 5.8568 ||
+timer: 0.1535 sec.
+iter 69650 || Loss: 5.2082 ||
+timer: 0.1533 sec.
+iter 69660 || Loss: 5.9663 ||
+timer: 0.1535 sec.
+iter 69670 || Loss: 6.0072 ||
+timer: 0.1540 sec.
+iter 69680 || Loss: 5.7731 ||
+timer: 0.1542 sec.
+iter 69690 || Loss: 5.3884 ||
+timer: 0.1556 sec.
+iter 69700 || Loss: 4.7213 ||
+timer: 0.1530 sec.
+iter 69710 || Loss: 4.2393 ||
+timer: 0.1515 sec.
+iter 69720 || Loss: 4.9707 ||
+timer: 0.1569 sec.
+iter 69730 || Loss: 5.6375 ||
+timer: 0.1580 sec.
+iter 69740 || Loss: 5.5217 ||
+timer: 0.1529 sec.
+iter 69750 || Loss: 5.6811 ||
+timer: 0.1530 sec.
+iter 69760 || Loss: 5.5079 ||
+timer: 0.1544 sec.
+iter 69770 || Loss: 5.7171 ||
+timer: 0.1535 sec.
+iter 69780 || Loss: 5.1283 ||
+timer: 0.1537 sec.
+iter 69790 || Loss: 5.5054 ||
+timer: 0.1540 sec.
+iter 69800 || Loss: 6.6233 ||
+timer: 0.1545 sec.
+iter 69810 || Loss: 5.7800 ||
+timer: 0.1528 sec.
+iter 69820 || Loss: 5.0606 ||
+timer: 0.1541 sec.
+iter 69830 || Loss: 6.2086 ||
+timer: 0.1551 sec.
+iter 69840 || Loss: 5.6022 ||
+timer: 0.1528 sec.
+iter 69850 || Loss: 5.3650 ||
+timer: 0.1536 sec.
+iter 69860 || Loss: 5.6068 ||
+timer: 0.1567 sec.
+iter 69870 || Loss: 5.6738 ||
+timer: 0.1543 sec.
+iter 69880 || Loss: 5.6547 ||
+timer: 0.1544 sec.
+iter 69890 || Loss: 5.6428 ||
+timer: 0.1564 sec.
+iter 69900 || Loss: 5.1877 ||
+timer: 0.1529 sec.
+iter 69910 || Loss: 5.0448 ||
+timer: 0.1540 sec.
+iter 69920 || Loss: 6.0782 ||
+timer: 0.1535 sec.
+iter 69930 || Loss: 4.9662 ||
+timer: 0.1564 sec.
+iter 69940 || Loss: 6.5911 ||
+timer: 0.1553 sec.
+iter 69950 || Loss: 5.8029 ||
+timer: 0.1525 sec.
+iter 69960 || Loss: 5.4388 ||
+timer: 0.1544 sec.
+iter 69970 || Loss: 5.7400 ||
+timer: 0.1531 sec.
+iter 69980 || Loss: 5.0939 ||
+timer: 0.1540 sec.
+iter 69990 || Loss: 5.3310 ||
+timer: 0.1528 sec.
+iter 70000 || Loss: 5.1204 ||
+Saving state, iter: 70000
+timer: 0.1596 sec.
+iter 70010 || Loss: 4.8598 ||
+timer: 0.1537 sec.
+iter 70020 || Loss: 5.8411 ||
+timer: 0.1540 sec.
+iter 70030 || Loss: 5.1554 ||
+timer: 0.1551 sec.
+iter 70040 || Loss: 5.1821 ||
+timer: 0.1535 sec.
+iter 70050 || Loss: 4.8745 ||
+timer: 0.1536 sec.
+iter 70060 || Loss: 5.9319 ||
+timer: 0.1531 sec.
+iter 70070 || Loss: 6.0606 ||
+timer: 0.1528 sec.
+iter 70080 || Loss: 5.0715 ||
+timer: 0.1574 sec.
+iter 70090 || Loss: 5.0071 ||
+timer: 0.1534 sec.
+iter 70100 || Loss: 5.6128 ||
+timer: 0.1545 sec.
+iter 70110 || Loss: 5.5192 ||
+timer: 0.1548 sec.
+iter 70120 || Loss: 5.9453 ||
+timer: 0.1540 sec.
+iter 70130 || Loss: 5.7343 ||
+timer: 0.1574 sec.
+iter 70140 || Loss: 5.2100 ||
+timer: 0.1595 sec.
+iter 70150 || Loss: 5.7566 ||
+timer: 0.1573 sec.
+iter 70160 || Loss: 5.4113 ||
+timer: 0.1543 sec.
+iter 70170 || Loss: 6.1373 ||
+timer: 0.1633 sec.
+iter 70180 || Loss: 5.8171 ||
+timer: 0.1573 sec.
+iter 70190 || Loss: 5.9759 ||
+timer: 0.1538 sec.
+iter 70200 || Loss: 5.1085 ||
+timer: 0.1534 sec.
+iter 70210 || Loss: 5.7847 ||
+timer: 0.1539 sec.
+iter 70220 || Loss: 5.0300 ||
+timer: 0.1545 sec.
+iter 70230 || Loss: 5.3689 ||
+timer: 0.1562 sec.
+iter 70240 || Loss: 5.1954 ||
+timer: 0.1548 sec.
+iter 70250 || Loss: 5.9280 ||
+timer: 0.1529 sec.
+iter 70260 || Loss: 5.0343 ||
+timer: 0.1520 sec.
+iter 70270 || Loss: 4.6765 ||
+timer: 0.1592 sec.
+iter 70280 || Loss: 5.9175 ||
+timer: 0.1553 sec.
+iter 70290 || Loss: 5.5483 ||
+timer: 0.1558 sec.
+iter 70300 || Loss: 6.3547 ||
+timer: 0.1549 sec.
+iter 70310 || Loss: 6.5408 ||
+timer: 0.1531 sec.
+iter 70320 || Loss: 4.9832 ||
+timer: 0.1591 sec.
+iter 70330 || Loss: 5.3670 ||
+timer: 0.1522 sec.
+iter 70340 || Loss: 5.3881 ||
+timer: 0.1536 sec.
+iter 70350 || Loss: 4.9967 ||
+timer: 0.1533 sec.
+iter 70360 || Loss: 4.9422 ||
+timer: 0.1545 sec.
+iter 70370 || Loss: 6.8323 ||
+timer: 0.1536 sec.
+iter 70380 || Loss: 5.1337 ||
+timer: 0.1529 sec.
+iter 70390 || Loss: 4.6825 ||
+timer: 0.1597 sec.
+iter 70400 || Loss: 5.8072 ||
+timer: 0.1551 sec.
+iter 70410 || Loss: 5.3694 ||
+timer: 0.1526 sec.
+iter 70420 || Loss: 4.8225 ||
+timer: 0.1533 sec.
+iter 70430 || Loss: 5.3933 ||
+timer: 0.1541 sec.
+iter 70440 || Loss: 5.3327 ||
+timer: 0.1519 sec.
+iter 70450 || Loss: 5.0147 ||
+timer: 0.1526 sec.
+iter 70460 || Loss: 5.3648 ||
+timer: 0.1532 sec.
+iter 70470 || Loss: 5.6332 ||
+timer: 0.1540 sec.
+iter 70480 || Loss: 5.7719 ||
+timer: 0.1554 sec.
+iter 70490 || Loss: 5.7386 ||
+timer: 0.1535 sec.
+iter 70500 || Loss: 5.5347 ||
+timer: 0.1536 sec.
+iter 70510 || Loss: 5.3335 ||
+timer: 0.1545 sec.
+iter 70520 || Loss: 5.4349 ||
+timer: 0.1558 sec.
+iter 70530 || Loss: 6.3976 ||
+timer: 0.1534 sec.
+iter 70540 || Loss: 5.1280 ||
+timer: 0.1613 sec.
+iter 70550 || Loss: 5.9662 ||
+timer: 0.1529 sec.
+iter 70560 || Loss: 5.5497 ||
+timer: 0.1548 sec.
+iter 70570 || Loss: 6.0734 ||
+timer: 0.1532 sec.
+iter 70580 || Loss: 5.8488 ||
+timer: 0.1536 sec.
+iter 70590 || Loss: 5.3092 ||
+timer: 0.1606 sec.
+iter 70600 || Loss: 6.1062 ||
+timer: 0.1548 sec.
+iter 70610 || Loss: 6.0561 ||
+timer: 0.1519 sec.
+iter 70620 || Loss: 5.7455 ||
+timer: 0.1554 sec.
+iter 70630 || Loss: 4.9912 ||
+timer: 0.1530 sec.
+iter 70640 || Loss: 4.6625 ||
+timer: 0.1539 sec.
+iter 70650 || Loss: 5.7043 ||
+timer: 0.1550 sec.
+iter 70660 || Loss: 6.0579 ||
+timer: 0.1541 sec.
+iter 70670 || Loss: 5.5664 ||
+timer: 0.1719 sec.
+iter 70680 || Loss: 5.6901 ||
+timer: 0.1539 sec.
+iter 70690 || Loss: 5.8294 ||
+timer: 0.1558 sec.
+iter 70700 || Loss: 5.5867 ||
+timer: 0.1550 sec.
+iter 70710 || Loss: 5.6725 ||
+timer: 0.1539 sec.
+iter 70720 || Loss: 4.9353 ||
+timer: 0.1562 sec.
+iter 70730 || Loss: 6.8032 ||
+timer: 0.1530 sec.
+iter 70740 || Loss: 5.6730 ||
+timer: 0.1529 sec.
+iter 70750 || Loss: 4.8018 ||
+timer: 0.1554 sec.
+iter 70760 || Loss: 6.0234 ||
+timer: 0.1539 sec.
+iter 70770 || Loss: 5.1259 ||
+timer: 0.1530 sec.
+iter 70780 || Loss: 5.6101 ||
+timer: 0.1504 sec.
+iter 70790 || Loss: 5.2992 ||
+timer: 0.1546 sec.
+iter 70800 || Loss: 5.6959 ||
+timer: 0.1548 sec.
+iter 70810 || Loss: 5.6238 ||
+timer: 0.1545 sec.
+iter 70820 || Loss: 5.6881 ||
+timer: 0.1537 sec.
+iter 70830 || Loss: 4.7845 ||
+timer: 0.1528 sec.
+iter 70840 || Loss: 5.6513 ||
+timer: 0.1610 sec.
+iter 70850 || Loss: 4.7791 ||
+timer: 0.1541 sec.
+iter 70860 || Loss: 6.2718 ||
+timer: 0.1554 sec.
+iter 70870 || Loss: 5.5152 ||
+timer: 0.1545 sec.
+iter 70880 || Loss: 5.3756 ||
+timer: 0.1567 sec.
+iter 70890 || Loss: 6.0348 ||
+timer: 0.1530 sec.
+iter 70900 || Loss: 5.3882 ||
+timer: 0.1540 sec.
+iter 70910 || Loss: 6.0436 ||
+timer: 0.1522 sec.
+iter 70920 || Loss: 5.3892 ||
+timer: 0.1536 sec.
+iter 70930 || Loss: 5.9492 ||
+timer: 0.1546 sec.
+iter 70940 || Loss: 5.3575 ||
+timer: 0.1537 sec.
+iter 70950 || Loss: 7.0805 ||
+timer: 0.1508 sec.
+iter 70960 || Loss: 4.9620 ||
+timer: 0.1568 sec.
+iter 70970 || Loss: 5.4614 ||
+timer: 0.1543 sec.
+iter 70980 || Loss: 5.3204 ||
+timer: 0.1552 sec.
+iter 70990 || Loss: 6.3198 ||
+timer: 0.1551 sec.
+iter 71000 || Loss: 5.3525 ||
+timer: 0.1535 sec.
+iter 71010 || Loss: 5.4157 ||
+timer: 0.1610 sec.
+iter 71020 || Loss: 5.5514 ||
+timer: 0.1534 sec.
+iter 71030 || Loss: 4.4654 ||
+timer: 0.1530 sec.
+iter 71040 || Loss: 6.0026 ||
+timer: 0.1550 sec.
+iter 71050 || Loss: 5.6940 ||
+timer: 0.1545 sec.
+iter 71060 || Loss: 5.7458 ||
+timer: 0.1560 sec.
+iter 71070 || Loss: 5.4802 ||
+timer: 0.1592 sec.
+iter 71080 || Loss: 5.1685 ||
+timer: 0.1526 sec.
+iter 71090 || Loss: 5.2770 ||
+timer: 0.1562 sec.
+iter 71100 || Loss: 6.4100 ||
+timer: 0.1530 sec.
+iter 71110 || Loss: 5.1707 ||
+timer: 0.1550 sec.
+iter 71120 || Loss: 5.8353 ||
+timer: 0.1510 sec.
+iter 71130 || Loss: 5.2422 ||
+timer: 0.1550 sec.
+iter 71140 || Loss: 6.3629 ||
+timer: 0.1548 sec.
+iter 71150 || Loss: 5.6583 ||
+timer: 0.1526 sec.
+iter 71160 || Loss: 5.0155 ||
+timer: 0.1531 sec.
+iter 71170 || Loss: 5.1076 ||
+timer: 0.1542 sec.
+iter 71180 || Loss: 6.1801 ||
+timer: 0.1529 sec.
+iter 71190 || Loss: 5.3577 ||
+timer: 0.1563 sec.
+iter 71200 || Loss: 5.3046 ||
+timer: 0.1541 sec.
+iter 71210 || Loss: 5.2319 ||
+timer: 0.1602 sec.
+iter 71220 || Loss: 5.5734 ||
+timer: 0.1526 sec.
+iter 71230 || Loss: 4.5340 ||
+timer: 0.1580 sec.
+iter 71240 || Loss: 5.2774 ||
+timer: 0.1535 sec.
+iter 71250 || Loss: 4.9786 ||
+timer: 0.1551 sec.
+iter 71260 || Loss: 5.6952 ||
+timer: 0.1531 sec.
+iter 71270 || Loss: 5.7793 ||
+timer: 0.1547 sec.
+iter 71280 || Loss: 5.9654 ||
+timer: 0.1546 sec.
+iter 71290 || Loss: 5.6322 ||
+timer: 0.1518 sec.
+iter 71300 || Loss: 5.6277 ||
+timer: 0.1534 sec.
+iter 71310 || Loss: 5.6399 ||
+timer: 0.1525 sec.
+iter 71320 || Loss: 5.0285 ||
+timer: 0.1533 sec.
+iter 71330 || Loss: 5.4970 ||
+timer: 0.1525 sec.
+iter 71340 || Loss: 5.1622 ||
+timer: 0.1580 sec.
+iter 71350 || Loss: 6.2675 ||
+timer: 0.1601 sec.
+iter 71360 || Loss: 5.9951 ||
+timer: 0.1526 sec.
+iter 71370 || Loss: 5.4014 ||
+timer: 0.1530 sec.
+iter 71380 || Loss: 5.7862 ||
+timer: 0.1606 sec.
+iter 71390 || Loss: 5.7101 ||
+timer: 0.1527 sec.
+iter 71400 || Loss: 5.3039 ||
+timer: 0.1533 sec.
+iter 71410 || Loss: 6.2267 ||
+timer: 0.1539 sec.
+iter 71420 || Loss: 6.0647 ||
+timer: 0.1554 sec.
+iter 71430 || Loss: 5.9190 ||
+timer: 0.1541 sec.
+iter 71440 || Loss: 5.6924 ||
+timer: 0.1537 sec.
+iter 71450 || Loss: 5.4564 ||
+timer: 0.1548 sec.
+iter 71460 || Loss: 5.8840 ||
+timer: 0.1535 sec.
+iter 71470 || Loss: 5.3406 ||
+timer: 0.1526 sec.
+iter 71480 || Loss: 5.5439 ||
+timer: 0.1529 sec.
+iter 71490 || Loss: 5.1966 ||
+timer: 0.1524 sec.
+iter 71500 || Loss: 5.1471 ||
+timer: 0.1535 sec.
+iter 71510 || Loss: 4.1131 ||
+timer: 0.1552 sec.
+iter 71520 || Loss: 5.4584 ||
+timer: 0.1542 sec.
+iter 71530 || Loss: 4.8382 ||
+timer: 0.1542 sec.
+iter 71540 || Loss: 4.8865 ||
+timer: 0.1598 sec.
+iter 71550 || Loss: 5.6893 ||
+timer: 0.1539 sec.
+iter 71560 || Loss: 5.2614 ||
+timer: 0.1540 sec.
+iter 71570 || Loss: 5.6651 ||
+timer: 0.1547 sec.
+iter 71580 || Loss: 5.2132 ||
+timer: 0.1606 sec.
+iter 71590 || Loss: 5.9700 ||
+timer: 0.1529 sec.
+iter 71600 || Loss: 5.6250 ||
+timer: 0.1527 sec.
+iter 71610 || Loss: 5.5068 ||
+timer: 0.1543 sec.
+iter 71620 || Loss: 5.3748 ||
+timer: 0.1536 sec.
+iter 71630 || Loss: 5.0244 ||
+timer: 0.1512 sec.
+iter 71640 || Loss: 5.7673 ||
+timer: 0.1543 sec.
+iter 71650 || Loss: 5.5235 ||
+timer: 0.1530 sec.
+iter 71660 || Loss: 5.1966 ||
+timer: 0.1537 sec.
+iter 71670 || Loss: 5.7389 ||
+timer: 0.1536 sec.
+iter 71680 || Loss: 5.3474 ||
+timer: 0.1527 sec.
+iter 71690 || Loss: 4.7213 ||
+timer: 0.1555 sec.
+iter 71700 || Loss: 5.5323 ||
+timer: 0.1533 sec.
+iter 71710 || Loss: 5.4331 ||
+timer: 0.1542 sec.
+iter 71720 || Loss: 5.9430 ||
+timer: 0.1628 sec.
+iter 71730 || Loss: 6.5002 ||
+timer: 0.1527 sec.
+iter 71740 || Loss: 5.4358 ||
+timer: 0.1542 sec.
+iter 71750 || Loss: 5.8787 ||
+timer: 0.1558 sec.
+iter 71760 || Loss: 5.9416 ||
+timer: 0.1547 sec.
+iter 71770 || Loss: 5.8435 ||
+timer: 0.1555 sec.
+iter 71780 || Loss: 5.7416 ||
+timer: 0.1625 sec.
+iter 71790 || Loss: 6.2024 ||
+timer: 0.1552 sec.
+iter 71800 || Loss: 6.1663 ||
+timer: 0.1519 sec.
+iter 71810 || Loss: 5.6971 ||
+timer: 0.1521 sec.
+iter 71820 || Loss: 5.1884 ||
+timer: 0.1552 sec.
+iter 71830 || Loss: 5.5111 ||
+timer: 0.1542 sec.
+iter 71840 || Loss: 5.2018 ||
+timer: 0.1530 sec.
+iter 71850 || Loss: 5.2320 ||
+timer: 0.1552 sec.
+iter 71860 || Loss: 5.5580 ||
+timer: 0.1521 sec.
+iter 71870 || Loss: 4.9391 ||
+timer: 0.1524 sec.
+iter 71880 || Loss: 5.6698 ||
+timer: 0.1524 sec.
+iter 71890 || Loss: 4.6895 ||
+timer: 0.1542 sec.
+iter 71900 || Loss: 5.9231 ||
+timer: 0.1546 sec.
+iter 71910 || Loss: 5.5199 ||
+timer: 0.1540 sec.
+iter 71920 || Loss: 5.1436 ||
+timer: 0.1558 sec.
+iter 71930 || Loss: 6.1059 ||
+timer: 0.1549 sec.
+iter 71940 || Loss: 5.3983 ||
+timer: 0.1528 sec.
+iter 71950 || Loss: 5.6868 ||
+timer: 0.1551 sec.
+iter 71960 || Loss: 5.7476 ||
+timer: 0.1543 sec.
+iter 71970 || Loss: 5.5006 ||
+timer: 0.1511 sec.
+iter 71980 || Loss: 4.7963 ||
+timer: 0.1538 sec.
+iter 71990 || Loss: 5.9486 ||
+timer: 0.1563 sec.
+iter 72000 || Loss: 6.4399 ||
+timer: 0.1537 sec.
+iter 72010 || Loss: 5.5084 ||
+timer: 0.1526 sec.
+iter 72020 || Loss: 4.6022 ||
+timer: 0.1536 sec.
+iter 72030 || Loss: 5.4285 ||
+timer: 0.1540 sec.
+iter 72040 || Loss: 5.7842 ||
+timer: 0.1529 sec.
+iter 72050 || Loss: 4.9175 ||
+timer: 0.1528 sec.
+iter 72060 || Loss: 5.9319 ||
+timer: 0.1557 sec.
+iter 72070 || Loss: 6.0316 ||
+timer: 0.1551 sec.
+iter 72080 || Loss: 5.7783 ||
+timer: 0.1553 sec.
+iter 72090 || Loss: 5.9389 ||
+timer: 0.1591 sec.
+iter 72100 || Loss: 5.0961 ||
+timer: 0.1533 sec.
+iter 72110 || Loss: 4.9358 ||
+timer: 0.1561 sec.
+iter 72120 || Loss: 6.1537 ||
+timer: 0.1518 sec.
+iter 72130 || Loss: 4.6247 ||
+timer: 0.1535 sec.
+iter 72140 || Loss: 4.9656 ||
+timer: 0.1518 sec.
+iter 72150 || Loss: 5.4372 ||
+timer: 0.1543 sec.
+iter 72160 || Loss: 6.5128 ||
+timer: 0.1547 sec.
+iter 72170 || Loss: 5.4153 ||
+timer: 0.1566 sec.
+iter 72180 || Loss: 5.9074 ||
+timer: 0.1548 sec.
+iter 72190 || Loss: 5.8781 ||
+timer: 0.1558 sec.
+iter 72200 || Loss: 5.3306 ||
+timer: 0.1541 sec.
+iter 72210 || Loss: 5.3358 ||
+timer: 0.1534 sec.
+iter 72220 || Loss: 4.9747 ||
+timer: 0.1570 sec.
+iter 72230 || Loss: 5.7662 ||
+timer: 0.1525 sec.
+iter 72240 || Loss: 5.7491 ||
+timer: 0.1528 sec.
+iter 72250 || Loss: 5.4935 ||
+timer: 0.1556 sec.
+iter 72260 || Loss: 5.4675 ||
+timer: 0.1541 sec.
+iter 72270 || Loss: 6.1435 ||
+timer: 0.1554 sec.
+iter 72280 || Loss: 5.4351 ||
+timer: 0.1553 sec.
+iter 72290 || Loss: 5.7280 ||
+timer: 0.1536 sec.
+iter 72300 || Loss: 5.6712 ||
+timer: 0.1560 sec.
+iter 72310 || Loss: 5.2746 ||
+timer: 0.1529 sec.
+iter 72320 || Loss: 5.1127 ||
+timer: 0.1595 sec.
+iter 72330 || Loss: 6.2265 ||
+timer: 0.1588 sec.
+iter 72340 || Loss: 5.7657 ||
+timer: 0.1591 sec.
+iter 72350 || Loss: 5.5581 ||
+timer: 0.1530 sec.
+iter 72360 || Loss: 5.9149 ||
+timer: 0.1523 sec.
+iter 72370 || Loss: 5.1928 ||
+timer: 0.1571 sec.
+iter 72380 || Loss: 5.8590 ||
+timer: 0.1595 sec.
+iter 72390 || Loss: 5.9963 ||
+timer: 0.1522 sec.
+iter 72400 || Loss: 5.3008 ||
+timer: 0.1568 sec.
+iter 72410 || Loss: 5.0415 ||
+timer: 0.1544 sec.
+iter 72420 || Loss: 5.0675 ||
+timer: 0.1567 sec.
+iter 72430 || Loss: 6.2863 ||
+timer: 0.1576 sec.
+iter 72440 || Loss: 5.4534 ||
+timer: 0.1524 sec.
+iter 72450 || Loss: 4.8538 ||
+timer: 0.1545 sec.
+iter 72460 || Loss: 6.2308 ||
+timer: 0.1554 sec.
+iter 72470 || Loss: 6.3182 ||
+timer: 0.1537 sec.
+iter 72480 || Loss: 4.9538 ||
+timer: 0.1512 sec.
+iter 72490 || Loss: 4.5670 ||
+timer: 0.1536 sec.
+iter 72500 || Loss: 5.4125 ||
+timer: 0.1596 sec.
+iter 72510 || Loss: 5.3567 ||
+timer: 0.1549 sec.
+iter 72520 || Loss: 5.6792 ||
+timer: 0.1540 sec.
+iter 72530 || Loss: 5.3459 ||
+timer: 0.1542 sec.
+iter 72540 || Loss: 5.0600 ||
+timer: 0.1546 sec.
+iter 72550 || Loss: 5.3700 ||
+timer: 0.1548 sec.
+iter 72560 || Loss: 5.3921 ||
+timer: 0.1545 sec.
+iter 72570 || Loss: 5.5732 ||
+timer: 0.1559 sec.
+iter 72580 || Loss: 6.0804 ||
+timer: 0.1533 sec.
+iter 72590 || Loss: 5.1470 ||
+timer: 0.1608 sec.
+iter 72600 || Loss: 5.9773 ||
+timer: 0.1544 sec.
+iter 72610 || Loss: 5.6622 ||
+timer: 0.1592 sec.
+iter 72620 || Loss: 5.6275 ||
+timer: 0.1538 sec.
+iter 72630 || Loss: 5.0902 ||
+timer: 0.1528 sec.
+iter 72640 || Loss: 6.2876 ||
+timer: 0.1548 sec.
+iter 72650 || Loss: 5.8927 ||
+timer: 0.1636 sec.
+iter 72660 || Loss: 7.0591 ||
+timer: 0.1541 sec.
+iter 72670 || Loss: 5.1695 ||
+timer: 0.1531 sec.
+iter 72680 || Loss: 5.8443 ||
+timer: 0.1549 sec.
+iter 72690 || Loss: 5.3530 ||
+timer: 0.1558 sec.
+iter 72700 || Loss: 5.5955 ||
+timer: 0.1520 sec.
+iter 72710 || Loss: 5.8858 ||
+timer: 0.1536 sec.
+iter 72720 || Loss: 5.7281 ||
+timer: 0.1543 sec.
+iter 72730 || Loss: 5.7774 ||
+timer: 0.1543 sec.
+iter 72740 || Loss: 6.2292 ||
+timer: 0.1538 sec.
+iter 72750 || Loss: 5.2453 ||
+timer: 0.1544 sec.
+iter 72760 || Loss: 5.6864 ||
+timer: 0.1577 sec.
+iter 72770 || Loss: 5.4474 ||
+timer: 0.1550 sec.
+iter 72780 || Loss: 5.4979 ||
+timer: 0.1557 sec.
+iter 72790 || Loss: 5.7379 ||
+timer: 0.1547 sec.
+iter 72800 || Loss: 5.5643 ||
+timer: 0.1522 sec.
+iter 72810 || Loss: 5.7289 ||
+timer: 0.1546 sec.
+iter 72820 || Loss: 6.0768 ||
+timer: 0.1560 sec.
+iter 72830 || Loss: 6.1902 ||
+timer: 0.1539 sec.
+iter 72840 || Loss: 5.5950 ||
+timer: 0.1615 sec.
+iter 72850 || Loss: 5.2164 ||
+timer: 0.1530 sec.
+iter 72860 || Loss: 4.5216 ||
+timer: 0.1531 sec.
+iter 72870 || Loss: 5.8201 ||
+timer: 0.1532 sec.
+iter 72880 || Loss: 4.8438 ||
+timer: 0.1530 sec.
+iter 72890 || Loss: 5.6033 ||
+timer: 0.1533 sec.
+iter 72900 || Loss: 5.2506 ||
+timer: 0.1640 sec.
+iter 72910 || Loss: 6.3726 ||
+timer: 0.1594 sec.
+iter 72920 || Loss: 5.3900 ||
+timer: 0.1574 sec.
+iter 72930 || Loss: 5.6748 ||
+timer: 0.1593 sec.
+iter 72940 || Loss: 6.3681 ||
+timer: 0.1543 sec.
+iter 72950 || Loss: 5.8660 ||
+timer: 0.1564 sec.
+iter 72960 || Loss: 6.2227 ||
+timer: 0.1562 sec.
+iter 72970 || Loss: 4.5978 ||
+timer: 0.1542 sec.
+iter 72980 || Loss: 6.0590 ||
+timer: 0.1538 sec.
+iter 72990 || Loss: 5.2321 ||
+timer: 0.1565 sec.
+iter 73000 || Loss: 5.3516 ||
+timer: 0.1536 sec.
+iter 73010 || Loss: 5.3569 ||
+timer: 0.1526 sec.
+iter 73020 || Loss: 5.5648 ||
+timer: 0.1526 sec.
+iter 73030 || Loss: 5.9243 ||
+timer: 0.1540 sec.
+iter 73040 || Loss: 5.3618 ||
+timer: 0.1525 sec.
+iter 73050 || Loss: 4.9938 ||
+timer: 0.1530 sec.
+iter 73060 || Loss: 5.6871 ||
+timer: 0.1531 sec.
+iter 73070 || Loss: 5.0090 ||
+timer: 0.1529 sec.
+iter 73080 || Loss: 5.1232 ||
+timer: 0.1555 sec.
+iter 73090 || Loss: 5.7662 ||
+timer: 0.1535 sec.
+iter 73100 || Loss: 5.0270 ||
+timer: 0.1604 sec.
+iter 73110 || Loss: 6.0536 ||
+timer: 0.1545 sec.
+iter 73120 || Loss: 5.4009 ||
+timer: 0.1526 sec.
+iter 73130 || Loss: 5.7402 ||
+timer: 0.1527 sec.
+iter 73140 || Loss: 5.5006 ||
+timer: 0.1547 sec.
+iter 73150 || Loss: 6.4109 ||
+timer: 0.1524 sec.
+iter 73160 || Loss: 5.1598 ||
+timer: 0.1542 sec.
+iter 73170 || Loss: 5.7856 ||
+timer: 0.1552 sec.
+iter 73180 || Loss: 5.8552 ||
+timer: 0.1522 sec.
+iter 73190 || Loss: 4.9473 ||
+timer: 0.1526 sec.
+iter 73200 || Loss: 5.3132 ||
+timer: 0.1538 sec.
+iter 73210 || Loss: 6.3790 ||
+timer: 0.1542 sec.
+iter 73220 || Loss: 4.8861 ||
+timer: 0.1552 sec.
+iter 73230 || Loss: 6.9062 ||
+timer: 0.1560 sec.
+iter 73240 || Loss: 5.7740 ||
+timer: 0.1649 sec.
+iter 73250 || Loss: 5.3841 ||
+timer: 0.1535 sec.
+iter 73260 || Loss: 5.7973 ||
+timer: 0.1530 sec.
+iter 73270 || Loss: 6.9568 ||
+timer: 0.1608 sec.
+iter 73280 || Loss: 5.6020 ||
+timer: 0.1525 sec.
+iter 73290 || Loss: 5.1459 ||
+timer: 0.1544 sec.
+iter 73300 || Loss: 5.2148 ||
+timer: 0.1548 sec.
+iter 73310 || Loss: 6.0250 ||
+timer: 0.1559 sec.
+iter 73320 || Loss: 6.2321 ||
+timer: 0.1546 sec.
+iter 73330 || Loss: 5.6850 ||
+timer: 0.1544 sec.
+iter 73340 || Loss: 4.5887 ||
+timer: 0.1530 sec.
+iter 73350 || Loss: 5.7621 ||
+timer: 0.1537 sec.
+iter 73360 || Loss: 5.8712 ||
+timer: 0.1528 sec.
+iter 73370 || Loss: 6.1923 ||
+timer: 0.1548 sec.
+iter 73380 || Loss: 6.1663 ||
+timer: 0.1534 sec.
+iter 73390 || Loss: 5.9568 ||
+timer: 0.1596 sec.
+iter 73400 || Loss: 6.3677 ||
+timer: 0.1520 sec.
+iter 73410 || Loss: 4.9185 ||
+timer: 0.1555 sec.
+iter 73420 || Loss: 5.4102 ||
+timer: 0.1566 sec.
+iter 73430 || Loss: 6.5195 ||
+timer: 0.1562 sec.
+iter 73440 || Loss: 4.8879 ||
+timer: 0.1531 sec.
+iter 73450 || Loss: 6.0763 ||
+timer: 0.1527 sec.
+iter 73460 || Loss: 4.5819 ||
+timer: 0.1621 sec.
+iter 73470 || Loss: 6.0667 ||
+timer: 0.1523 sec.
+iter 73480 || Loss: 5.9355 ||
+timer: 0.1552 sec.
+iter 73490 || Loss: 4.7260 ||
+timer: 0.1538 sec.
+iter 73500 || Loss: 6.0231 ||
+timer: 0.1564 sec.
+iter 73510 || Loss: 7.0567 ||
+timer: 0.1545 sec.
+iter 73520 || Loss: 5.9348 ||
+timer: 0.1530 sec.
+iter 73530 || Loss: 5.1189 ||
+timer: 0.1529 sec.
+iter 73540 || Loss: 4.2851 ||
+timer: 0.1519 sec.
+iter 73550 || Loss: 5.8962 ||
+timer: 0.1523 sec.
+iter 73560 || Loss: 6.1189 ||
+timer: 0.1602 sec.
+iter 73570 || Loss: 5.8964 ||
+timer: 0.1580 sec.
+iter 73580 || Loss: 5.9998 ||
+timer: 0.1542 sec.
+iter 73590 || Loss: 5.9660 ||
+timer: 0.1516 sec.
+iter 73600 || Loss: 4.8876 ||
+timer: 0.1588 sec.
+iter 73610 || Loss: 4.8321 ||
+timer: 0.1514 sec.
+iter 73620 || Loss: 5.9625 ||
+timer: 0.1533 sec.
+iter 73630 || Loss: 6.1093 ||
+timer: 0.1537 sec.
+iter 73640 || Loss: 5.7426 ||
+timer: 0.1531 sec.
+iter 73650 || Loss: 5.2022 ||
+timer: 0.1547 sec.
+iter 73660 || Loss: 5.7742 ||
+timer: 0.1529 sec.
+iter 73670 || Loss: 5.2575 ||
+timer: 0.1524 sec.
+iter 73680 || Loss: 5.3308 ||
+timer: 0.1538 sec.
+iter 73690 || Loss: 5.5444 ||
+timer: 0.1529 sec.
+iter 73700 || Loss: 5.0688 ||
+timer: 0.1526 sec.
+iter 73710 || Loss: 5.2425 ||
+timer: 0.1577 sec.
+iter 73720 || Loss: 5.8081 ||
+timer: 0.1549 sec.
+iter 73730 || Loss: 5.4705 ||
+timer: 0.1546 sec.
+iter 73740 || Loss: 5.1811 ||
+timer: 0.1536 sec.
+iter 73750 || Loss: 5.7437 ||
+timer: 0.1527 sec.
+iter 73760 || Loss: 5.3108 ||
+timer: 0.1588 sec.
+iter 73770 || Loss: 5.5304 ||
+timer: 0.1558 sec.
+iter 73780 || Loss: 4.7059 ||
+timer: 0.1521 sec.
+iter 73790 || Loss: 5.5533 ||
+timer: 0.1529 sec.
+iter 73800 || Loss: 5.1038 ||
+timer: 0.1549 sec.
+iter 73810 || Loss: 5.6166 ||
+timer: 0.1612 sec.
+iter 73820 || Loss: 6.1211 ||
+timer: 0.1543 sec.
+iter 73830 || Loss: 5.9075 ||
+timer: 0.1559 sec.
+iter 73840 || Loss: 5.8955 ||
+timer: 0.1563 sec.
+iter 73850 || Loss: 5.7138 ||
+timer: 0.1525 sec.
+iter 73860 || Loss: 5.1680 ||
+timer: 0.1558 sec.
+iter 73870 || Loss: 5.8804 ||
+timer: 0.1544 sec.
+iter 73880 || Loss: 5.4942 ||
+timer: 0.1527 sec.
+iter 73890 || Loss: 6.0075 ||
+timer: 0.1531 sec.
+iter 73900 || Loss: 6.0754 ||
+timer: 0.1535 sec.
+iter 73910 || Loss: 4.9748 ||
+timer: 0.1563 sec.
+iter 73920 || Loss: 4.5883 ||
+timer: 0.1522 sec.
+iter 73930 || Loss: 4.9942 ||
+timer: 0.1525 sec.
+iter 73940 || Loss: 5.5164 ||
+timer: 0.1535 sec.
+iter 73950 || Loss: 5.3506 ||
+timer: 0.1517 sec.
+iter 73960 || Loss: 6.3036 ||
+timer: 0.1537 sec.
+iter 73970 || Loss: 5.5341 ||
+timer: 0.1543 sec.
+iter 73980 || Loss: 5.7487 ||
+timer: 0.1549 sec.
+iter 73990 || Loss: 5.5282 ||
+timer: 0.1538 sec.
+iter 74000 || Loss: 5.9736 ||
+timer: 0.1575 sec.
+iter 74010 || Loss: 5.9506 ||
+timer: 0.1542 sec.
+iter 74020 || Loss: 5.1289 ||
+timer: 0.1525 sec.
+iter 74030 || Loss: 5.1751 ||
+timer: 0.1559 sec.
+iter 74040 || Loss: 6.4255 ||
+timer: 0.1524 sec.
+iter 74050 || Loss: 6.3537 ||
+timer: 0.1536 sec.
+iter 74060 || Loss: 5.3871 ||
+timer: 0.1540 sec.
+iter 74070 || Loss: 5.9606 ||
+timer: 0.1536 sec.
+iter 74080 || Loss: 5.5685 ||
+timer: 0.1526 sec.
+iter 74090 || Loss: 4.3332 ||
+timer: 0.1534 sec.
+iter 74100 || Loss: 5.2718 ||
+timer: 0.1529 sec.
+iter 74110 || Loss: 5.3345 ||
+timer: 0.1564 sec.
+iter 74120 || Loss: 6.1620 ||
+timer: 0.1524 sec.
+iter 74130 || Loss: 5.5525 ||
+timer: 0.1560 sec.
+iter 74140 || Loss: 5.9103 ||
+timer: 0.1527 sec.
+iter 74150 || Loss: 5.0642 ||
+timer: 0.1538 sec.
+iter 74160 || Loss: 5.4223 ||
+timer: 0.1539 sec.
+iter 74170 || Loss: 5.3321 ||
+timer: 0.1607 sec.
+iter 74180 || Loss: 5.1900 ||
+timer: 0.1542 sec.
+iter 74190 || Loss: 4.9434 ||
+timer: 0.1599 sec.
+iter 74200 || Loss: 4.7951 ||
+timer: 0.1543 sec.
+iter 74210 || Loss: 5.4045 ||
+timer: 0.1536 sec.
+iter 74220 || Loss: 5.9954 ||
+timer: 0.1596 sec.
+iter 74230 || Loss: 5.3935 ||
+timer: 0.1550 sec.
+iter 74240 || Loss: 6.3532 ||
+timer: 0.1553 sec.
+iter 74250 || Loss: 5.1405 ||
+timer: 0.1546 sec.
+iter 74260 || Loss: 5.6194 ||
+timer: 0.1533 sec.
+iter 74270 || Loss: 6.1044 ||
+timer: 0.1544 sec.
+iter 74280 || Loss: 5.3630 ||
+timer: 0.1563 sec.
+iter 74290 || Loss: 5.9163 ||
+timer: 0.1535 sec.
+iter 74300 || Loss: 5.5938 ||
+timer: 0.1515 sec.
+iter 74310 || Loss: 4.4375 ||
+timer: 0.1570 sec.
+iter 74320 || Loss: 5.2016 ||
+timer: 0.1531 sec.
+iter 74330 || Loss: 5.5379 ||
+timer: 0.1540 sec.
+iter 74340 || Loss: 5.5380 ||
+timer: 0.1545 sec.
+iter 74350 || Loss: 5.4336 ||
+timer: 0.1566 sec.
+iter 74360 || Loss: 5.3306 ||
+timer: 0.1525 sec.
+iter 74370 || Loss: 5.1631 ||
+timer: 0.1534 sec.
+iter 74380 || Loss: 6.0144 ||
+timer: 0.1540 sec.
+iter 74390 || Loss: 5.0064 ||
+timer: 0.1548 sec.
+iter 74400 || Loss: 4.7867 ||
+timer: 0.1544 sec.
+iter 74410 || Loss: 5.4242 ||
+timer: 0.1608 sec.
+iter 74420 || Loss: 5.1071 ||
+timer: 0.1540 sec.
+iter 74430 || Loss: 5.9206 ||
+timer: 0.1561 sec.
+iter 74440 || Loss: 5.8848 ||
+timer: 0.1520 sec.
+iter 74450 || Loss: 5.0286 ||
+timer: 0.1565 sec.
+iter 74460 || Loss: 5.2327 ||
+timer: 0.1527 sec.
+iter 74470 || Loss: 5.4278 ||
+timer: 0.1554 sec.
+iter 74480 || Loss: 5.3814 ||
+timer: 0.1525 sec.
+iter 74490 || Loss: 5.7630 ||
+timer: 0.1533 sec.
+iter 74500 || Loss: 5.5711 ||
+timer: 0.1542 sec.
+iter 74510 || Loss: 5.5329 ||
+timer: 0.1535 sec.
+iter 74520 || Loss: 4.9194 ||
+timer: 0.1540 sec.
+iter 74530 || Loss: 5.6055 ||
+timer: 0.1533 sec.
+iter 74540 || Loss: 5.7733 ||
+timer: 0.1524 sec.
+iter 74550 || Loss: 6.0977 ||
+timer: 0.1542 sec.
+iter 74560 || Loss: 4.9980 ||
+timer: 0.1543 sec.
+iter 74570 || Loss: 5.6247 ||
+timer: 0.1564 sec.
+iter 74580 || Loss: 5.3970 ||
+timer: 0.1538 sec.
+iter 74590 || Loss: 5.2726 ||
+timer: 0.1540 sec.
+iter 74600 || Loss: 6.0716 ||
+timer: 0.1533 sec.
+iter 74610 || Loss: 5.8710 ||
+timer: 0.1539 sec.
+iter 74620 || Loss: 6.4834 ||
+timer: 0.1533 sec.
+iter 74630 || Loss: 5.8500 ||
+timer: 0.1535 sec.
+iter 74640 || Loss: 5.5798 ||
+timer: 0.1535 sec.
+iter 74650 || Loss: 5.6792 ||
+timer: 0.1531 sec.
+iter 74660 || Loss: 5.1960 ||
+timer: 0.1545 sec.
+iter 74670 || Loss: 6.5274 ||
+timer: 0.1564 sec.
+iter 74680 || Loss: 5.8348 ||
+timer: 0.1533 sec.
+iter 74690 || Loss: 5.0338 ||
+timer: 0.1594 sec.
+iter 74700 || Loss: 5.4739 ||
+timer: 0.1535 sec.
+iter 74710 || Loss: 5.9866 ||
+timer: 0.1518 sec.
+iter 74720 || Loss: 5.4853 ||
+timer: 0.1528 sec.
+iter 74730 || Loss: 5.7246 ||
+timer: 0.1544 sec.
+iter 74740 || Loss: 5.3454 ||
+timer: 0.1535 sec.
+iter 74750 || Loss: 4.9223 ||
+timer: 0.1534 sec.
+iter 74760 || Loss: 4.9993 ||
+timer: 0.1543 sec.
+iter 74770 || Loss: 5.4696 ||
+timer: 0.1534 sec.
+iter 74780 || Loss: 5.7451 ||
+timer: 0.1529 sec.
+iter 74790 || Loss: 5.7034 ||
+timer: 0.1560 sec.
+iter 74800 || Loss: 5.2616 ||
+timer: 0.1523 sec.
+iter 74810 || Loss: 6.2825 ||
+timer: 0.1577 sec.
+iter 74820 || Loss: 5.8879 ||
+timer: 0.1539 sec.
+iter 74830 || Loss: 5.1941 ||
+timer: 0.1539 sec.
+iter 74840 || Loss: 5.1168 ||
+timer: 0.1535 sec.
+iter 74850 || Loss: 5.1959 ||
+timer: 0.1541 sec.
+iter 74860 || Loss: 5.6852 ||
+timer: 0.1559 sec.
+iter 74870 || Loss: 5.6989 ||
+timer: 0.1536 sec.
+iter 74880 || Loss: 5.9515 ||
+timer: 0.1535 sec.
+iter 74890 || Loss: 6.0237 ||
+timer: 0.1536 sec.
+iter 74900 || Loss: 5.3955 ||
+timer: 0.1527 sec.
+iter 74910 || Loss: 5.5770 ||
+timer: 0.1537 sec.
+iter 74920 || Loss: 5.1584 ||
+timer: 0.1546 sec.
+iter 74930 || Loss: 5.6465 ||
+timer: 0.1543 sec.
+iter 74940 || Loss: 5.2703 ||
+timer: 0.1529 sec.
+iter 74950 || Loss: 5.4204 ||
+timer: 0.1523 sec.
+iter 74960 || Loss: 5.1895 ||
+timer: 0.1539 sec.
+iter 74970 || Loss: 5.5600 ||
+timer: 0.1535 sec.
+iter 74980 || Loss: 6.5506 ||
+timer: 0.1530 sec.
+iter 74990 || Loss: 5.7027 ||
+timer: 0.1616 sec.
+iter 75000 || Loss: 5.9370 ||
+Saving state, iter: 75000
+timer: 0.1541 sec.
+iter 75010 || Loss: 5.6916 ||
+timer: 0.1547 sec.
+iter 75020 || Loss: 6.2314 ||
+timer: 0.1531 sec.
+iter 75030 || Loss: 5.3773 ||
+timer: 0.1521 sec.
+iter 75040 || Loss: 5.1877 ||
+timer: 0.1574 sec.
+iter 75050 || Loss: 5.9153 ||
+timer: 0.1534 sec.
+iter 75060 || Loss: 5.8207 ||
+timer: 0.1536 sec.
+iter 75070 || Loss: 5.8938 ||
+timer: 0.1534 sec.
+iter 75080 || Loss: 5.4261 ||
+timer: 0.1535 sec.
+iter 75090 || Loss: 5.4850 ||
+timer: 0.1543 sec.
+iter 75100 || Loss: 5.0650 ||
+timer: 0.1547 sec.
+iter 75110 || Loss: 6.4453 ||
+timer: 0.1588 sec.
+iter 75120 || Loss: 6.1403 ||
+timer: 0.1577 sec.
+iter 75130 || Loss: 5.7082 ||
+timer: 0.1537 sec.
+iter 75140 || Loss: 5.0174 ||
+timer: 0.1556 sec.
+iter 75150 || Loss: 5.2152 ||
+timer: 0.1562 sec.
+iter 75160 || Loss: 6.4398 ||
+timer: 0.1527 sec.
+iter 75170 || Loss: 5.2220 ||
+timer: 0.1537 sec.
+iter 75180 || Loss: 5.5054 ||
+timer: 0.1534 sec.
+iter 75190 || Loss: 6.1870 ||
+timer: 0.1530 sec.
+iter 75200 || Loss: 5.6546 ||
+timer: 0.1544 sec.
+iter 75210 || Loss: 6.4648 ||
+timer: 0.1538 sec.
+iter 75220 || Loss: 5.3415 ||
+timer: 0.1550 sec.
+iter 75230 || Loss: 6.1615 ||
+timer: 0.1572 sec.
+iter 75240 || Loss: 5.8845 ||
+timer: 0.1533 sec.
+iter 75250 || Loss: 4.6688 ||
+timer: 0.1528 sec.
+iter 75260 || Loss: 5.5406 ||
+timer: 0.1587 sec.
+iter 75270 || Loss: 5.6987 ||
+timer: 0.1551 sec.
+iter 75280 || Loss: 6.0942 ||
+timer: 0.1556 sec.
+iter 75290 || Loss: 6.0794 ||
+timer: 0.1557 sec.
+iter 75300 || Loss: 5.5586 ||
+timer: 0.1550 sec.
+iter 75310 || Loss: 5.6252 ||
+timer: 0.1541 sec.
+iter 75320 || Loss: 5.2916 ||
+timer: 0.1541 sec.
+iter 75330 || Loss: 5.8453 ||
+timer: 0.1544 sec.
+iter 75340 || Loss: 5.5927 ||
+timer: 0.1535 sec.
+iter 75350 || Loss: 5.9877 ||
+timer: 0.1572 sec.
+iter 75360 || Loss: 5.3362 ||
+timer: 0.1525 sec.
+iter 75370 || Loss: 4.5916 ||
+timer: 0.1534 sec.
+iter 75380 || Loss: 5.5838 ||
+timer: 0.1550 sec.
+iter 75390 || Loss: 7.2278 ||
+timer: 0.1537 sec.
+iter 75400 || Loss: 5.0822 ||
+timer: 0.1523 sec.
+iter 75410 || Loss: 5.6420 ||
+timer: 0.1525 sec.
+iter 75420 || Loss: 4.5321 ||
+timer: 0.1517 sec.
+iter 75430 || Loss: 4.4319 ||
+timer: 0.1539 sec.
+iter 75440 || Loss: 5.7730 ||
+timer: 0.1535 sec.
+iter 75450 || Loss: 5.2506 ||
+timer: 0.1539 sec.
+iter 75460 || Loss: 5.8914 ||
+timer: 0.1535 sec.
+iter 75470 || Loss: 5.6190 ||
+timer: 0.1585 sec.
+iter 75480 || Loss: 5.4946 ||
+timer: 0.1570 sec.
+iter 75490 || Loss: 5.5269 ||
+timer: 0.1570 sec.
+iter 75500 || Loss: 4.6727 ||
+timer: 0.1554 sec.
+iter 75510 || Loss: 5.8891 ||
+timer: 0.1534 sec.
+iter 75520 || Loss: 5.6622 ||
+timer: 0.1530 sec.
+iter 75530 || Loss: 5.7079 ||
+timer: 0.1542 sec.
+iter 75540 || Loss: 4.7708 ||
+timer: 0.1595 sec.
+iter 75550 || Loss: 5.4467 ||
+timer: 0.1517 sec.
+iter 75560 || Loss: 5.1853 ||
+timer: 0.1597 sec.
+iter 75570 || Loss: 5.9629 ||
+timer: 0.1533 sec.
+iter 75580 || Loss: 5.7625 ||
+timer: 0.1545 sec.
+iter 75590 || Loss: 6.3740 ||
+timer: 0.1524 sec.
+iter 75600 || Loss: 5.2898 ||
+timer: 0.1541 sec.
+iter 75610 || Loss: 6.5838 ||
+timer: 0.1530 sec.
+iter 75620 || Loss: 5.6769 ||
+timer: 0.1545 sec.
+iter 75630 || Loss: 6.0024 ||
+timer: 0.1526 sec.
+iter 75640 || Loss: 5.8238 ||
+timer: 0.1525 sec.
+iter 75650 || Loss: 5.5367 ||
+timer: 0.1518 sec.
+iter 75660 || Loss: 5.1343 ||
+timer: 0.1542 sec.
+iter 75670 || Loss: 5.3314 ||
+timer: 0.1536 sec.
+iter 75680 || Loss: 5.4001 ||
+timer: 0.1544 sec.
+iter 75690 || Loss: 5.1618 ||
+timer: 0.1548 sec.
+iter 75700 || Loss: 6.0800 ||
+timer: 0.1542 sec.
+iter 75710 || Loss: 6.5246 ||
+timer: 0.1526 sec.
+iter 75720 || Loss: 5.1806 ||
+timer: 0.1545 sec.
+iter 75730 || Loss: 6.2181 ||
+timer: 0.1535 sec.
+iter 75740 || Loss: 4.8190 ||
+timer: 0.1533 sec.
+iter 75750 || Loss: 6.2019 ||
+timer: 0.1532 sec.
+iter 75760 || Loss: 5.5167 ||
+timer: 0.1520 sec.
+iter 75770 || Loss: 5.3247 ||
+timer: 0.1545 sec.
+iter 75780 || Loss: 6.0479 ||
+timer: 0.1531 sec.
+iter 75790 || Loss: 5.1787 ||
+timer: 0.1525 sec.
+iter 75800 || Loss: 5.1841 ||
+timer: 0.1548 sec.
+iter 75810 || Loss: 5.9857 ||
+timer: 0.1535 sec.
+iter 75820 || Loss: 5.0182 ||
+timer: 0.1565 sec.
+iter 75830 || Loss: 5.2801 ||
+timer: 0.1536 sec.
+iter 75840 || Loss: 5.3307 ||
+timer: 0.1584 sec.
+iter 75850 || Loss: 5.8825 ||
+timer: 0.1534 sec.
+iter 75860 || Loss: 6.3606 ||
+timer: 0.1543 sec.
+iter 75870 || Loss: 5.2150 ||
+timer: 0.1530 sec.
+iter 75880 || Loss: 4.8242 ||
+timer: 0.1565 sec.
+iter 75890 || Loss: 5.4006 ||
+timer: 0.1536 sec.
+iter 75900 || Loss: 5.4885 ||
+timer: 0.1543 sec.
+iter 75910 || Loss: 5.1461 ||
+timer: 0.1553 sec.
+iter 75920 || Loss: 5.1274 ||
+timer: 0.1524 sec.
+iter 75930 || Loss: 4.5237 ||
+timer: 0.1532 sec.
+iter 75940 || Loss: 5.9492 ||
+timer: 0.1545 sec.
+iter 75950 || Loss: 6.3126 ||
+timer: 0.1536 sec.
+iter 75960 || Loss: 5.5796 ||
+timer: 0.1523 sec.
+iter 75970 || Loss: 5.2374 ||
+timer: 0.1540 sec.
+iter 75980 || Loss: 5.9259 ||
+timer: 0.1536 sec.
+iter 75990 || Loss: 4.9482 ||
+timer: 0.1554 sec.
+iter 76000 || Loss: 5.3910 ||
+timer: 0.1552 sec.
+iter 76010 || Loss: 5.9568 ||
+timer: 0.1532 sec.
+iter 76020 || Loss: 6.1900 ||
+timer: 0.1541 sec.
+iter 76030 || Loss: 5.7381 ||
+timer: 0.1527 sec.
+iter 76040 || Loss: 4.8310 ||
+timer: 0.1558 sec.
+iter 76050 || Loss: 6.1028 ||
+timer: 0.1526 sec.
+iter 76060 || Loss: 5.4262 ||
+timer: 0.1533 sec.
+iter 76070 || Loss: 5.3737 ||
+timer: 0.1534 sec.
+iter 76080 || Loss: 5.2899 ||
+timer: 0.1522 sec.
+iter 76090 || Loss: 6.5781 ||
+timer: 0.1535 sec.
+iter 76100 || Loss: 6.4777 ||
+timer: 0.1544 sec.
+iter 76110 || Loss: 4.9903 ||
+timer: 0.1535 sec.
+iter 76120 || Loss: 5.4469 ||
+timer: 0.1521 sec.
+iter 76130 || Loss: 5.6644 ||
+timer: 0.1545 sec.
+iter 76140 || Loss: 5.5920 ||
+timer: 0.1554 sec.
+iter 76150 || Loss: 6.2602 ||
+timer: 0.1542 sec.
+iter 76160 || Loss: 5.1570 ||
+timer: 0.1522 sec.
+iter 76170 || Loss: 5.3463 ||
+timer: 0.1548 sec.
+iter 76180 || Loss: 5.8022 ||
+timer: 0.1536 sec.
+iter 76190 || Loss: 6.3334 ||
+timer: 0.1558 sec.
+iter 76200 || Loss: 5.6203 ||
+timer: 0.1527 sec.
+iter 76210 || Loss: 5.5222 ||
+timer: 0.1527 sec.
+iter 76220 || Loss: 5.9902 ||
+timer: 0.1589 sec.
+iter 76230 || Loss: 4.9807 ||
+timer: 0.1554 sec.
+iter 76240 || Loss: 5.1860 ||
+timer: 0.1541 sec.
+iter 76250 || Loss: 5.3179 ||
+timer: 0.1536 sec.
+iter 76260 || Loss: 5.5400 ||
+timer: 0.1526 sec.
+iter 76270 || Loss: 4.9707 ||
+timer: 0.1518 sec.
+iter 76280 || Loss: 5.0663 ||
+timer: 0.1514 sec.
+iter 76290 || Loss: 4.8904 ||
+timer: 0.1556 sec.
+iter 76300 || Loss: 6.2570 ||
+timer: 0.1526 sec.
+iter 76310 || Loss: 5.4089 ||
+timer: 0.1531 sec.
+iter 76320 || Loss: 5.7049 ||
+timer: 0.1529 sec.
+iter 76330 || Loss: 4.2747 ||
+timer: 0.1522 sec.
+iter 76340 || Loss: 4.8369 ||
+timer: 0.1548 sec.
+iter 76350 || Loss: 5.5856 ||
+timer: 0.1547 sec.
+iter 76360 || Loss: 5.2104 ||
+timer: 0.1533 sec.
+iter 76370 || Loss: 6.0685 ||
+timer: 0.1580 sec.
+iter 76380 || Loss: 5.0795 ||
+timer: 0.1550 sec.
+iter 76390 || Loss: 5.4293 ||
+timer: 0.1556 sec.
+iter 76400 || Loss: 5.2011 ||
+timer: 0.1565 sec.
+iter 76410 || Loss: 5.7208 ||
+timer: 0.1603 sec.
+iter 76420 || Loss: 5.5039 ||
+timer: 0.1563 sec.
+iter 76430 || Loss: 4.9330 ||
+timer: 0.1542 sec.
+iter 76440 || Loss: 6.6308 ||
+timer: 0.1546 sec.
+iter 76450 || Loss: 6.6128 ||
+timer: 0.1552 sec.
+iter 76460 || Loss: 5.2420 ||
+timer: 0.1566 sec.
+iter 76470 || Loss: 5.5289 ||
+timer: 0.1523 sec.
+iter 76480 || Loss: 5.4887 ||
+timer: 0.1531 sec.
+iter 76490 || Loss: 5.1335 ||
+timer: 0.1541 sec.
+iter 76500 || Loss: 5.7885 ||
+timer: 0.1514 sec.
+iter 76510 || Loss: 5.1147 ||
+timer: 0.1537 sec.
+iter 76520 || Loss: 5.4677 ||
+timer: 0.1536 sec.
+iter 76530 || Loss: 5.3659 ||
+timer: 0.1529 sec.
+iter 76540 || Loss: 5.4399 ||
+timer: 0.1536 sec.
+iter 76550 || Loss: 5.0967 ||
+timer: 0.1552 sec.
+iter 76560 || Loss: 5.6454 ||
+timer: 0.1611 sec.
+iter 76570 || Loss: 5.1012 ||
+timer: 0.1543 sec.
+iter 76580 || Loss: 6.9540 ||
+timer: 0.1558 sec.
+iter 76590 || Loss: 5.1962 ||
+timer: 0.1542 sec.
+iter 76600 || Loss: 5.9375 ||
+timer: 0.1535 sec.
+iter 76610 || Loss: 5.1117 ||
+timer: 0.1540 sec.
+iter 76620 || Loss: 5.8233 ||
+timer: 0.1542 sec.
+iter 76630 || Loss: 5.2587 ||
+timer: 0.1529 sec.
+iter 76640 || Loss: 5.8608 ||
+timer: 0.1544 sec.
+iter 76650 || Loss: 5.8996 ||
+timer: 0.1532 sec.
+iter 76660 || Loss: 5.6573 ||
+timer: 0.1549 sec.
+iter 76670 || Loss: 5.6778 ||
+timer: 0.1517 sec.
+iter 76680 || Loss: 5.6637 ||
+timer: 0.1564 sec.
+iter 76690 || Loss: 5.7976 ||
+timer: 0.1603 sec.
+iter 76700 || Loss: 5.4854 ||
+timer: 0.1542 sec.
+iter 76710 || Loss: 5.4631 ||
+timer: 0.1549 sec.
+iter 76720 || Loss: 5.2561 ||
+timer: 0.1579 sec.
+iter 76730 || Loss: 5.6412 ||
+timer: 0.1544 sec.
+iter 76740 || Loss: 5.5075 ||
+timer: 0.1538 sec.
+iter 76750 || Loss: 5.3239 ||
+timer: 0.1529 sec.
+iter 76760 || Loss: 5.2996 ||
+timer: 0.1537 sec.
+iter 76770 || Loss: 5.1309 ||
+timer: 0.1547 sec.
+iter 76780 || Loss: 5.5350 ||
+timer: 0.1552 sec.
+iter 76790 || Loss: 5.8603 ||
+timer: 0.1547 sec.
+iter 76800 || Loss: 5.6743 ||
+timer: 0.1524 sec.
+iter 76810 || Loss: 4.9701 ||
+timer: 0.1545 sec.
+iter 76820 || Loss: 5.9870 ||
+timer: 0.1531 sec.
+iter 76830 || Loss: 5.9932 ||
+timer: 0.1529 sec.
+iter 76840 || Loss: 5.0972 ||
+timer: 0.1539 sec.
+iter 76850 || Loss: 6.3427 ||
+timer: 0.1529 sec.
+iter 76860 || Loss: 5.6273 ||
+timer: 0.1556 sec.
+iter 76870 || Loss: 5.3567 ||
+timer: 0.1538 sec.
+iter 76880 || Loss: 6.1060 ||
+timer: 0.1526 sec.
+iter 76890 || Loss: 4.7886 ||
+timer: 0.1541 sec.
+iter 76900 || Loss: 5.5934 ||
+timer: 0.1668 sec.
+iter 76910 || Loss: 6.0311 ||
+timer: 0.1517 sec.
+iter 76920 || Loss: 4.2161 ||
+timer: 0.1515 sec.
+iter 76930 || Loss: 5.0113 ||
+timer: 0.1557 sec.
+iter 76940 || Loss: 5.5234 ||
+timer: 0.1543 sec.
+iter 76950 || Loss: 5.7446 ||
+timer: 0.1548 sec.
+iter 76960 || Loss: 5.0889 ||
+timer: 0.1527 sec.
+iter 76970 || Loss: 4.8727 ||
+timer: 0.1541 sec.
+iter 76980 || Loss: 6.2683 ||
+timer: 0.1537 sec.
+iter 76990 || Loss: 5.1897 ||
+timer: 0.1597 sec.
+iter 77000 || Loss: 6.1804 ||
+timer: 0.1537 sec.
+iter 77010 || Loss: 5.8685 ||
+timer: 0.1555 sec.
+iter 77020 || Loss: 5.7259 ||
+timer: 0.1533 sec.
+iter 77030 || Loss: 5.8377 ||
+timer: 0.1563 sec.
+iter 77040 || Loss: 6.0454 ||
+timer: 0.1552 sec.
+iter 77050 || Loss: 5.2447 ||
+timer: 0.1544 sec.
+iter 77060 || Loss: 5.1435 ||
+timer: 0.1546 sec.
+iter 77070 || Loss: 6.1918 ||
+timer: 0.1535 sec.
+iter 77080 || Loss: 5.5657 ||
+timer: 0.1561 sec.
+iter 77090 || Loss: 5.3469 ||
+timer: 0.1630 sec.
+iter 77100 || Loss: 5.8399 ||
+timer: 0.1526 sec.
+iter 77110 || Loss: 5.5502 ||
+timer: 0.1548 sec.
+iter 77120 || Loss: 5.4786 ||
+timer: 0.1524 sec.
+iter 77130 || Loss: 4.5507 ||
+timer: 0.1563 sec.
+iter 77140 || Loss: 6.1834 ||
+timer: 0.1527 sec.
+iter 77150 || Loss: 5.6830 ||
+timer: 0.1549 sec.
+iter 77160 || Loss: 5.3550 ||
+timer: 0.1631 sec.
+iter 77170 || Loss: 5.8621 ||
+timer: 0.1666 sec.
+iter 77180 || Loss: 5.7538 ||
+timer: 0.1681 sec.
+iter 77190 || Loss: 5.8082 ||
+timer: 0.1530 sec.
+iter 77200 || Loss: 5.0551 ||
+timer: 0.1542 sec.
+iter 77210 || Loss: 5.4475 ||
+timer: 0.1521 sec.
+iter 77220 || Loss: 4.8330 ||
+timer: 0.1551 sec.
+iter 77230 || Loss: 5.4770 ||
+timer: 0.1561 sec.
+iter 77240 || Loss: 5.5866 ||
+timer: 0.1587 sec.
+iter 77250 || Loss: 4.9591 ||
+timer: 0.1559 sec.
+iter 77260 || Loss: 5.0898 ||
+timer: 0.1579 sec.
+iter 77270 || Loss: 5.5437 ||
+timer: 0.1527 sec.
+iter 77280 || Loss: 5.7820 ||
+timer: 0.1533 sec.
+iter 77290 || Loss: 5.4639 ||
+timer: 0.1539 sec.
+iter 77300 || Loss: 5.2378 ||
+timer: 0.1526 sec.
+iter 77310 || Loss: 5.2165 ||
+timer: 0.1530 sec.
+iter 77320 || Loss: 5.1207 ||
+timer: 0.1551 sec.
+iter 77330 || Loss: 5.8434 ||
+timer: 0.1538 sec.
+iter 77340 || Loss: 5.6170 ||
+timer: 0.1556 sec.
+iter 77350 || Loss: 5.7096 ||
+timer: 0.1521 sec.
+iter 77360 || Loss: 5.6930 ||
+timer: 0.1600 sec.
+iter 77370 || Loss: 4.9872 ||
+timer: 0.1603 sec.
+iter 77380 || Loss: 5.6685 ||
+timer: 0.1574 sec.
+iter 77390 || Loss: 6.2025 ||
+timer: 0.1520 sec.
+iter 77400 || Loss: 5.1028 ||
+timer: 0.1543 sec.
+iter 77410 || Loss: 5.6316 ||
+timer: 0.1539 sec.
+iter 77420 || Loss: 5.4551 ||
+timer: 0.1565 sec.
+iter 77430 || Loss: 5.0674 ||
+timer: 0.1543 sec.
+iter 77440 || Loss: 4.5824 ||
+timer: 0.1533 sec.
+iter 77450 || Loss: 4.8595 ||
+timer: 0.1550 sec.
+iter 77460 || Loss: 5.9053 ||
+timer: 0.1560 sec.
+iter 77470 || Loss: 6.2854 ||
+timer: 0.1537 sec.
+iter 77480 || Loss: 6.1409 ||
+timer: 0.1559 sec.
+iter 77490 || Loss: 5.5792 ||
+timer: 0.1548 sec.
+iter 77500 || Loss: 5.1719 ||
+timer: 0.1537 sec.
+iter 77510 || Loss: 5.3401 ||
+timer: 0.1546 sec.
+iter 77520 || Loss: 6.4864 ||
+timer: 0.1522 sec.
+iter 77530 || Loss: 5.1632 ||
+timer: 0.1582 sec.
+iter 77540 || Loss: 5.6394 ||
+timer: 0.1534 sec.
+iter 77550 || Loss: 4.6866 ||
+timer: 0.1540 sec.
+iter 77560 || Loss: 4.8966 ||
+timer: 0.1536 sec.
+iter 77570 || Loss: 5.4419 ||
+timer: 0.1560 sec.
+iter 77580 || Loss: 4.8385 ||
+timer: 0.1532 sec.
+iter 77590 || Loss: 6.0530 ||
+timer: 0.1541 sec.
+iter 77600 || Loss: 5.6262 ||
+timer: 0.1519 sec.
+iter 77610 || Loss: 5.4806 ||
+timer: 0.1517 sec.
+iter 77620 || Loss: 4.4784 ||
+timer: 0.1512 sec.
+iter 77630 || Loss: 5.1883 ||
+timer: 0.1586 sec.
+iter 77640 || Loss: 5.0424 ||
+timer: 0.1545 sec.
+iter 77650 || Loss: 5.6680 ||
+timer: 0.1532 sec.
+iter 77660 || Loss: 6.3623 ||
+timer: 0.1536 sec.
+iter 77670 || Loss: 5.8263 ||
+timer: 0.1537 sec.
+iter 77680 || Loss: 5.7002 ||
+timer: 0.1531 sec.
+iter 77690 || Loss: 5.8277 ||
+timer: 0.1530 sec.
+iter 77700 || Loss: 6.5259 ||
+timer: 0.1532 sec.
+iter 77710 || Loss: 4.8652 ||
+timer: 0.1587 sec.
+iter 77720 || Loss: 5.5811 ||
+timer: 0.1565 sec.
+iter 77730 || Loss: 6.7418 ||
+timer: 0.1543 sec.
+iter 77740 || Loss: 6.2370 ||
+timer: 0.1530 sec.
+iter 77750 || Loss: 5.1033 ||
+timer: 0.1557 sec.
+iter 77760 || Loss: 5.2644 ||
+timer: 0.1516 sec.
+iter 77770 || Loss: 4.9740 ||
+timer: 0.1543 sec.
+iter 77780 || Loss: 5.5002 ||
+timer: 0.1570 sec.
+iter 77790 || Loss: 5.4521 ||
+timer: 0.1561 sec.
+iter 77800 || Loss: 6.1749 ||
+timer: 0.1536 sec.
+iter 77810 || Loss: 5.0447 ||
+timer: 0.1550 sec.
+iter 77820 || Loss: 5.2409 ||
+timer: 0.1534 sec.
+iter 77830 || Loss: 5.1237 ||
+timer: 0.1541 sec.
+iter 77840 || Loss: 5.8835 ||
+timer: 0.1538 sec.
+iter 77850 || Loss: 5.5598 ||
+timer: 0.1584 sec.
+iter 77860 || Loss: 5.5502 ||
+timer: 0.1529 sec.
+iter 77870 || Loss: 5.3011 ||
+timer: 0.1529 sec.
+iter 77880 || Loss: 5.6102 ||
+timer: 0.1531 sec.
+iter 77890 || Loss: 5.1297 ||
+timer: 0.1549 sec.
+iter 77900 || Loss: 5.2241 ||
+timer: 0.1547 sec.
+iter 77910 || Loss: 5.2093 ||
+timer: 0.1573 sec.
+iter 77920 || Loss: 4.6784 ||
+timer: 0.1544 sec.
+iter 77930 || Loss: 6.2166 ||
+timer: 0.1544 sec.
+iter 77940 || Loss: 6.1086 ||
+timer: 0.1532 sec.
+iter 77950 || Loss: 4.7541 ||
+timer: 0.1526 sec.
+iter 77960 || Loss: 5.7062 ||
+timer: 0.1549 sec.
+iter 77970 || Loss: 5.7926 ||
+timer: 0.1543 sec.
+iter 77980 || Loss: 5.5615 ||
+timer: 0.1532 sec.
+iter 77990 || Loss: 5.3441 ||
+timer: 0.1545 sec.
+iter 78000 || Loss: 5.6620 ||
+timer: 0.1634 sec.
+iter 78010 || Loss: 5.2367 ||
+timer: 0.1582 sec.
+iter 78020 || Loss: 6.1764 ||
+timer: 0.1559 sec.
+iter 78030 || Loss: 6.5330 ||
+timer: 0.1518 sec.
+iter 78040 || Loss: 5.3167 ||
+timer: 0.1550 sec.
+iter 78050 || Loss: 5.1670 ||
+timer: 0.1529 sec.
+iter 78060 || Loss: 5.1674 ||
+timer: 0.1560 sec.
+iter 78070 || Loss: 5.5391 ||
+timer: 0.1531 sec.
+iter 78080 || Loss: 5.9485 ||
+timer: 0.1537 sec.
+iter 78090 || Loss: 5.6019 ||
+timer: 0.1601 sec.
+iter 78100 || Loss: 6.8845 ||
+timer: 0.1557 sec.
+iter 78110 || Loss: 5.8740 ||
+timer: 0.1535 sec.
+iter 78120 || Loss: 5.2734 ||
+timer: 0.1541 sec.
+iter 78130 || Loss: 6.2338 ||
+timer: 0.1537 sec.
+iter 78140 || Loss: 5.3182 ||
+timer: 0.1567 sec.
+iter 78150 || Loss: 5.7477 ||
+timer: 0.1541 sec.
+iter 78160 || Loss: 4.8227 ||
+timer: 0.1532 sec.
+iter 78170 || Loss: 5.8318 ||
+timer: 0.1540 sec.
+iter 78180 || Loss: 5.5638 ||
+timer: 0.1531 sec.
+iter 78190 || Loss: 4.1504 ||
+timer: 0.1586 sec.
+iter 78200 || Loss: 4.9585 ||
+timer: 0.1520 sec.
+iter 78210 || Loss: 6.6948 ||
+timer: 0.1557 sec.
+iter 78220 || Loss: 5.3628 ||
+timer: 0.1534 sec.
+iter 78230 || Loss: 5.5834 ||
+timer: 0.1533 sec.
+iter 78240 || Loss: 4.8613 ||
+timer: 0.1539 sec.
+iter 78250 || Loss: 5.2588 ||
+timer: 0.1552 sec.
+iter 78260 || Loss: 5.9961 ||
+timer: 0.1621 sec.
+iter 78270 || Loss: 5.7505 ||
+timer: 0.1521 sec.
+iter 78280 || Loss: 4.7319 ||
+timer: 0.1578 sec.
+iter 78290 || Loss: 5.5927 ||
+timer: 0.1532 sec.
+iter 78300 || Loss: 5.6032 ||
+timer: 0.1533 sec.
+iter 78310 || Loss: 5.8881 ||
+timer: 0.1551 sec.
+iter 78320 || Loss: 5.6215 ||
+timer: 0.1533 sec.
+iter 78330 || Loss: 4.6904 ||
+timer: 0.1550 sec.
+iter 78340 || Loss: 5.3141 ||
+timer: 0.1575 sec.
+iter 78350 || Loss: 6.4307 ||
+timer: 0.1554 sec.
+iter 78360 || Loss: 5.8727 ||
+timer: 0.1532 sec.
+iter 78370 || Loss: 5.0279 ||
+timer: 0.1506 sec.
+iter 78380 || Loss: 4.8511 ||
+timer: 0.1533 sec.
+iter 78390 || Loss: 5.9117 ||
+timer: 0.1524 sec.
+iter 78400 || Loss: 5.0740 ||
+timer: 0.1533 sec.
+iter 78410 || Loss: 6.1260 ||
+timer: 0.1544 sec.
+iter 78420 || Loss: 5.6623 ||
+timer: 0.1532 sec.
+iter 78430 || Loss: 6.2373 ||
+timer: 0.1549 sec.
+iter 78440 || Loss: 5.3387 ||
+timer: 0.1614 sec.
+iter 78450 || Loss: 5.8185 ||
+timer: 0.1545 sec.
+iter 78460 || Loss: 4.8450 ||
+timer: 0.1537 sec.
+iter 78470 || Loss: 6.0977 ||
+timer: 0.1584 sec.
+iter 78480 || Loss: 5.0463 ||
+timer: 0.1532 sec.
+iter 78490 || Loss: 5.5202 ||
+timer: 0.1549 sec.
+iter 78500 || Loss: 6.2540 ||
+timer: 0.1544 sec.
+iter 78510 || Loss: 5.4576 ||
+timer: 0.1567 sec.
+iter 78520 || Loss: 5.0860 ||
+timer: 0.1538 sec.
+iter 78530 || Loss: 4.9547 ||
+timer: 0.1522 sec.
+iter 78540 || Loss: 4.4219 ||
+timer: 0.1545 sec.
+iter 78550 || Loss: 5.5550 ||
+timer: 0.1536 sec.
+iter 78560 || Loss: 5.1837 ||
+timer: 0.1616 sec.
+iter 78570 || Loss: 5.8401 ||
+timer: 0.1538 sec.
+iter 78580 || Loss: 5.1529 ||
+timer: 0.1528 sec.
+iter 78590 || Loss: 5.6041 ||
+timer: 0.1539 sec.
+iter 78600 || Loss: 6.2541 ||
+timer: 0.1545 sec.
+iter 78610 || Loss: 5.7636 ||
+timer: 0.1546 sec.
+iter 78620 || Loss: 6.1677 ||
+timer: 0.1584 sec.
+iter 78630 || Loss: 5.6228 ||
+timer: 0.1532 sec.
+iter 78640 || Loss: 5.4981 ||
+timer: 0.1603 sec.
+iter 78650 || Loss: 5.8761 ||
+timer: 0.1537 sec.
+iter 78660 || Loss: 5.3515 ||
+timer: 0.1529 sec.
+iter 78670 || Loss: 5.8700 ||
+timer: 0.1548 sec.
+iter 78680 || Loss: 5.1152 ||
+timer: 0.1523 sec.
+iter 78690 || Loss: 5.0424 ||
+timer: 0.1533 sec.
+iter 78700 || Loss: 5.8027 ||
+timer: 0.1523 sec.
+iter 78710 || Loss: 4.2683 ||
+timer: 0.1523 sec.
+iter 78720 || Loss: 5.1164 ||
+timer: 0.1572 sec.
+iter 78730 || Loss: 5.7156 ||
+timer: 0.1524 sec.
+iter 78740 || Loss: 5.6229 ||
+timer: 0.1536 sec.
+iter 78750 || Loss: 5.6291 ||
+timer: 0.1532 sec.
+iter 78760 || Loss: 4.8684 ||
+timer: 0.1610 sec.
+iter 78770 || Loss: 5.0596 ||
+timer: 0.1517 sec.
+iter 78780 || Loss: 5.1674 ||
+timer: 0.1532 sec.
+iter 78790 || Loss: 5.2129 ||
+timer: 0.1534 sec.
+iter 78800 || Loss: 4.9807 ||
+timer: 0.1614 sec.
+iter 78810 || Loss: 5.7227 ||
+timer: 0.1521 sec.
+iter 78820 || Loss: 5.1837 ||
+timer: 0.1540 sec.
+iter 78830 || Loss: 5.5893 ||
+timer: 0.1579 sec.
+iter 78840 || Loss: 5.0295 ||
+timer: 0.1523 sec.
+iter 78850 || Loss: 5.1334 ||
+timer: 0.1548 sec.
+iter 78860 || Loss: 5.7499 ||
+timer: 0.1626 sec.
+iter 78870 || Loss: 5.9453 ||
+timer: 0.1587 sec.
+iter 78880 || Loss: 5.4467 ||
+timer: 0.1538 sec.
+iter 78890 || Loss: 4.8748 ||
+timer: 0.1555 sec.
+iter 78900 || Loss: 5.2629 ||
+timer: 0.1543 sec.
+iter 78910 || Loss: 5.5401 ||
+timer: 0.1541 sec.
+iter 78920 || Loss: 4.5049 ||
+timer: 0.1533 sec.
+iter 78930 || Loss: 5.7033 ||
+timer: 0.1557 sec.
+iter 78940 || Loss: 5.7944 ||
+timer: 0.1517 sec.
+iter 78950 || Loss: 5.4335 ||
+timer: 0.1543 sec.
+iter 78960 || Loss: 5.6731 ||
+timer: 0.1539 sec.
+iter 78970 || Loss: 5.3467 ||
+timer: 0.1541 sec.
+iter 78980 || Loss: 5.3276 ||
+timer: 0.1555 sec.
+iter 78990 || Loss: 5.5718 ||
+timer: 0.1540 sec.
+iter 79000 || Loss: 5.0960 ||
+timer: 0.1533 sec.
+iter 79010 || Loss: 5.8672 ||
+timer: 0.1526 sec.
+iter 79020 || Loss: 5.2066 ||
+timer: 0.1523 sec.
+iter 79030 || Loss: 5.2052 ||
+timer: 0.1552 sec.
+iter 79040 || Loss: 6.1272 ||
+timer: 0.1549 sec.
+iter 79050 || Loss: 5.6867 ||
+timer: 0.1541 sec.
+iter 79060 || Loss: 5.3238 ||
+timer: 0.1536 sec.
+iter 79070 || Loss: 5.1317 ||
+timer: 0.1539 sec.
+iter 79080 || Loss: 5.7705 ||
+timer: 0.1583 sec.
+iter 79090 || Loss: 5.8934 ||
+timer: 0.1550 sec.
+iter 79100 || Loss: 5.4168 ||
+timer: 0.1547 sec.
+iter 79110 || Loss: 5.6308 ||
+timer: 0.1539 sec.
+iter 79120 || Loss: 5.4868 ||
+timer: 0.1615 sec.
+iter 79130 || Loss: 5.4560 ||
+timer: 0.1538 sec.
+iter 79140 || Loss: 4.9482 ||
+timer: 0.1523 sec.
+iter 79150 || Loss: 4.4301 ||
+timer: 0.1528 sec.
+iter 79160 || Loss: 4.9678 ||
+timer: 0.1550 sec.
+iter 79170 || Loss: 6.1169 ||
+timer: 0.1540 sec.
+iter 79180 || Loss: 5.4202 ||
+timer: 0.1532 sec.
+iter 79190 || Loss: 4.9094 ||
+timer: 0.1583 sec.
+iter 79200 || Loss: 6.0905 ||
+timer: 0.1518 sec.
+iter 79210 || Loss: 4.7645 ||
+timer: 0.1541 sec.
+iter 79220 || Loss: 5.1620 ||
+timer: 0.1517 sec.
+iter 79230 || Loss: 5.3593 ||
+timer: 0.1548 sec.
+iter 79240 || Loss: 5.6491 ||
+timer: 0.1540 sec.
+iter 79250 || Loss: 6.1297 ||
+timer: 0.1538 sec.
+iter 79260 || Loss: 6.1152 ||
+timer: 0.1537 sec.
+iter 79270 || Loss: 4.5928 ||
+timer: 0.1531 sec.
+iter 79280 || Loss: 5.7894 ||
+timer: 0.1521 sec.
+iter 79290 || Loss: 6.1723 ||
+timer: 0.1582 sec.
+iter 79300 || Loss: 6.3024 ||
+timer: 0.1532 sec.
+iter 79310 || Loss: 5.0868 ||
+timer: 0.1586 sec.
+iter 79320 || Loss: 5.8121 ||
+timer: 0.1530 sec.
+iter 79330 || Loss: 5.0701 ||
+timer: 0.1532 sec.
+iter 79340 || Loss: 5.5364 ||
+timer: 0.1559 sec.
+iter 79350 || Loss: 5.1836 ||
+timer: 0.1534 sec.
+iter 79360 || Loss: 5.8266 ||
+timer: 0.1537 sec.
+iter 79370 || Loss: 5.4226 ||
+timer: 0.1539 sec.
+iter 79380 || Loss: 5.6690 ||
+timer: 0.1543 sec.
+iter 79390 || Loss: 5.5896 ||
+timer: 0.1531 sec.
+iter 79400 || Loss: 5.0331 ||
+timer: 0.1536 sec.
+iter 79410 || Loss: 5.5889 ||
+timer: 0.1524 sec.
+iter 79420 || Loss: 4.8746 ||
+timer: 0.1585 sec.
+iter 79430 || Loss: 5.9942 ||
+timer: 0.1565 sec.
+iter 79440 || Loss: 5.7610 ||
+timer: 0.1546 sec.
+iter 79450 || Loss: 5.8729 ||
+timer: 0.1523 sec.
+iter 79460 || Loss: 4.9773 ||
+timer: 0.1542 sec.
+iter 79470 || Loss: 5.9219 ||
+timer: 0.1557 sec.
+iter 79480 || Loss: 5.1890 ||
+timer: 0.1530 sec.
+iter 79490 || Loss: 5.0170 ||
+timer: 0.1548 sec.
+iter 79500 || Loss: 5.5898 ||
+timer: 0.1550 sec.
+iter 79510 || Loss: 5.8052 ||
+timer: 0.1697 sec.
+iter 79520 || Loss: 5.2262 ||
+timer: 0.1536 sec.
+iter 79530 || Loss: 5.5040 ||
+timer: 0.1554 sec.
+iter 79540 || Loss: 5.4584 ||
+timer: 0.1535 sec.
+iter 79550 || Loss: 5.4406 ||
+timer: 0.1545 sec.
+iter 79560 || Loss: 5.1772 ||
+timer: 0.1534 sec.
+iter 79570 || Loss: 5.1431 ||
+timer: 0.1537 sec.
+iter 79580 || Loss: 5.1440 ||
+timer: 0.1566 sec.
+iter 79590 || Loss: 5.4430 ||
+timer: 0.1592 sec.
+iter 79600 || Loss: 5.2391 ||
+timer: 0.1558 sec.
+iter 79610 || Loss: 5.4779 ||
+timer: 0.1587 sec.
+iter 79620 || Loss: 4.9335 ||
+timer: 0.1514 sec.
+iter 79630 || Loss: 5.7671 ||
+timer: 0.1534 sec.
+iter 79640 || Loss: 4.7791 ||
+timer: 0.1557 sec.
+iter 79650 || Loss: 6.0446 ||
+timer: 0.1524 sec.
+iter 79660 || Loss: 4.9004 ||
+timer: 0.1541 sec.
+iter 79670 || Loss: 6.1863 ||
+timer: 0.1534 sec.
+iter 79680 || Loss: 5.6045 ||
+timer: 0.1569 sec.
+iter 79690 || Loss: 5.7704 ||
+timer: 0.1526 sec.
+iter 79700 || Loss: 5.6476 ||
+timer: 0.1589 sec.
+iter 79710 || Loss: 5.2123 ||
+timer: 0.1542 sec.
+iter 79720 || Loss: 4.9308 ||
+timer: 0.1532 sec.
+iter 79730 || Loss: 5.1247 ||
+timer: 0.1553 sec.
+iter 79740 || Loss: 4.7744 ||
+timer: 0.1548 sec.
+iter 79750 || Loss: 5.0176 ||
+timer: 0.1545 sec.
+iter 79760 || Loss: 5.1167 ||
+timer: 0.1537 sec.
+iter 79770 || Loss: 5.4960 ||
+timer: 0.1539 sec.
+iter 79780 || Loss: 4.9955 ||
+timer: 0.1539 sec.
+iter 79790 || Loss: 5.2386 ||
+timer: 0.1539 sec.
+iter 79800 || Loss: 5.2270 ||
+timer: 0.1540 sec.
+iter 79810 || Loss: 5.9321 ||
+timer: 0.1580 sec.
+iter 79820 || Loss: 5.7376 ||
+timer: 0.1549 sec.
+iter 79830 || Loss: 5.2272 ||
+timer: 0.1536 sec.
+iter 79840 || Loss: 5.3948 ||
+timer: 0.1551 sec.
+iter 79850 || Loss: 6.2773 ||
+timer: 0.1548 sec.
+iter 79860 || Loss: 5.0997 ||
+timer: 0.1539 sec.
+iter 79870 || Loss: 5.8873 ||
+timer: 0.1536 sec.
+iter 79880 || Loss: 5.6607 ||
+timer: 0.1548 sec.
+iter 79890 || Loss: 5.4403 ||
+timer: 0.1541 sec.
+iter 79900 || Loss: 6.8511 ||
+timer: 0.1528 sec.
+iter 79910 || Loss: 5.2781 ||
+timer: 0.1524 sec.
+iter 79920 || Loss: 5.5358 ||
+timer: 0.1538 sec.
+iter 79930 || Loss: 5.4376 ||
+timer: 0.1550 sec.
+iter 79940 || Loss: 5.3894 ||
+timer: 0.1546 sec.
+iter 79950 || Loss: 6.4303 ||
+timer: 0.1551 sec.
+iter 79960 || Loss: 5.8056 ||
+timer: 0.1512 sec.
+iter 79970 || Loss: 5.6747 ||
+timer: 0.1544 sec.
+iter 79980 || Loss: 5.1832 ||
+timer: 0.1556 sec.
+iter 79990 || Loss: 5.7358 ||
+timer: 0.1534 sec.
+iter 80000 || Loss: 5.5573 ||
+Saving state, iter: 80000
+timer: 0.1541 sec.
+iter 80010 || Loss: 5.4582 ||
+timer: 0.1557 sec.
+iter 80020 || Loss: 5.2485 ||
+timer: 0.1526 sec.
+iter 80030 || Loss: 5.1079 ||
+timer: 0.1563 sec.
+iter 80040 || Loss: 5.3991 ||
+timer: 0.1546 sec.
+iter 80050 || Loss: 5.1297 ||
+timer: 0.1534 sec.
+iter 80060 || Loss: 5.0349 ||
+timer: 0.1561 sec.
+iter 80070 || Loss: 5.2123 ||
+timer: 0.1530 sec.
+iter 80080 || Loss: 5.6369 ||
+timer: 0.1552 sec.
+iter 80090 || Loss: 6.3564 ||
+timer: 0.1556 sec.
+iter 80100 || Loss: 5.8028 ||
+timer: 0.1563 sec.
+iter 80110 || Loss: 5.4913 ||
+timer: 0.1534 sec.
+iter 80120 || Loss: 4.5298 ||
+timer: 0.1551 sec.
+iter 80130 || Loss: 5.4305 ||
+timer: 0.1536 sec.
+iter 80140 || Loss: 5.8057 ||
+timer: 0.1534 sec.
+iter 80150 || Loss: 5.2097 ||
+timer: 0.1526 sec.
+iter 80160 || Loss: 5.5209 ||
+timer: 0.1549 sec.
+iter 80170 || Loss: 5.5177 ||
+timer: 0.1533 sec.
+iter 80180 || Loss: 4.9996 ||
+timer: 0.1538 sec.
+iter 80190 || Loss: 5.1810 ||
+timer: 0.1622 sec.
+iter 80200 || Loss: 5.8762 ||
+timer: 0.1605 sec.
+iter 80210 || Loss: 5.6306 ||
+timer: 0.1534 sec.
+iter 80220 || Loss: 4.8943 ||
+timer: 0.1537 sec.
+iter 80230 || Loss: 5.3537 ||
+timer: 0.1543 sec.
+iter 80240 || Loss: 5.2405 ||
+timer: 0.1528 sec.
+iter 80250 || Loss: 5.4268 ||
+timer: 0.1536 sec.
+iter 80260 || Loss: 4.6033 ||
+timer: 0.1550 sec.
+iter 80270 || Loss: 5.5661 ||
+timer: 0.1535 sec.
+iter 80280 || Loss: 5.8785 ||
+timer: 0.1535 sec.
+iter 80290 || Loss: 5.5118 ||
+timer: 0.1556 sec.
+iter 80300 || Loss: 5.2570 ||
+timer: 0.1535 sec.
+iter 80310 || Loss: 5.8123 ||
+timer: 0.1532 sec.
+iter 80320 || Loss: 4.8886 ||
+timer: 0.1542 sec.
+iter 80330 || Loss: 5.5328 ||
+timer: 0.1552 sec.
+iter 80340 || Loss: 5.5942 ||
+timer: 0.1535 sec.
+iter 80350 || Loss: 5.3940 ||
+timer: 0.1539 sec.
+iter 80360 || Loss: 5.4931 ||
+timer: 0.1611 sec.
+iter 80370 || Loss: 5.7810 ||
+timer: 0.1578 sec.
+iter 80380 || Loss: 4.7135 ||
+timer: 0.1541 sec.
+iter 80390 || Loss: 5.3235 ||
+timer: 0.1626 sec.
+iter 80400 || Loss: 5.5332 ||
+timer: 0.1548 sec.
+iter 80410 || Loss: 5.7558 ||
+timer: 0.1549 sec.
+iter 80420 || Loss: 5.0593 ||
+timer: 0.1565 sec.
+iter 80430 || Loss: 5.6780 ||
+timer: 0.1545 sec.
+iter 80440 || Loss: 5.4118 ||
+timer: 0.1556 sec.
+iter 80450 || Loss: 6.0232 ||
+timer: 0.1549 sec.
+iter 80460 || Loss: 5.5959 ||
+timer: 0.1543 sec.
+iter 80470 || Loss: 5.1620 ||
+timer: 0.1544 sec.
+iter 80480 || Loss: 4.9131 ||
+timer: 0.1527 sec.
+iter 80490 || Loss: 4.7962 ||
+timer: 0.1565 sec.
+iter 80500 || Loss: 6.1107 ||
+timer: 0.1536 sec.
+iter 80510 || Loss: 5.3775 ||
+timer: 0.1530 sec.
+iter 80520 || Loss: 4.8699 ||
+timer: 0.1531 sec.
+iter 80530 || Loss: 5.3595 ||
+timer: 0.1566 sec.
+iter 80540 || Loss: 5.8212 ||
+timer: 0.1526 sec.
+iter 80550 || Loss: 4.6736 ||
+timer: 0.1537 sec.
+iter 80560 || Loss: 5.2697 ||
+timer: 0.1558 sec.
+iter 80570 || Loss: 5.3597 ||
+timer: 0.1536 sec.
+iter 80580 || Loss: 5.6439 ||
+timer: 0.1547 sec.
+iter 80590 || Loss: 5.2452 ||
+timer: 0.1559 sec.
+iter 80600 || Loss: 5.9234 ||
+timer: 0.1535 sec.
+iter 80610 || Loss: 5.1672 ||
+timer: 0.1542 sec.
+iter 80620 || Loss: 5.5633 ||
+timer: 0.1552 sec.
+iter 80630 || Loss: 5.3762 ||
+timer: 0.1524 sec.
+iter 80640 || Loss: 5.8912 ||
+timer: 0.1606 sec.
+iter 80650 || Loss: 5.0070 ||
+timer: 0.1549 sec.
+iter 80660 || Loss: 5.2821 ||
+timer: 0.1545 sec.
+iter 80670 || Loss: 5.4223 ||
+timer: 0.1540 sec.
+iter 80680 || Loss: 5.1607 ||
+timer: 0.1531 sec.
+iter 80690 || Loss: 5.4938 ||
+timer: 0.1540 sec.
+iter 80700 || Loss: 5.1162 ||
+timer: 0.1526 sec.
+iter 80710 || Loss: 5.8499 ||
+timer: 0.1531 sec.
+iter 80720 || Loss: 5.3194 ||
+timer: 0.1546 sec.
+iter 80730 || Loss: 4.8845 ||
+timer: 0.1526 sec.
+iter 80740 || Loss: 5.4813 ||
+timer: 0.1530 sec.
+iter 80750 || Loss: 4.6578 ||
+timer: 0.1539 sec.
+iter 80760 || Loss: 5.7614 ||
+timer: 0.1606 sec.
+iter 80770 || Loss: 6.1400 ||
+timer: 0.1554 sec.
+iter 80780 || Loss: 6.3661 ||
+timer: 0.1541 sec.
+iter 80790 || Loss: 5.8366 ||
+timer: 0.1538 sec.
+iter 80800 || Loss: 4.8972 ||
+timer: 0.1547 sec.
+iter 80810 || Loss: 4.9841 ||
+timer: 0.1529 sec.
+iter 80820 || Loss: 5.2180 ||
+timer: 0.1526 sec.
+iter 80830 || Loss: 5.4792 ||
+timer: 0.1546 sec.
+iter 80840 || Loss: 5.7151 ||
+timer: 0.1532 sec.
+iter 80850 || Loss: 6.0817 ||
+timer: 0.1566 sec.
+iter 80860 || Loss: 6.0038 ||
+timer: 0.1633 sec.
+iter 80870 || Loss: 5.0448 ||
+timer: 0.1525 sec.
+iter 80880 || Loss: 4.7050 ||
+timer: 0.1548 sec.
+iter 80890 || Loss: 5.7172 ||
+timer: 0.1568 sec.
+iter 80900 || Loss: 4.6211 ||
+timer: 0.1543 sec.
+iter 80910 || Loss: 5.1263 ||
+timer: 0.1549 sec.
+iter 80920 || Loss: 5.3569 ||
+timer: 0.1518 sec.
+iter 80930 || Loss: 4.4496 ||
+timer: 0.1556 sec.
+iter 80940 || Loss: 6.2543 ||
+timer: 0.1525 sec.
+iter 80950 || Loss: 4.9623 ||
+timer: 0.1544 sec.
+iter 80960 || Loss: 5.2216 ||
+timer: 0.1539 sec.
+iter 80970 || Loss: 5.1958 ||
+timer: 0.1549 sec.
+iter 80980 || Loss: 5.6426 ||
+timer: 0.1551 sec.
+iter 80990 || Loss: 5.2197 ||
+timer: 0.1613 sec.
+iter 81000 || Loss: 4.7642 ||
+timer: 0.1531 sec.
+iter 81010 || Loss: 5.1140 ||
+timer: 0.1539 sec.
+iter 81020 || Loss: 5.9665 ||
+timer: 0.1554 sec.
+iter 81030 || Loss: 4.7380 ||
+timer: 0.1590 sec.
+iter 81040 || Loss: 5.2968 ||
+timer: 0.1518 sec.
+iter 81050 || Loss: 5.5664 ||
+timer: 0.1543 sec.
+iter 81060 || Loss: 5.8189 ||
+timer: 0.1540 sec.
+iter 81070 || Loss: 4.8189 ||
+timer: 0.1525 sec.
+iter 81080 || Loss: 5.4351 ||
+timer: 0.1650 sec.
+iter 81090 || Loss: 6.2471 ||
+timer: 0.1528 sec.
+iter 81100 || Loss: 5.2528 ||
+timer: 0.1562 sec.
+iter 81110 || Loss: 5.3695 ||
+timer: 0.1514 sec.
+iter 81120 || Loss: 5.4583 ||
+timer: 0.1552 sec.
+iter 81130 || Loss: 5.3854 ||
+timer: 0.1530 sec.
+iter 81140 || Loss: 5.3646 ||
+timer: 0.1538 sec.
+iter 81150 || Loss: 5.9683 ||
+timer: 0.1551 sec.
+iter 81160 || Loss: 5.2197 ||
+timer: 0.1525 sec.
+iter 81170 || Loss: 5.0989 ||
+timer: 0.1536 sec.
+iter 81180 || Loss: 5.3555 ||
+timer: 0.1546 sec.
+iter 81190 || Loss: 5.8311 ||
+timer: 0.1546 sec.
+iter 81200 || Loss: 5.4363 ||
+timer: 0.1548 sec.
+iter 81210 || Loss: 4.9692 ||
+timer: 0.1540 sec.
+iter 81220 || Loss: 6.5099 ||
+timer: 0.1547 sec.
+iter 81230 || Loss: 6.0988 ||
+timer: 0.1610 sec.
+iter 81240 || Loss: 5.1032 ||
+timer: 0.1536 sec.
+iter 81250 || Loss: 4.9003 ||
+timer: 0.1535 sec.
+iter 81260 || Loss: 4.7581 ||
+timer: 0.1518 sec.
+iter 81270 || Loss: 5.0445 ||
+timer: 0.1543 sec.
+iter 81280 || Loss: 5.3566 ||
+timer: 0.1553 sec.
+iter 81290 || Loss: 5.3206 ||
+timer: 0.1529 sec.
+iter 81300 || Loss: 4.5781 ||
+timer: 0.1551 sec.
+iter 81310 || Loss: 6.2685 ||
+timer: 0.1538 sec.
+iter 81320 || Loss: 5.6535 ||
+timer: 0.1540 sec.
+iter 81330 || Loss: 5.1922 ||
+timer: 0.1554 sec.
+iter 81340 || Loss: 6.9202 ||
+timer: 0.1545 sec.
+iter 81350 || Loss: 6.1163 ||
+timer: 0.1534 sec.
+iter 81360 || Loss: 5.8811 ||
+timer: 0.1541 sec.
+iter 81370 || Loss: 4.8661 ||
+timer: 0.1539 sec.
+iter 81380 || Loss: 5.4533 ||
+timer: 0.1541 sec.
+iter 81390 || Loss: 4.6425 ||
+timer: 0.1624 sec.
+iter 81400 || Loss: 5.6421 ||
+timer: 0.1533 sec.
+iter 81410 || Loss: 5.0301 ||
+timer: 0.1541 sec.
+iter 81420 || Loss: 5.6719 ||
+timer: 0.1565 sec.
+iter 81430 || Loss: 4.7209 ||
+timer: 0.1534 sec.
+iter 81440 || Loss: 5.4632 ||
+timer: 0.1621 sec.
+iter 81450 || Loss: 5.8295 ||
+timer: 0.1528 sec.
+iter 81460 || Loss: 6.3000 ||
+timer: 0.1546 sec.
+iter 81470 || Loss: 6.0307 ||
+timer: 0.1546 sec.
+iter 81480 || Loss: 5.3535 ||
+timer: 0.1537 sec.
+iter 81490 || Loss: 6.0941 ||
+timer: 0.1568 sec.
+iter 81500 || Loss: 5.2931 ||
+timer: 0.1592 sec.
+iter 81510 || Loss: 5.4041 ||
+timer: 0.1532 sec.
+iter 81520 || Loss: 5.1785 ||
+timer: 0.1531 sec.
+iter 81530 || Loss: 5.3484 ||
+timer: 0.1530 sec.
+iter 81540 || Loss: 5.1863 ||
+timer: 0.1545 sec.
+iter 81550 || Loss: 5.0298 ||
+timer: 0.1528 sec.
+iter 81560 || Loss: 4.9689 ||
+timer: 0.1538 sec.
+iter 81570 || Loss: 4.6044 ||
+timer: 0.1521 sec.
+iter 81580 || Loss: 4.9005 ||
+timer: 0.1531 sec.
+iter 81590 || Loss: 5.3514 ||
+timer: 0.1532 sec.
+iter 81600 || Loss: 5.0694 ||
+timer: 0.1519 sec.
+iter 81610 || Loss: 5.9764 ||
+timer: 0.1539 sec.
+iter 81620 || Loss: 5.2300 ||
+timer: 0.1547 sec.
+iter 81630 || Loss: 5.7253 ||
+timer: 0.1527 sec.
+iter 81640 || Loss: 4.8999 ||
+timer: 0.1533 sec.
+iter 81650 || Loss: 5.6509 ||
+timer: 0.1547 sec.
+iter 81660 || Loss: 5.5570 ||
+timer: 0.1560 sec.
+iter 81670 || Loss: 5.4584 ||
+timer: 0.1541 sec.
+iter 81680 || Loss: 6.1136 ||
+timer: 0.1524 sec.
+iter 81690 || Loss: 5.9777 ||
+timer: 0.1553 sec.
+iter 81700 || Loss: 5.3226 ||
+timer: 0.1529 sec.
+iter 81710 || Loss: 5.6169 ||
+timer: 0.1529 sec.
+iter 81720 || Loss: 5.5248 ||
+timer: 0.1532 sec.
+iter 81730 || Loss: 5.3541 ||
+timer: 0.1542 sec.
+iter 81740 || Loss: 5.0996 ||
+timer: 0.1551 sec.
+iter 81750 || Loss: 5.9529 ||
+timer: 0.1546 sec.
+iter 81760 || Loss: 5.7960 ||
+timer: 0.1546 sec.
+iter 81770 || Loss: 5.2541 ||
+timer: 0.1545 sec.
+iter 81780 || Loss: 5.9271 ||
+timer: 0.1531 sec.
+iter 81790 || Loss: 5.8230 ||
+timer: 0.1520 sec.
+iter 81800 || Loss: 5.7841 ||
+timer: 0.1519 sec.
+iter 81810 || Loss: 5.1285 ||
+timer: 0.1600 sec.
+iter 81820 || Loss: 6.2291 ||
+timer: 0.1528 sec.
+iter 81830 || Loss: 5.3759 ||
+timer: 0.1523 sec.
+iter 81840 || Loss: 4.9070 ||
+timer: 0.1561 sec.
+iter 81850 || Loss: 5.2992 ||
+timer: 0.1573 sec.
+iter 81860 || Loss: 6.0292 ||
+timer: 0.1528 sec.
+iter 81870 || Loss: 4.5726 ||
+timer: 0.1546 sec.
+iter 81880 || Loss: 4.9753 ||
+timer: 0.1576 sec.
+iter 81890 || Loss: 5.6152 ||
+timer: 0.1538 sec.
+iter 81900 || Loss: 5.2647 ||
+timer: 0.1554 sec.
+iter 81910 || Loss: 5.1516 ||
+timer: 0.1536 sec.
+iter 81920 || Loss: 5.7202 ||
+timer: 0.1542 sec.
+iter 81930 || Loss: 5.0901 ||
+timer: 0.1546 sec.
+iter 81940 || Loss: 5.8417 ||
+timer: 0.1530 sec.
+iter 81950 || Loss: 4.9119 ||
+timer: 0.1523 sec.
+iter 81960 || Loss: 6.0087 ||
+timer: 0.1528 sec.
+iter 81970 || Loss: 5.3069 ||
+timer: 0.1550 sec.
+iter 81980 || Loss: 5.2028 ||
+timer: 0.1544 sec.
+iter 81990 || Loss: 5.4089 ||
+timer: 0.1527 sec.
+iter 82000 || Loss: 4.9234 ||
+timer: 0.1528 sec.
+iter 82010 || Loss: 5.4435 ||
+timer: 0.1559 sec.
+iter 82020 || Loss: 5.2870 ||
+timer: 0.1532 sec.
+iter 82030 || Loss: 5.0094 ||
+timer: 0.1543 sec.
+iter 82040 || Loss: 5.1352 ||
+timer: 0.1548 sec.
+iter 82050 || Loss: 5.3295 ||
+timer: 0.1540 sec.
+iter 82060 || Loss: 5.3119 ||
+timer: 0.1527 sec.
+iter 82070 || Loss: 5.4895 ||
+timer: 0.1547 sec.
+iter 82080 || Loss: 5.3359 ||
+timer: 0.1543 sec.
+iter 82090 || Loss: 5.8387 ||
+timer: 0.1530 sec.
+iter 82100 || Loss: 5.0498 ||
+timer: 0.1542 sec.
+iter 82110 || Loss: 5.1348 ||
+timer: 0.1523 sec.
+iter 82120 || Loss: 4.9647 ||
+timer: 0.1517 sec.
+iter 82130 || Loss: 5.6629 ||
+timer: 0.1521 sec.
+iter 82140 || Loss: 4.8112 ||
+timer: 0.1562 sec.
+iter 82150 || Loss: 5.4494 ||
+timer: 0.1555 sec.
+iter 82160 || Loss: 5.6418 ||
+timer: 0.1545 sec.
+iter 82170 || Loss: 5.3939 ||
+timer: 0.1520 sec.
+iter 82180 || Loss: 5.3835 ||
+timer: 0.1675 sec.
+iter 82190 || Loss: 4.8707 ||
+timer: 0.1541 sec.
+iter 82200 || Loss: 5.7861 ||
+timer: 0.1524 sec.
+iter 82210 || Loss: 4.8890 ||
+timer: 0.1555 sec.
+iter 82220 || Loss: 5.8847 ||
+timer: 0.1553 sec.
+iter 82230 || Loss: 5.6184 ||
+timer: 0.1567 sec.
+iter 82240 || Loss: 5.9956 ||
+timer: 0.1550 sec.
+iter 82250 || Loss: 6.5082 ||
+timer: 0.1519 sec.
+iter 82260 || Loss: 4.6280 ||
+timer: 0.1521 sec.
+iter 82270 || Loss: 5.3788 ||
+timer: 0.1571 sec.
+iter 82280 || Loss: 5.4615 ||
+timer: 0.1569 sec.
+iter 82290 || Loss: 5.1475 ||
+timer: 0.1512 sec.
+iter 82300 || Loss: 5.0763 ||
+timer: 0.1535 sec.
+iter 82310 || Loss: 5.6024 ||
+timer: 0.1569 sec.
+iter 82320 || Loss: 5.5269 ||
+timer: 0.1675 sec.
+iter 82330 || Loss: 6.4374 ||
+timer: 0.1550 sec.
+iter 82340 || Loss: 5.4208 ||
+timer: 0.1546 sec.
+iter 82350 || Loss: 5.9906 ||
+timer: 0.1543 sec.
+iter 82360 || Loss: 5.0988 ||
+timer: 0.1540 sec.
+iter 82370 || Loss: 5.4023 ||
+timer: 0.1535 sec.
+iter 82380 || Loss: 5.1091 ||
+timer: 0.1529 sec.
+iter 82390 || Loss: 5.6328 ||
+timer: 0.1559 sec.
+iter 82400 || Loss: 5.5844 ||
+timer: 0.1545 sec.
+iter 82410 || Loss: 5.5096 ||
+timer: 0.1542 sec.
+iter 82420 || Loss: 6.4192 ||
+timer: 0.1584 sec.
+iter 82430 || Loss: 5.4769 ||
+timer: 0.1554 sec.
+iter 82440 || Loss: 4.6495 ||
+timer: 0.1551 sec.
+iter 82450 || Loss: 5.1517 ||
+timer: 0.1534 sec.
+iter 82460 || Loss: 5.4637 ||
+timer: 0.1519 sec.
+iter 82470 || Loss: 5.6005 ||
+timer: 0.1536 sec.
+iter 82480 || Loss: 4.6734 ||
+timer: 0.1548 sec.
+iter 82490 || Loss: 5.8511 ||
+timer: 0.1539 sec.
+iter 82500 || Loss: 5.4132 ||
+timer: 0.1565 sec.
+iter 82510 || Loss: 5.4045 ||
+timer: 0.1528 sec.
+iter 82520 || Loss: 4.3362 ||
+timer: 0.1560 sec.
+iter 82530 || Loss: 5.0091 ||
+timer: 0.1538 sec.
+iter 82540 || Loss: 5.2138 ||
+timer: 0.1534 sec.
+iter 82550 || Loss: 4.7278 ||
+timer: 0.1540 sec.
+iter 82560 || Loss: 5.1058 ||
+timer: 0.1562 sec.
+iter 82570 || Loss: 5.6861 ||
+timer: 0.1534 sec.
+iter 82580 || Loss: 5.3703 ||
+timer: 0.1545 sec.
+iter 82590 || Loss: 5.4402 ||
+timer: 0.1539 sec.
+iter 82600 || Loss: 5.8591 ||
+timer: 0.1540 sec.
+iter 82610 || Loss: 5.6624 ||
+timer: 0.1609 sec.
+iter 82620 || Loss: 5.9213 ||
+timer: 0.1578 sec.
+iter 82630 || Loss: 4.6383 ||
+timer: 0.1545 sec.
+iter 82640 || Loss: 5.1759 ||
+timer: 0.1556 sec.
+iter 82650 || Loss: 5.2486 ||
+timer: 0.1529 sec.
+iter 82660 || Loss: 5.0946 ||
+timer: 0.1535 sec.
+iter 82670 || Loss: 5.4121 ||
+timer: 0.1521 sec.
+iter 82680 || Loss: 5.8904 ||
+timer: 0.1527 sec.
+iter 82690 || Loss: 5.1079 ||
+timer: 0.1528 sec.
+iter 82700 || Loss: 5.1785 ||
+timer: 0.1539 sec.
+iter 82710 || Loss: 5.3316 ||
+timer: 0.1574 sec.
+iter 82720 || Loss: 5.8592 ||
+timer: 0.1560 sec.
+iter 82730 || Loss: 5.6041 ||
+timer: 0.1548 sec.
+iter 82740 || Loss: 5.5827 ||
+timer: 0.1584 sec.
+iter 82750 || Loss: 5.4846 ||
+timer: 0.1701 sec.
+iter 82760 || Loss: 5.9772 ||
+timer: 0.1547 sec.
+iter 82770 || Loss: 6.4111 ||
+timer: 0.1534 sec.
+iter 82780 || Loss: 5.7232 ||
+timer: 0.1532 sec.
+iter 82790 || Loss: 5.1105 ||
+timer: 0.1548 sec.
+iter 82800 || Loss: 5.2104 ||
+timer: 0.1549 sec.
+iter 82810 || Loss: 5.9592 ||
+timer: 0.1534 sec.
+iter 82820 || Loss: 5.2222 ||
+timer: 0.1535 sec.
+iter 82830 || Loss: 6.0713 ||
+timer: 0.1537 sec.
+iter 82840 || Loss: 5.3358 ||
+timer: 0.1549 sec.
+iter 82850 || Loss: 5.8681 ||
+timer: 0.1555 sec.
+iter 82860 || Loss: 5.5649 ||
+timer: 0.1518 sec.
+iter 82870 || Loss: 5.5968 ||
+timer: 0.1560 sec.
+iter 82880 || Loss: 5.7039 ||
+timer: 0.1547 sec.
+iter 82890 || Loss: 6.2756 ||
+timer: 0.1534 sec.
+iter 82900 || Loss: 4.8112 ||
+timer: 0.1541 sec.
+iter 82910 || Loss: 5.3192 ||
+timer: 0.1543 sec.
+iter 82920 || Loss: 5.7269 ||
+timer: 0.1560 sec.
+iter 82930 || Loss: 5.5201 ||
+timer: 0.1547 sec.
+iter 82940 || Loss: 4.8083 ||
+timer: 0.1528 sec.
+iter 82950 || Loss: 5.6988 ||
+timer: 0.1542 sec.
+iter 82960 || Loss: 5.4159 ||
+timer: 0.1575 sec.
+iter 82970 || Loss: 6.5129 ||
+timer: 0.1555 sec.
+iter 82980 || Loss: 5.3220 ||
+timer: 0.1530 sec.
+iter 82990 || Loss: 5.5708 ||
+timer: 0.1534 sec.
+iter 83000 || Loss: 5.1177 ||
+timer: 0.1558 sec.
+iter 83010 || Loss: 6.1252 ||
+timer: 0.1569 sec.
+iter 83020 || Loss: 5.3664 ||
+timer: 0.1565 sec.
+iter 83030 || Loss: 5.7428 ||
+timer: 0.1600 sec.
+iter 83040 || Loss: 4.9218 ||
+timer: 0.1552 sec.
+iter 83050 || Loss: 5.5467 ||
+timer: 0.1551 sec.
+iter 83060 || Loss: 5.5429 ||
+timer: 0.1545 sec.
+iter 83070 || Loss: 5.5026 ||
+timer: 0.1542 sec.
+iter 83080 || Loss: 5.2686 ||
+timer: 0.1547 sec.
+iter 83090 || Loss: 5.7176 ||
+timer: 0.1605 sec.
+iter 83100 || Loss: 5.3636 ||
+timer: 0.1603 sec.
+iter 83110 || Loss: 5.9755 ||
+timer: 0.1539 sec.
+iter 83120 || Loss: 4.9961 ||
+timer: 0.1559 sec.
+iter 83130 || Loss: 4.6755 ||
+timer: 0.1530 sec.
+iter 83140 || Loss: 5.8217 ||
+timer: 0.1556 sec.
+iter 83150 || Loss: 6.5515 ||
+timer: 0.1531 sec.
+iter 83160 || Loss: 4.8591 ||
+timer: 0.1570 sec.
+iter 83170 || Loss: 4.7662 ||
+timer: 0.1539 sec.
+iter 83180 || Loss: 5.9145 ||
+timer: 0.1544 sec.
+iter 83190 || Loss: 5.4412 ||
+timer: 0.1527 sec.
+iter 83200 || Loss: 5.8832 ||
+timer: 0.1511 sec.
+iter 83210 || Loss: 4.8789 ||
+timer: 0.1541 sec.
+iter 83220 || Loss: 5.2112 ||
+timer: 0.1545 sec.
+iter 83230 || Loss: 5.2280 ||
+timer: 0.1583 sec.
+iter 83240 || Loss: 4.8146 ||
+timer: 0.1528 sec.
+iter 83250 || Loss: 5.1694 ||
+timer: 0.1529 sec.
+iter 83260 || Loss: 5.5682 ||
+timer: 0.1613 sec.
+iter 83270 || Loss: 5.0090 ||
+timer: 0.1550 sec.
+iter 83280 || Loss: 5.5753 ||
+timer: 0.1537 sec.
+iter 83290 || Loss: 6.0229 ||
+timer: 0.1542 sec.
+iter 83300 || Loss: 5.8008 ||
+timer: 0.1559 sec.
+iter 83310 || Loss: 5.7257 ||
+timer: 0.1534 sec.
+iter 83320 || Loss: 5.7682 ||
+timer: 0.1526 sec.
+iter 83330 || Loss: 4.5931 ||
+timer: 0.1534 sec.
+iter 83340 || Loss: 5.3264 ||
+timer: 0.1554 sec.
+iter 83350 || Loss: 6.4580 ||
+timer: 0.1555 sec.
+iter 83360 || Loss: 5.3681 ||
+timer: 0.1534 sec.
+iter 83370 || Loss: 5.6863 ||
+timer: 0.1521 sec.
+iter 83380 || Loss: 5.9306 ||
+timer: 0.1531 sec.
+iter 83390 || Loss: 5.2506 ||
+timer: 0.1563 sec.
+iter 83400 || Loss: 4.9272 ||
+timer: 0.1544 sec.
+iter 83410 || Loss: 6.0274 ||
+timer: 0.1540 sec.
+iter 83420 || Loss: 5.2361 ||
+timer: 0.1559 sec.
+iter 83430 || Loss: 5.1191 ||
+timer: 0.1580 sec.
+iter 83440 || Loss: 6.1928 ||
+timer: 0.1524 sec.
+iter 83450 || Loss: 5.4548 ||
+timer: 0.1536 sec.
+iter 83460 || Loss: 5.5263 ||
+timer: 0.1538 sec.
+iter 83470 || Loss: 4.9885 ||
+timer: 0.1525 sec.
+iter 83480 || Loss: 5.5061 ||
+timer: 0.1543 sec.
+iter 83490 || Loss: 5.5529 ||
+timer: 0.1522 sec.
+iter 83500 || Loss: 4.7572 ||
+timer: 0.1539 sec.
+iter 83510 || Loss: 5.9465 ||
+timer: 0.1534 sec.
+iter 83520 || Loss: 5.6204 ||
+timer: 0.1531 sec.
+iter 83530 || Loss: 4.9816 ||
+timer: 0.1540 sec.
+iter 83540 || Loss: 5.6905 ||
+timer: 0.1523 sec.
+iter 83550 || Loss: 5.9634 ||
+timer: 0.1530 sec.
+iter 83560 || Loss: 5.6037 ||
+timer: 0.1550 sec.
+iter 83570 || Loss: 5.8934 ||
+timer: 0.1527 sec.
+iter 83580 || Loss: 5.3232 ||
+timer: 0.1532 sec.
+iter 83590 || Loss: 5.2246 ||
+timer: 0.1575 sec.
+iter 83600 || Loss: 6.2340 ||
+timer: 0.1556 sec.
+iter 83610 || Loss: 5.8613 ||
+timer: 0.1542 sec.
+iter 83620 || Loss: 5.4166 ||
+timer: 0.1538 sec.
+iter 83630 || Loss: 5.2210 ||
+timer: 0.1529 sec.
+iter 83640 || Loss: 5.0395 ||
+timer: 0.1611 sec.
+iter 83650 || Loss: 6.1125 ||
+timer: 0.1533 sec.
+iter 83660 || Loss: 4.9738 ||
+timer: 0.1530 sec.
+iter 83670 || Loss: 4.7041 ||
+timer: 0.1598 sec.
+iter 83680 || Loss: 5.3029 ||
+timer: 0.1541 sec.
+iter 83690 || Loss: 6.1231 ||
+timer: 0.1523 sec.
+iter 83700 || Loss: 4.9389 ||
+timer: 0.1530 sec.
+iter 83710 || Loss: 6.4207 ||
+timer: 0.1541 sec.
+iter 83720 || Loss: 5.4220 ||
+timer: 0.1528 sec.
+iter 83730 || Loss: 5.0920 ||
+timer: 0.1522 sec.
+iter 83740 || Loss: 5.5800 ||
+timer: 0.1537 sec.
+iter 83750 || Loss: 5.8805 ||
+timer: 0.1537 sec.
+iter 83760 || Loss: 5.4094 ||
+timer: 0.1537 sec.
+iter 83770 || Loss: 6.0967 ||
+timer: 0.1559 sec.
+iter 83780 || Loss: 5.0253 ||
+timer: 0.1527 sec.
+iter 83790 || Loss: 4.4713 ||
+timer: 0.1526 sec.
+iter 83800 || Loss: 5.3271 ||
+timer: 0.1529 sec.
+iter 83810 || Loss: 5.1773 ||
+timer: 0.1536 sec.
+iter 83820 || Loss: 6.4373 ||
+timer: 0.1526 sec.
+iter 83830 || Loss: 5.1136 ||
+timer: 0.1578 sec.
+iter 83840 || Loss: 6.5483 ||
+timer: 0.1583 sec.
+iter 83850 || Loss: 4.8689 ||
+timer: 0.1523 sec.
+iter 83860 || Loss: 4.4091 ||
+timer: 0.1533 sec.
+iter 83870 || Loss: 5.0194 ||
+timer: 0.1539 sec.
+iter 83880 || Loss: 6.3767 ||
+timer: 0.1543 sec.
+iter 83890 || Loss: 5.5253 ||
+timer: 0.1536 sec.
+iter 83900 || Loss: 5.3821 ||
+timer: 0.1524 sec.
+iter 83910 || Loss: 4.7438 ||
+timer: 0.1538 sec.
+iter 83920 || Loss: 4.8707 ||
+timer: 0.1532 sec.
+iter 83930 || Loss: 5.1654 ||
+timer: 0.1577 sec.
+iter 83940 || Loss: 6.0196 ||
+timer: 0.1536 sec.
+iter 83950 || Loss: 5.7587 ||
+timer: 0.1536 sec.
+iter 83960 || Loss: 5.2750 ||
+timer: 0.1547 sec.
+iter 83970 || Loss: 6.0637 ||
+timer: 0.1538 sec.
+iter 83980 || Loss: 5.6300 ||
+timer: 0.1531 sec.
+iter 83990 || Loss: 5.4302 ||
+timer: 0.1546 sec.
+iter 84000 || Loss: inf ||
+timer: 0.1548 sec.
+iter 84010 || Loss: 5.2287 ||
+timer: 0.1606 sec.
+iter 84020 || Loss: 5.7384 ||
+timer: 0.1533 sec.
+iter 84030 || Loss: 5.6658 ||
+timer: 0.1536 sec.
+iter 84040 || Loss: 5.3168 ||
+timer: 0.1527 sec.
+iter 84050 || Loss: 5.7826 ||
+timer: 0.1553 sec.
+iter 84060 || Loss: 5.8300 ||
+timer: 0.1533 sec.
+iter 84070 || Loss: 5.3136 ||
+timer: 0.1557 sec.
+iter 84080 || Loss: 6.6762 ||
+timer: 0.1530 sec.
+iter 84090 || Loss: 4.9901 ||
+timer: 0.1541 sec.
+iter 84100 || Loss: 5.3734 ||
+timer: 0.1530 sec.
+iter 84110 || Loss: 5.0917 ||
+timer: 0.1538 sec.
+iter 84120 || Loss: 5.1652 ||
+timer: 0.1534 sec.
+iter 84130 || Loss: 5.5338 ||
+timer: 0.1521 sec.
+iter 84140 || Loss: 5.5523 ||
+timer: 0.1545 sec.
+iter 84150 || Loss: 5.6169 ||
+timer: 0.1536 sec.
+iter 84160 || Loss: 5.0692 ||
+timer: 0.1535 sec.
+iter 84170 || Loss: 4.8045 ||
+timer: 0.1542 sec.
+iter 84180 || Loss: 5.4277 ||
+timer: 0.1525 sec.
+iter 84190 || Loss: 5.5266 ||
+timer: 0.1526 sec.
+iter 84200 || Loss: 5.5845 ||
+timer: 0.1547 sec.
+iter 84210 || Loss: 5.9091 ||
+timer: 0.1547 sec.
+iter 84220 || Loss: 5.6361 ||
+timer: 0.1575 sec.
+iter 84230 || Loss: 5.1094 ||
+timer: 0.1532 sec.
+iter 84240 || Loss: 5.7188 ||
+timer: 0.1538 sec.
+iter 84250 || Loss: 5.3508 ||
+timer: 0.1530 sec.
+iter 84260 || Loss: 4.8808 ||
+timer: 0.1560 sec.
+iter 84270 || Loss: 5.7895 ||
+timer: 0.1551 sec.
+iter 84280 || Loss: 5.4129 ||
+timer: 0.1515 sec.
+iter 84290 || Loss: 5.5029 ||
+timer: 0.1520 sec.
+iter 84300 || Loss: 5.4553 ||
+timer: 0.1536 sec.
+iter 84310 || Loss: 5.5760 ||
+timer: 0.1551 sec.
+iter 84320 || Loss: 5.1659 ||
+timer: 0.1578 sec.
+iter 84330 || Loss: 6.3041 ||
+timer: 0.1531 sec.
+iter 84340 || Loss: 4.9309 ||
+timer: 0.1547 sec.
+iter 84350 || Loss: 6.2177 ||
+timer: 0.1533 sec.
+iter 84360 || Loss: 5.2572 ||
+timer: 0.1552 sec.
+iter 84370 || Loss: 6.1369 ||
+timer: 0.1553 sec.
+iter 84380 || Loss: 5.1995 ||
+timer: 0.1548 sec.
+iter 84390 || Loss: 5.0406 ||
+timer: 0.1533 sec.
+iter 84400 || Loss: 5.4424 ||
+timer: 0.1557 sec.
+iter 84410 || Loss: 6.1946 ||
+timer: 0.1531 sec.
+iter 84420 || Loss: 5.3270 ||
+timer: 0.1578 sec.
+iter 84430 || Loss: 5.2897 ||
+timer: 0.1549 sec.
+iter 84440 || Loss: 4.9549 ||
+timer: 0.1533 sec.
+iter 84450 || Loss: 5.1905 ||
+timer: 0.1542 sec.
+iter 84460 || Loss: 5.5910 ||
+timer: 0.1528 sec.
+iter 84470 || Loss: 5.7320 ||
+timer: 0.1526 sec.
+iter 84480 || Loss: 5.2346 ||
+timer: 0.1539 sec.
+iter 84490 || Loss: 5.9169 ||
+timer: 0.1535 sec.
+iter 84500 || Loss: 5.4271 ||
+timer: 0.1537 sec.
+iter 84510 || Loss: 5.0179 ||
+timer: 0.1518 sec.
+iter 84520 || Loss: 4.8737 ||
+timer: 0.1572 sec.
+iter 84530 || Loss: 6.3128 ||
+timer: 0.1529 sec.
+iter 84540 || Loss: 5.1843 ||
+timer: 0.1557 sec.
+iter 84550 || Loss: 5.8897 ||
+timer: 0.1548 sec.
+iter 84560 || Loss: 5.6815 ||
+timer: 0.1554 sec.
+iter 84570 || Loss: 4.9531 ||
+timer: 0.1549 sec.
+iter 84580 || Loss: 5.0893 ||
+timer: 0.1549 sec.
+iter 84590 || Loss: 5.2540 ||
+timer: 0.1543 sec.
+iter 84600 || Loss: 5.2926 ||
+timer: 0.1526 sec.
+iter 84610 || Loss: 6.0892 ||
+timer: 0.1528 sec.
+iter 84620 || Loss: 5.0439 ||
+timer: 0.1524 sec.
+iter 84630 || Loss: 4.8577 ||
+timer: 0.1619 sec.
+iter 84640 || Loss: 5.1487 ||
+timer: 0.1562 sec.
+iter 84650 || Loss: 6.5651 ||
+timer: 0.1518 sec.
+iter 84660 || Loss: 4.5001 ||
+timer: 0.1539 sec.
+iter 84670 || Loss: 5.5527 ||
+timer: 0.1526 sec.
+iter 84680 || Loss: 5.6254 ||
+timer: 0.1519 sec.
+iter 84690 || Loss: 4.7404 ||
+timer: 0.1553 sec.
+iter 84700 || Loss: 5.4253 ||
+timer: 0.1594 sec.
+iter 84710 || Loss: 5.8639 ||
+timer: 0.1553 sec.
+iter 84720 || Loss: 5.9219 ||
+timer: 0.1553 sec.
+iter 84730 || Loss: 6.8021 ||
+timer: 0.1548 sec.
+iter 84740 || Loss: 5.5359 ||
+timer: 0.1537 sec.
+iter 84750 || Loss: 5.2879 ||
+timer: 0.1596 sec.
+iter 84760 || Loss: 5.7096 ||
+timer: 0.1555 sec.
+iter 84770 || Loss: 5.5921 ||
+timer: 0.1529 sec.
+iter 84780 || Loss: 5.0876 ||
+timer: 0.1545 sec.
+iter 84790 || Loss: 5.2544 ||
+timer: 0.1546 sec.
+iter 84800 || Loss: 5.8260 ||
+timer: 0.1555 sec.
+iter 84810 || Loss: 5.1268 ||
+timer: 0.1597 sec.
+iter 84820 || Loss: 5.7974 ||
+timer: 0.1542 sec.
+iter 84830 || Loss: 4.8062 ||
+timer: 0.1538 sec.
+iter 84840 || Loss: 5.4509 ||
+timer: 0.1538 sec.
+iter 84850 || Loss: 5.6181 ||
+timer: 0.1517 sec.
+iter 84860 || Loss: 5.8232 ||
+timer: 0.1545 sec.
+iter 84870 || Loss: 5.5414 ||
+timer: 0.1532 sec.
+iter 84880 || Loss: 5.4370 ||
+timer: 0.1541 sec.
+iter 84890 || Loss: 5.8015 ||
+timer: 0.1547 sec.
+iter 84900 || Loss: 5.4433 ||
+timer: 0.1525 sec.
+iter 84910 || Loss: 4.8513 ||
+timer: 0.1604 sec.
+iter 84920 || Loss: 6.0805 ||
+timer: 0.1544 sec.
+iter 84930 || Loss: 5.1848 ||
+timer: 0.1527 sec.
+iter 84940 || Loss: 4.9815 ||
+timer: 0.1522 sec.
+iter 84950 || Loss: 4.5342 ||
+timer: 0.1540 sec.
+iter 84960 || Loss: 5.3798 ||
+timer: 0.1545 sec.
+iter 84970 || Loss: 5.6507 ||
+timer: 0.1531 sec.
+iter 84980 || Loss: 5.3455 ||
+timer: 0.1529 sec.
+iter 84990 || Loss: 5.0844 ||
+timer: 0.1605 sec.
+iter 85000 || Loss: 5.0690 ||
+Saving state, iter: 85000
+timer: 0.1549 sec.
+iter 85010 || Loss: 5.4312 ||
+timer: 0.1539 sec.
+iter 85020 || Loss: 5.2910 ||
+timer: 0.1521 sec.
+iter 85030 || Loss: 5.3385 ||
+timer: 0.1539 sec.
+iter 85040 || Loss: 5.8026 ||
+timer: 0.1544 sec.
+iter 85050 || Loss: 5.5384 ||
+timer: 0.1542 sec.
+iter 85060 || Loss: 5.3761 ||
+timer: 0.1558 sec.
+iter 85070 || Loss: 5.5084 ||
+timer: 0.1527 sec.
+iter 85080 || Loss: 5.3739 ||
+timer: 0.1539 sec.
+iter 85090 || Loss: 5.2604 ||
+timer: 0.1607 sec.
+iter 85100 || Loss: 5.1882 ||
+timer: 0.1538 sec.
+iter 85110 || Loss: 5.2811 ||
+timer: 0.1603 sec.
+iter 85120 || Loss: 5.3913 ||
+timer: 0.1526 sec.
+iter 85130 || Loss: 5.2098 ||
+timer: 0.1596 sec.
+iter 85140 || Loss: 4.9165 ||
+timer: 0.1578 sec.
+iter 85150 || Loss: 5.8676 ||
+timer: 0.1545 sec.
+iter 85160 || Loss: 6.1098 ||
+timer: 0.1569 sec.
+iter 85170 || Loss: 5.4717 ||
+timer: 0.1534 sec.
+iter 85180 || Loss: 5.4232 ||
+timer: 0.1585 sec.
+iter 85190 || Loss: 5.5540 ||
+timer: 0.1519 sec.
+iter 85200 || Loss: 5.2107 ||
+timer: 0.1524 sec.
+iter 85210 || Loss: 4.7801 ||
+timer: 0.1546 sec.
+iter 85220 || Loss: 5.1947 ||
+timer: 0.1543 sec.
+iter 85230 || Loss: 5.2367 ||
+timer: 0.1535 sec.
+iter 85240 || Loss: 5.1369 ||
+timer: 0.1605 sec.
+iter 85250 || Loss: 6.3096 ||
+timer: 0.1521 sec.
+iter 85260 || Loss: 5.7366 ||
+timer: 0.1536 sec.
+iter 85270 || Loss: 5.6858 ||
+timer: 0.1538 sec.
+iter 85280 || Loss: 5.5023 ||
+timer: 0.1548 sec.
+iter 85290 || Loss: 5.6728 ||
+timer: 0.1517 sec.
+iter 85300 || Loss: 5.0642 ||
+timer: 0.1537 sec.
+iter 85310 || Loss: 4.7983 ||
+timer: 0.1552 sec.
+iter 85320 || Loss: 5.6880 ||
+timer: 0.1611 sec.
+iter 85330 || Loss: 5.5194 ||
+timer: 0.1541 sec.
+iter 85340 || Loss: 6.4895 ||
+timer: 0.1518 sec.
+iter 85350 || Loss: 5.5750 ||
+timer: 0.1561 sec.
+iter 85360 || Loss: 6.1652 ||
+timer: 0.1572 sec.
+iter 85370 || Loss: 5.8466 ||
+timer: 0.1539 sec.
+iter 85380 || Loss: 5.3563 ||
+timer: 0.1535 sec.
+iter 85390 || Loss: 5.3069 ||
+timer: 0.1538 sec.
+iter 85400 || Loss: 5.9681 ||
+timer: 0.1550 sec.
+iter 85410 || Loss: 5.5860 ||
+timer: 0.1544 sec.
+iter 85420 || Loss: 5.5321 ||
+timer: 0.1527 sec.
+iter 85430 || Loss: 5.3331 ||
+timer: 0.1517 sec.
+iter 85440 || Loss: 5.1751 ||
+timer: 0.1582 sec.
+iter 85450 || Loss: 5.3863 ||
+timer: 0.1552 sec.
+iter 85460 || Loss: 6.6758 ||
+timer: 0.1540 sec.
+iter 85470 || Loss: 5.7724 ||
+timer: 0.1546 sec.
+iter 85480 || Loss: 6.4601 ||
+timer: 0.1558 sec.
+iter 85490 || Loss: 6.2029 ||
+timer: 0.1513 sec.
+iter 85500 || Loss: 4.2173 ||
+timer: 0.1576 sec.
+iter 85510 || Loss: 4.5631 ||
+timer: 0.1515 sec.
+iter 85520 || Loss: 5.2039 ||
+timer: 0.1531 sec.
+iter 85530 || Loss: 5.2517 ||
+timer: 0.1541 sec.
+iter 85540 || Loss: 5.2964 ||
+timer: 0.1527 sec.
+iter 85550 || Loss: 4.9878 ||
+timer: 0.1548 sec.
+iter 85560 || Loss: 5.1531 ||
+timer: 0.1566 sec.
+iter 85570 || Loss: 5.5759 ||
+timer: 0.1549 sec.
+iter 85580 || Loss: 5.7901 ||
+timer: 0.1568 sec.
+iter 85590 || Loss: 5.9330 ||
+timer: 0.1509 sec.
+iter 85600 || Loss: 4.5974 ||
+timer: 0.1550 sec.
+iter 85610 || Loss: 5.7873 ||
+timer: 0.1521 sec.
+iter 85620 || Loss: 5.5957 ||
+timer: 0.1533 sec.
+iter 85630 || Loss: 5.0372 ||
+timer: 0.1530 sec.
+iter 85640 || Loss: 4.9621 ||
+timer: 0.1531 sec.
+iter 85650 || Loss: 4.7538 ||
+timer: 0.1503 sec.
+iter 85660 || Loss: 4.5520 ||
+timer: 0.1542 sec.
+iter 85670 || Loss: 5.6616 ||
+timer: 0.1586 sec.
+iter 85680 || Loss: 6.0226 ||
+timer: 0.1557 sec.
+iter 85690 || Loss: 5.4304 ||
+timer: 0.1541 sec.
+iter 85700 || Loss: 5.0361 ||
+timer: 0.1572 sec.
+iter 85710 || Loss: 5.6651 ||
+timer: 0.1543 sec.
+iter 85720 || Loss: 5.0979 ||
+timer: 0.1551 sec.
+iter 85730 || Loss: 5.2522 ||
+timer: 0.1545 sec.
+iter 85740 || Loss: 5.3435 ||
+timer: 0.1521 sec.
+iter 85750 || Loss: 4.3594 ||
+timer: 0.1542 sec.
+iter 85760 || Loss: 4.9346 ||
+timer: 0.1550 sec.
+iter 85770 || Loss: 5.7996 ||
+timer: 0.1529 sec.
+iter 85780 || Loss: 4.8655 ||
+timer: 0.1527 sec.
+iter 85790 || Loss: 4.5062 ||
+timer: 0.1585 sec.
+iter 85800 || Loss: 5.1440 ||
+timer: 0.1540 sec.
+iter 85810 || Loss: 5.6411 ||
+timer: 0.1551 sec.
+iter 85820 || Loss: 5.7133 ||
+timer: 0.1532 sec.
+iter 85830 || Loss: 4.8331 ||
+timer: 0.1548 sec.
+iter 85840 || Loss: 5.0395 ||
+timer: 0.1519 sec.
+iter 85850 || Loss: 4.3546 ||
+timer: 0.1533 sec.
+iter 85860 || Loss: 4.8402 ||
+timer: 0.1536 sec.
+iter 85870 || Loss: 5.1987 ||
+timer: 0.1631 sec.
+iter 85880 || Loss: 5.8199 ||
+timer: 0.1591 sec.
+iter 85890 || Loss: 5.6089 ||
+timer: 0.1541 sec.
+iter 85900 || Loss: 5.0200 ||
+timer: 0.1552 sec.
+iter 85910 || Loss: 5.4557 ||
+timer: 0.1527 sec.
+iter 85920 || Loss: 4.8320 ||
+timer: 0.1542 sec.
+iter 85930 || Loss: 4.7569 ||
+timer: 0.1542 sec.
+iter 85940 || Loss: 5.1675 ||
+timer: 0.1599 sec.
+iter 85950 || Loss: 4.9467 ||
+timer: 0.1549 sec.
+iter 85960 || Loss: 7.0361 ||
+timer: 0.1561 sec.
+iter 85970 || Loss: 5.9274 ||
+timer: 0.1526 sec.
+iter 85980 || Loss: 5.6271 ||
+timer: 0.1539 sec.
+iter 85990 || Loss: 5.7289 ||
+timer: 0.1520 sec.
+iter 86000 || Loss: 5.4751 ||
+timer: 0.1582 sec.
+iter 86010 || Loss: 5.0920 ||
+timer: 0.1546 sec.
+iter 86020 || Loss: 5.6412 ||
+timer: 0.1598 sec.
+iter 86030 || Loss: 4.7369 ||
+timer: 0.1555 sec.
+iter 86040 || Loss: 5.0907 ||
+timer: 0.1538 sec.
+iter 86050 || Loss: 5.5564 ||
+timer: 0.1550 sec.
+iter 86060 || Loss: 6.0760 ||
+timer: 0.1525 sec.
+iter 86070 || Loss: 6.0467 ||
+timer: 0.1550 sec.
+iter 86080 || Loss: 6.0114 ||
+timer: 0.1531 sec.
+iter 86090 || Loss: 6.0652 ||
+timer: 0.1559 sec.
+iter 86100 || Loss: 5.9699 ||
+timer: 0.1545 sec.
+iter 86110 || Loss: 5.8316 ||
+timer: 0.1550 sec.
+iter 86120 || Loss: 5.1471 ||
+timer: 0.1567 sec.
+iter 86130 || Loss: 5.1189 ||
+timer: 0.1551 sec.
+iter 86140 || Loss: 4.5751 ||
+timer: 0.1549 sec.
+iter 86150 || Loss: 5.1541 ||
+timer: 0.1548 sec.
+iter 86160 || Loss: 5.2074 ||
+timer: 0.1508 sec.
+iter 86170 || Loss: 5.2568 ||
+timer: 0.1550 sec.
+iter 86180 || Loss: 6.3730 ||
+timer: 0.1546 sec.
+iter 86190 || Loss: 5.6531 ||
+timer: 0.1534 sec.
+iter 86200 || Loss: 5.7774 ||
+timer: 0.1613 sec.
+iter 86210 || Loss: 5.5392 ||
+timer: 0.1545 sec.
+iter 86220 || Loss: 5.8352 ||
+timer: 0.1536 sec.
+iter 86230 || Loss: 4.6649 ||
+timer: 0.1549 sec.
+iter 86240 || Loss: 6.1319 ||
+timer: 0.1527 sec.
+iter 86250 || Loss: 6.1857 ||
+timer: 0.1547 sec.
+iter 86260 || Loss: 4.6735 ||
+timer: 0.1528 sec.
+iter 86270 || Loss: 5.3651 ||
+timer: 0.1553 sec.
+iter 86280 || Loss: 5.9652 ||
+timer: 0.1540 sec.
+iter 86290 || Loss: 6.0878 ||
+timer: 0.1522 sec.
+iter 86300 || Loss: 4.6206 ||
+timer: 0.1528 sec.
+iter 86310 || Loss: 5.7693 ||
+timer: 0.1535 sec.
+iter 86320 || Loss: 5.1481 ||
+timer: 0.1515 sec.
+iter 86330 || Loss: 5.6012 ||
+timer: 0.1540 sec.
+iter 86340 || Loss: 5.2192 ||
+timer: 0.1540 sec.
+iter 86350 || Loss: 6.4157 ||
+timer: 0.1533 sec.
+iter 86360 || Loss: 4.9645 ||
+timer: 0.1531 sec.
+iter 86370 || Loss: 5.4350 ||
+timer: 0.1590 sec.
+iter 86380 || Loss: 4.8458 ||
+timer: 0.1538 sec.
+iter 86390 || Loss: 5.5663 ||
+timer: 0.1565 sec.
+iter 86400 || Loss: 5.3486 ||
+timer: 0.1559 sec.
+iter 86410 || Loss: 5.9431 ||
+timer: 0.1533 sec.
+iter 86420 || Loss: 5.2320 ||
+timer: 0.1573 sec.
+iter 86430 || Loss: 5.5256 ||
+timer: 0.1538 sec.
+iter 86440 || Loss: 5.4577 ||
+timer: 0.1539 sec.
+iter 86450 || Loss: 5.8052 ||
+timer: 0.1545 sec.
+iter 86460 || Loss: 5.1480 ||
+timer: 0.1546 sec.
+iter 86470 || Loss: 5.8428 ||
+timer: 0.1565 sec.
+iter 86480 || Loss: 5.6651 ||
+timer: 0.1582 sec.
+iter 86490 || Loss: 5.8671 ||
+timer: 0.1544 sec.
+iter 86500 || Loss: 4.4162 ||
+timer: 0.1553 sec.
+iter 86510 || Loss: 6.6240 ||
+timer: 0.1562 sec.
+iter 86520 || Loss: 5.7048 ||
+timer: 0.1569 sec.
+iter 86530 || Loss: 5.7854 ||
+timer: 0.1591 sec.
+iter 86540 || Loss: 4.9752 ||
+timer: 0.1542 sec.
+iter 86550 || Loss: 5.0818 ||
+timer: 0.1546 sec.
+iter 86560 || Loss: 6.8386 ||
+timer: 0.1526 sec.
+iter 86570 || Loss: 6.2999 ||
+timer: 0.1526 sec.
+iter 86580 || Loss: 4.7550 ||
+timer: 0.1549 sec.
+iter 86590 || Loss: 5.6563 ||
+timer: 0.1546 sec.
+iter 86600 || Loss: 5.2762 ||
+timer: 0.1552 sec.
+iter 86610 || Loss: 5.5000 ||
+timer: 0.1554 sec.
+iter 86620 || Loss: 5.9650 ||
+timer: 0.1535 sec.
+iter 86630 || Loss: 5.6735 ||
+timer: 0.1541 sec.
+iter 86640 || Loss: 4.9155 ||
+timer: 0.1551 sec.
+iter 86650 || Loss: 5.3199 ||
+timer: 0.1575 sec.
+iter 86660 || Loss: 4.5856 ||
+timer: 0.1542 sec.
+iter 86670 || Loss: 5.0635 ||
+timer: 0.1550 sec.
+iter 86680 || Loss: 4.9780 ||
+timer: 0.1535 sec.
+iter 86690 || Loss: 5.3857 ||
+timer: 0.1536 sec.
+iter 86700 || Loss: 5.8077 ||
+timer: 0.1530 sec.
+iter 86710 || Loss: 4.3500 ||
+timer: 0.1538 sec.
+iter 86720 || Loss: 4.4628 ||
+timer: 0.1551 sec.
+iter 86730 || Loss: 4.6774 ||
+timer: 0.1536 sec.
+iter 86740 || Loss: 5.8887 ||
+timer: 0.1541 sec.
+iter 86750 || Loss: 5.2758 ||
+timer: 0.1575 sec.
+iter 86760 || Loss: 6.0248 ||
+timer: 0.1536 sec.
+iter 86770 || Loss: 5.4697 ||
+timer: 0.1533 sec.
+iter 86780 || Loss: 5.3781 ||
+timer: 0.1538 sec.
+iter 86790 || Loss: 5.0926 ||
+timer: 0.1568 sec.
+iter 86800 || Loss: 5.7451 ||
+timer: 0.1544 sec.
+iter 86810 || Loss: 6.9079 ||
+timer: 0.1560 sec.
+iter 86820 || Loss: 6.0297 ||
+timer: 0.1544 sec.
+iter 86830 || Loss: 5.4060 ||
+timer: 0.1539 sec.
+iter 86840 || Loss: 5.4552 ||
+timer: 0.1532 sec.
+iter 86850 || Loss: 4.9582 ||
+timer: 0.1555 sec.
+iter 86860 || Loss: 5.7919 ||
+timer: 0.1548 sec.
+iter 86870 || Loss: 5.0734 ||
+timer: 0.1525 sec.
+iter 86880 || Loss: 5.3554 ||
+timer: 0.1539 sec.
+iter 86890 || Loss: 5.3564 ||
+timer: 0.1543 sec.
+iter 86900 || Loss: 5.2075 ||
+timer: 0.1523 sec.
+iter 86910 || Loss: 4.6854 ||
+timer: 0.1527 sec.
+iter 86920 || Loss: 5.1826 ||
+timer: 0.1556 sec.
+iter 86930 || Loss: 5.1747 ||
+timer: 0.1554 sec.
+iter 86940 || Loss: 6.6077 ||
+timer: 0.1528 sec.
+iter 86950 || Loss: 5.8200 ||
+timer: 0.1565 sec.
+iter 86960 || Loss: 5.2652 ||
+timer: 0.1616 sec.
+iter 86970 || Loss: 4.9749 ||
+timer: 0.1544 sec.
+iter 86980 || Loss: 5.2798 ||
+timer: 0.1548 sec.
+iter 86990 || Loss: 5.9553 ||
+timer: 0.1540 sec.
+iter 87000 || Loss: 5.2978 ||
+timer: 0.1540 sec.
+iter 87010 || Loss: 5.5022 ||
+timer: 0.1552 sec.
+iter 87020 || Loss: 6.6989 ||
+timer: 0.1531 sec.
+iter 87030 || Loss: 5.4441 ||
+timer: 0.1586 sec.
+iter 87040 || Loss: 5.6319 ||
+timer: 0.1550 sec.
+iter 87050 || Loss: 5.8411 ||
+timer: 0.1531 sec.
+iter 87060 || Loss: 4.8234 ||
+timer: 0.1539 sec.
+iter 87070 || Loss: 4.9021 ||
+timer: 0.1523 sec.
+iter 87080 || Loss: 5.8108 ||
+timer: 0.1516 sec.
+iter 87090 || Loss: 4.6004 ||
+timer: 0.1535 sec.
+iter 87100 || Loss: 4.5190 ||
+timer: 0.1532 sec.
+iter 87110 || Loss: 4.2174 ||
+timer: 0.1533 sec.
+iter 87120 || Loss: 5.0704 ||
+timer: 0.1532 sec.
+iter 87130 || Loss: 4.5555 ||
+timer: 0.1521 sec.
+iter 87140 || Loss: 4.8252 ||
+timer: 0.1527 sec.
+iter 87150 || Loss: 4.8504 ||
+timer: 0.1524 sec.
+iter 87160 || Loss: 5.2760 ||
+timer: 0.1525 sec.
+iter 87170 || Loss: 4.8503 ||
+timer: 0.1543 sec.
+iter 87180 || Loss: 5.2308 ||
+timer: 0.1546 sec.
+iter 87190 || Loss: 5.6802 ||
+timer: 0.1529 sec.
+iter 87200 || Loss: 4.8550 ||
+timer: 0.1553 sec.
+iter 87210 || Loss: 5.7138 ||
+timer: 0.1540 sec.
+iter 87220 || Loss: 5.7338 ||
+timer: 0.1534 sec.
+iter 87230 || Loss: 5.6803 ||
+timer: 0.1625 sec.
+iter 87240 || Loss: 5.6031 ||
+timer: 0.1547 sec.
+iter 87250 || Loss: 5.2820 ||
+timer: 0.1557 sec.
+iter 87260 || Loss: 5.4056 ||
+timer: 0.1549 sec.
+iter 87270 || Loss: 6.0968 ||
+timer: 0.1563 sec.
+iter 87280 || Loss: 5.2091 ||
+timer: 0.1549 sec.
+iter 87290 || Loss: 6.8240 ||
+timer: 0.1552 sec.
+iter 87300 || Loss: 4.9643 ||
+timer: 0.1564 sec.
+iter 87310 || Loss: 5.6411 ||
+timer: 0.1529 sec.
+iter 87320 || Loss: 5.6718 ||
+timer: 0.1547 sec.
+iter 87330 || Loss: 5.5794 ||
+timer: 0.1572 sec.
+iter 87340 || Loss: 5.7232 ||
+timer: 0.1524 sec.
+iter 87350 || Loss: 5.2275 ||
+timer: 0.1535 sec.
+iter 87360 || Loss: 5.0247 ||
+timer: 0.1531 sec.
+iter 87370 || Loss: 5.4040 ||
+timer: 0.1535 sec.
+iter 87380 || Loss: 5.7244 ||
+timer: 0.1518 sec.
+iter 87390 || Loss: 4.5954 ||
+timer: 0.1526 sec.
+iter 87400 || Loss: 5.3833 ||
+timer: 0.1583 sec.
+iter 87410 || Loss: 5.5799 ||
+timer: 0.1526 sec.
+iter 87420 || Loss: 6.0265 ||
+timer: 0.1543 sec.
+iter 87430 || Loss: 6.0915 ||
+timer: 0.1593 sec.
+iter 87440 || Loss: 5.5099 ||
+timer: 0.1528 sec.
+iter 87450 || Loss: 5.7794 ||
+timer: 0.1538 sec.
+iter 87460 || Loss: 6.3657 ||
+timer: 0.1536 sec.
+iter 87470 || Loss: 5.0670 ||
+timer: 0.1521 sec.
+iter 87480 || Loss: 5.0009 ||
+timer: 0.1532 sec.
+iter 87490 || Loss: 5.5871 ||
+timer: 0.1526 sec.
+iter 87500 || Loss: 4.9491 ||
+timer: 0.1547 sec.
+iter 87510 || Loss: 5.4851 ||
+timer: 0.1535 sec.
+iter 87520 || Loss: 5.0667 ||
+timer: 0.1553 sec.
+iter 87530 || Loss: 5.4963 ||
+timer: 0.1547 sec.
+iter 87540 || Loss: 5.1334 ||
+timer: 0.1524 sec.
+iter 87550 || Loss: 4.8388 ||
+timer: 0.1581 sec.
+iter 87560 || Loss: 5.4148 ||
+timer: 0.1540 sec.
+iter 87570 || Loss: 4.8769 ||
+timer: 0.1555 sec.
+iter 87580 || Loss: 5.2410 ||
+timer: 0.1520 sec.
+iter 87590 || Loss: 4.7926 ||
+timer: 0.1547 sec.
+iter 87600 || Loss: 5.1498 ||
+timer: 0.1525 sec.
+iter 87610 || Loss: 5.1651 ||
+timer: 0.1549 sec.
+iter 87620 || Loss: 5.9901 ||
+timer: 0.1535 sec.
+iter 87630 || Loss: 4.9090 ||
+timer: 0.1554 sec.
+iter 87640 || Loss: 5.2917 ||
+timer: 0.1526 sec.
+iter 87650 || Loss: 4.9036 ||
+timer: 0.1547 sec.
+iter 87660 || Loss: 5.5616 ||
+timer: 0.1532 sec.
+iter 87670 || Loss: 4.7647 ||
+timer: 0.1565 sec.
+iter 87680 || Loss: 5.9266 ||
+timer: 0.1528 sec.
+iter 87690 || Loss: 5.8524 ||
+timer: 0.1550 sec.
+iter 87700 || Loss: 6.0519 ||
+timer: 0.1540 sec.
+iter 87710 || Loss: 5.5478 ||
+timer: 0.1527 sec.
+iter 87720 || Loss: 4.7569 ||
+timer: 0.1541 sec.
+iter 87730 || Loss: 5.9399 ||
+timer: 0.1578 sec.
+iter 87740 || Loss: 5.8932 ||
+timer: 0.1555 sec.
+iter 87750 || Loss: 6.1850 ||
+timer: 0.1576 sec.
+iter 87760 || Loss: 4.9211 ||
+timer: 0.1547 sec.
+iter 87770 || Loss: 5.6802 ||
+timer: 0.1561 sec.
+iter 87780 || Loss: 6.3017 ||
+timer: 0.1543 sec.
+iter 87790 || Loss: 5.1832 ||
+timer: 0.1550 sec.
+iter 87800 || Loss: 6.0231 ||
+timer: 0.1558 sec.
+iter 87810 || Loss: 5.9374 ||
